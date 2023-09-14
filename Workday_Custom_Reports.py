@@ -227,7 +227,7 @@ def modify_all():
     All_ = data_transformation.transform(All)
     All_['Term_Date'] = All_['Term_Date'].str[0:10]
     All_['Hire_Date'] = All_['Hire_Date'].str[0:10]
-#     All_ = All_.loc[All_['Title'].str.contains('Teacher')]
+#     All_ = All_.loc[All_['Title'].str.contains(''Teacher'')]
     All_.reset_index(drop = True, inplace = True)
     return(All_)
 
