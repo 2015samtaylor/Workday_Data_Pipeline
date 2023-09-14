@@ -737,7 +737,7 @@ WB = pd.concat([WB_CA, WB_TN, WB_TX]).reset_index(drop = True)
 # piv = WB.groupby(['Company'])[['Attendance Days', 'Total Membership']].sum()
 # piv['Attendance %'] = piv['Attendance Days'] / piv['Total Membership']
 
-
+print(WB)
 # ------------------------------------------------------------------send to 89 server--------------------------------------
 
 quoted = urllib.parse.quote_plus("Driver={SQL Server Native Client 11.0};"
