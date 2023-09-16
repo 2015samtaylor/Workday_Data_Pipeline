@@ -1,7 +1,7 @@
 ### What is this repository for? ###
 
 * Python script interacts with custom reports set up on Workday - Worker Time Off, Leave of Absence, All Roster, & Terminations in order to calculate Average Daily Attendance. 
-* The script is set to udpate once a week, given the custom reports from Workday update Monday mornings at 10:05. 
+* The script is set to udpate once a week, given the custom reports from Workday update Monday mornings at 10:05 (Ran in a batch file). 
 
 ### How do I get set up? ###
 
