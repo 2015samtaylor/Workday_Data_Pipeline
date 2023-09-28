@@ -221,7 +221,7 @@ class data_transformation:
 
         return(final)
 
-#rr
+
 
 def modify_all():
     All_ = data_transformation.transform(All)
@@ -481,7 +481,7 @@ except AttributeError:
     logging.info('First day of {}-{} School Year has not begun \n-----------------------'.format(fall.year, fall.year + 1))
     
     
-
+#Seperate into regions
 All_CA = All_.loc[All_['Company'] == 'Green Dot Public Schools California']
 All_TN = All_.loc[All_['Company'] == 'Green Dot Public Schools Tennessee']
 All_TX = All_.loc[All_['Company'] == 'Green Dot Public Schools Southeast Texas']
