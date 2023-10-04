@@ -2,6 +2,7 @@ import pandas as pd
 import pyodbc
 import logging
 import datetime
+from transformation_module import data_transformation
 
 
 # ----------------------------------Calendar Class makes SQL query to get calendar, and applies to All Frame--------------
@@ -179,16 +180,18 @@ class Calendar:
                 fall_year_end = datetime.datetime(today_year, 12, 31)
             else:
                 fall_year_end = datetime.datetime(prior_year, 12, 31)
+
+            fall_year = fall_year_end.year
+            spring_year = spring_year_end.year
             
-            return(spring_year_end, fall_year_end)
+            return(spring_year, fall_year)
 
 
     def calendar_process(region_acronym, fall, spring, complete_frame):
-        
+     
         #make an instance of the Calendar Class and establish the regions calendar
         
         if region_acronym  == 'CA':
-            full_name = 'Green Dot Public Schools California'
   
             CA = Calendar('''
             SELECT [SCHOOLID] ,[DATE_VALUE] ,[MEMBERSHIPVALUE] 
@@ -200,7 +203,6 @@ class Calendar:
 
 
         elif region_acronym == 'TN':
-            full_name = 'Green Dot Public Schools Tennessee'
 
             TN = Calendar('''
             SELECT [SCHOOLID] ,[DATE_VALUE] ,[MEMBERSHIPVALUE] 
@@ -212,7 +214,6 @@ class Calendar:
             region_cal = TN.SQL_query()
 
         elif region_acronym == 'TX':
-            full_name = 'Green Dot Public Schools Southeast Texas'
 
             TX=Calendar('''
             SELECT DISTINCT [STUDENT_CAL_DATE] AS DATE_VALUE, [STUDENT_CAL_DATE_TYPE], [STUDENT_CAL_FISCAL_YEAR] 
@@ -224,34 +225,12 @@ class Calendar:
 
             region_cal = TX.SQL_query_TX()
 
-        else:
-            logging.info('Wrong region acronym as argument')
-
-        try:
-            region_first_day = region_cal.loc[region_cal['DATE_VALUE'].dt.month == 8].iloc[0]['DATE_VALUE']
-
-        except AttributeError:
-            logging.info('First day of {}-{} School Year has not begun \n-----------------------'.format(fall.year, fall.year + 1))
-
-        
-        #Seperate into certain region
-        All_region = complete_frame.loc[complete_frame['Company'] == full_name]
-
-        #Zip calendar
-        region_cal_zip = Calendar.calendar_zip(region_cal)
-
-        #Based on calendar start, & end date drop rows where emp has been terminated prior to the school year
-        # IF emp has not been terminated in the current School Year, then the End Date will default to most up to date. 
-        # If an EMP was fired today, it will not register on attendance until the next day. 
-        
-        All_region = Calendar.fix_calendar_starts_ends(All_region, region_cal_zip, region_cal, 'Hire_Date', 'Calendar Start Date', region_first_day)
-        All_region = Calendar.fix_calendar_starts_ends(All_region, region_cal_zip, region_cal, 'Term_Date', 'Calendar End Date', region_first_day)
-
-
-        return(All_region)
-
+        return(region_cal)
     
-# --------------------------------------------create date_filter to dynamically refer YoY---------------------
+
+#probably going to need to move full_name to fixing_start_ends_module
+
+
 
 
 
