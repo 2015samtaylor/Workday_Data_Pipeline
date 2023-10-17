@@ -3,7 +3,7 @@ import pandas as pd
 # -----------------------------------transform XML documents to Pandas DataFrames-----------------------------------
 
 
-class data_transformation:
+class transformation:
     
     def transform(doc):
         output = []
@@ -131,16 +131,18 @@ class data_transformation:
         return(final)
 
     def modify_all(All):
-        All_ = data_transformation.transform(All)
+        All_ = transformation.transform(All)
         All_['Term_Date'] = All_['Term_Date'].str[0:10]
         All_['Hire_Date'] = All_['Hire_Date'].str[0:10]
+        All_['Original_Hire'] = pd.to_datetime(All_['Original_Hire'])
+        All_['Original_Hire'] =  All_['Original_Hire'].dt.date
          #All_ = All_.loc[All_['Title'].str.contains(''Teacher'')]
         All_.reset_index(drop = True, inplace = True)
         return(All_)
 
 
     def modify_LOA(LOA):
-        final = data_transformation.get_LOA(LOA)
+        final = transformation.get_LOA(LOA)
         LOA_ = pd.DataFrame(final, columns = ['Employee ID','Worker','Company','Last Day of Work','First Day','Estimated Last Day','Actual Last Day','Total Days','Units Requested','Unit of Time','Hire Date','Location','Manager','Business Title - Current'])
         # LOA_ = LOA_.loc[LOA_['Business Title - Current'].str.contains('Teacher')]
         LOA_.reset_index(drop = True, inplace = True)
@@ -151,7 +153,7 @@ class data_transformation:
     
 
     def modify_WTO(WTO):
-        final = data_transformation.get_WTO(WTO)
+        final = transformation.get_WTO(WTO)
         WTO_ = pd.DataFrame(final, columns = ['employee count','Worker', 'Worker Status','Employee ID',  'Hire Date', 'Termination Date', 'Job Profile', 'Company', 'Location', 'Time Off Date', 'Time Off Type for Time Off Entry', 'Total Units', 'Sum of Hours'])
         WTO_ = WTO_.drop_duplicates()
         WTO_['Total Units'] = WTO_['Total Units'].astype(float)
