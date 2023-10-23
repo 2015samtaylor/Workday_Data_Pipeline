@@ -4,18 +4,12 @@
 * The script is set to udpate once a week, given the custom reports from Workday update Monday mornings at 10:05 (Ran in a batch file). 
 
 
-### Major obstacles ###
+### Major pipeline obstacles ###
 * No API access, and using a workaround by making a request to Workday files and parsing them coming across as XML files
 * Utilizing multiple Calendars for multiple regions for multiple years
 * Accounting for leaves of absences beginning before the school year and ending during
 * Accounting for leaves of absences beginning during the school year, and ending after
 * Worker Time Off overlapping with Leaves of Absences
-
-
-### Who do I talk to? ###
-
-* Repo owner - Sam Taylor
-* File will run on 10.0.0.124 server Monday mornings at 10:10 AM
 
 ### How do I get set up? ###
 
@@ -75,5 +69,9 @@ To get started with this project, follow the steps below:
    python main.py
    ```
 
+### Who do I talk to? ###
+
+* Repo owner - Sam Taylor
+* File will run on 10.0.0.124 server Monday mornings at 10:10 AM
 
 
