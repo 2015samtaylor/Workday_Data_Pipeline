@@ -73,5 +73,6 @@ To get started with this project, follow the steps below:
 
 * Repo owner - Sam Taylor
 * File will run on 10.0.0.124 server Monday mornings at 10:10 AM
+* REFER TO module_documentation for specifics of each method
 
 

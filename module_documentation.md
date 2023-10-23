@@ -200,3 +200,26 @@ In summary, this class is designed to process WTO data and worker balance (WB) d
 # process
 
 Finally, the process function is called in a for loop, a total of three times (2021-2022, 2022-2023, 2023-2024) for each region ('CA', 'TX', 'TN'), and the results are stored in the CA, TX, and TN variables.
+
+-------------------------------------------
+# accuracy
+
+1. **`create_main_frame(acronym)`:**
+   - This method reads the processed worker balance (WB) data from CSV files for three different calendar years (indicated by suffixes '_WB_2324', '_WB_2223', and '_WB_2122'). It merges the data frames and returns a merged DataFrame.
+
+2. **`accuracy_check_WTO(acronym, id_num)`:**
+   - This method checks the accuracy of WTO (worker time off) days for a specific employee (`id_num`) across different calendar years.
+   - It reads the processed WTO data from CSV files for each calendar year ('_WTO_SY_0', '_WTO_SY_1', '_WTO_SY_2').
+   - It calculates and prints the total WTO days for the employee in each calendar year.
+
+3. **`accuracy_check_LOA(acronym, id_num, region_first_day, region_last_day, LOA_iteration)`:**
+   - This method checks the accuracy of LOA (leave of absence) days for a specific employee (`id_num`) across different calendar years.
+   - It reads the processed LOA data from CSV files for each calendar year ('_LOA_SY_0', '_LOA_SY_1', '_LOA_SY_2').
+   - It calculates and prints the total LOA days for the employee in each calendar year.
+   - The `region_first_day` and `region_last_day` parameters specify the date range for the region's academic year.
+   - The `LOA_iteration` parameter indicates the calendar year iteration (0, 1, or 2) to retrieve the corresponding LOA data.
+
+4. **Examples:**
+   - The examples provided at the end of the class show how to use these accuracy check methods. They demonstrate how to create a main DataFrame for a specific region, check the accuracy of WTO days, and check the accuracy of LOA days for an employee in different calendar years.
+
+These methods are designed to verify the accuracy of processed data by comparing the calculated WTO and LOA days for a specific employee across multiple academic years. This can help ensure that the data processing and modifications are correct and consistent over time.
