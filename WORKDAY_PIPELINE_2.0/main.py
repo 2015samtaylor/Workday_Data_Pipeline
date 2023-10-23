@@ -11,6 +11,7 @@ from calendar_query_module import calendar_query
 from fixing_employee_calendar_module import fixing_employee_calendar
 from leave_of_absence_module import leave_of_absence
 from worker_time_off_module import worker_time_off
+from sending_sql_module import sending_sql
 from accuracy_tests_module import accuracy_tests
 
 warnings.simplefilter("ignore")
@@ -146,3 +147,6 @@ def process(acronym, WTO_, LOA_, All_):
 CA = process('CA', WTO_, LOA_, All_)
 TX = process('TX', WTO_, LOA_, All_)
 TN = process('TN', WTO_, LOA_, All_)
+final = pd.concat([CA, TX, TN]).reset_index(drop = True)
+#This portion takes about 4-5 mins on the send
+sending_sql.send_sql(final)

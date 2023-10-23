@@ -202,6 +202,12 @@ In summary, this class is designed to process WTO data and worker balance (WB) d
 Finally, the process function is called in a for loop, a total of three times (2021-2022, 2022-2023, 2023-2024) for each region ('CA', 'TX', 'TN'), and the results are stored in the CA, TX, and TN variables.
 
 -------------------------------------------
+# sending_sql_module
+
+The sending_sql_module sends a Pandas DataFrame, named "final," to a SQL Server database located at the server IP address "10.0.0.89." It establishes a database connection using SQLAlchemy and the "pyodbc" driver, and it specifies data types for each column to ensure correct data storage. The DataFrame is written to a table named "Workday_Employee_ADA" in the "dbo" schema of the "DataTeamSandbox" database. The process is timed and logged for performance tracking.
+
+--------------------------------------------
+
 # accuracy
 
 1. **`create_main_frame(acronym)`:**
