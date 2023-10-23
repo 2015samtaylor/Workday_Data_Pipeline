@@ -117,6 +117,7 @@ class fixing_employee_calendar:
         region['Term_Date'].replace({pd.NaT: 'Employed'}, inplace=True)
         region['Calendar End Date'] = region['Term_Date'].map(calendar_dict).fillna('Error')
         region.loc[region['Term_Date'] == 'Employed', 'Calendar End Date'] = len(calendar_dict)
+        return(region)
 
 
     #Map the proper Hire Date and Term Date, which inherently influences Calendar Start End Dates.
@@ -146,8 +147,7 @@ class fixing_employee_calendar:
 
                 # Locate Hire_Date
                 faulty_date = row['Hire_Date']
-                logging.info(f"Emp_ID: {row['Emp_ID']} - Error in Calendar Start Date, Hire_Date: {faulty_date} Location: {company}")
-
+            
                 idx = df.index.get_loc(faulty_date, method='nearest')  #get nearest Calendar day based on index of df frame. 
                 ts = df.index[idx]
 

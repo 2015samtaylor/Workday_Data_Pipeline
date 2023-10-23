@@ -1,0 +1,799 @@
+,employee count,Worker,Worker Status,Employee ID,Hire Date,Termination Date,Job Profile,Company,Location,Time Off Date,Time Off Type for Time Off Entry,Total Units,Sum of Hours
+0,4,AC Eddington,Active,93063,2018-07-16-07:00,,ESL Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-08-18,Sick Leave,1.25,104.25
+1,4,AC Eddington,Active,93063,2018-07-16-07:00,,ESL Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-09-14,Sick Leave,1.25,104.25
+2,4,AC Eddington,Active,93063,2018-07-16-07:00,,ESL Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-09-19,Sick Leave,8.0,104.25
+3,4,AC Eddington,Active,93063,2018-07-16-07:00,,ESL Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-09-29,Sick Leave,8.0,104.25
+4,6,Adil El Azraki,Active,94724,2022-07-25-07:00,,ESL Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-09,Sick Leave,1.0,148
+5,6,Adil El Azraki,Active,94724,2022-07-25-07:00,,ESL Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-14,Sick Leave,0.5,148
+6,6,Adil El Azraki,Active,94724,2022-07-25-07:00,,ESL Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-15,Sick Leave,2.25,148
+7,6,Adil El Azraki,Active,94724,2022-07-25-07:00,,ESL Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-24,Sick Leave,2.0,148
+8,6,Adil El Azraki,Active,94724,2022-07-25-07:00,,ESL Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-25,Sick Leave,8.0,148
+9,6,Adil El Azraki,Active,94724,2022-07-25-07:00,,ESL Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-28,Sick Leave,8.0,148
+10,6,Adil El Azraki,Active,94724,2022-07-25-07:00,,ESL Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-29,Sick Leave,8.0,148
+11,6,Adil El Azraki,Active,94724,2022-07-25-07:00,,ESL Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-13,Sick Leave,8.0,148
+12,6,Adil El Azraki,Active,94724,2022-07-25-07:00,,ESL Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-22,Sick Leave,7.0,148
+13,6,Adil El Azraki,Active,94724,2022-07-25-07:00,,ESL Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-10-04,Sick Leave,0.75,148
+14,6,Adil El Azraki,Active,94724,2022-07-25-07:00,,ESL Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-10-05,Sick Leave,1.0,148
+15,6,Adil El Azraki,Active,94724,2022-07-25-07:00,,ESL Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-10-16,Sick Leave,8.0,148
+16,6,Adil El Azraki,Active,94724,2022-07-25-07:00,,ESL Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-10-17,Sick Leave,8.0,148
+17,17,Adrienne Coleman,Active,95096,2023-01-17-08:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-09-29,Sick Leave,8.0,44
+18,30,Alandria Williams,Active,95374,2023-07-27-07:00,,Science Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-08-14,Unpaid Time Off,8.0,8
+19,32,Albertina Herron,Active,92075,2016-01-28-08:00,,Science Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-08,Sick Leave,4.0,213.75
+20,32,Albertina Herron,Active,92075,2016-01-28-08:00,,Science Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-14,Sick Leave,0.5,213.75
+21,32,Albertina Herron,Active,92075,2016-01-28-08:00,,Science Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-17,Sick Leave,8.0,213.75
+22,32,Albertina Herron,Active,92075,2016-01-28-08:00,,Science Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-18,Sick Leave,1.0,213.75
+23,32,Albertina Herron,Active,92075,2016-01-28-08:00,,Science Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-18,Sick Leave,-7.0,213.75
+24,32,Albertina Herron,Active,92075,2016-01-28-08:00,,Science Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-05,Sick Leave,8.0,213.75
+25,32,Albertina Herron,Active,92075,2016-01-28-08:00,,Science Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-11,Sick Leave,8.0,213.75
+26,32,Albertina Herron,Active,92075,2016-01-28-08:00,,Science Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-12,Sick Leave,8.0,213.75
+27,32,Albertina Herron,Active,92075,2016-01-28-08:00,,Science Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-13,Sick Leave,8.0,213.75
+28,32,Albertina Herron,Active,92075,2016-01-28-08:00,,Science Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-14,Sick Leave,8.0,213.75
+29,32,Albertina Herron,Active,92075,2016-01-28-08:00,,Science Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-15,Sick Leave,8.0,213.75
+30,32,Albertina Herron,Active,92075,2016-01-28-08:00,,Science Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-18,Sick Leave,8.0,213.75
+31,41,Alele Ayanru,Active,95411,2023-08-04-07:00,,CTE Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-09-14,Sick Leave,8.0,12
+32,41,Alele Ayanru,Active,95411,2023-08-04-07:00,,CTE Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-10-20,Sick Leave,4.0,12
+33,60,Aliya Cunigan,Active,93997,2021-07-26-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-08-30,Sick Leave,8.0,105.5
+34,60,Aliya Cunigan,Active,93997,2021-07-26-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-09-15,Sick Leave,8.0,105.5
+35,60,Aliya Cunigan,Active,93997,2021-07-26-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-09-22,Sick Leave,0.0,105.5
+36,60,Aliya Cunigan,Active,93997,2021-07-26-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-09-22,Sick Leave,-8.0,105.5
+37,60,Aliya Cunigan,Active,93997,2021-07-26-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-09-22,Unpaid Time Off,0.0,105.5
+38,60,Aliya Cunigan,Active,93997,2021-07-26-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-09-22,Unpaid Time Off,-8.0,105.5
+39,60,Aliya Cunigan,Active,93997,2021-07-26-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-09-22,Sick Leave,8.0,105.5
+40,60,Aliya Cunigan,Active,93997,2021-07-26-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-09-28,Sick Leave,1.5,105.5
+41,78,Amanda Billups-Smith,Active,94837,2022-09-06-07:00,,Counselor (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-09-21,Sick Leave,1.0,6
+42,80,Amanda Gary,Active,2259,2015-11-09-08:00,,Science Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-11,Sick Leave,8.0,265
+43,80,Amanda Gary,Active,2259,2015-11-09-08:00,,Science Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-28,Sick Leave,0.25,265
+44,80,Amanda Gary,Active,2259,2015-11-09-08:00,,Science Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-29,Sick Leave,0.5,265
+45,80,Amanda Gary,Active,2259,2015-11-09-08:00,,Science Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-30,Sick Leave,0.25,265
+46,80,Amanda Gary,Active,2259,2015-11-09-08:00,,Science Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-31,Sick Leave,8.0,265
+47,80,Amanda Gary,Active,2259,2015-11-09-08:00,,Science Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-20,Sick Leave,0.25,265
+48,81,Amanda George,Active,93986,2021-07-16-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-09-15,Sick Leave,8.0,56
+49,81,Amanda George,Active,93986,2021-07-16-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-10-06,Sick Leave,8.0,56
+50,115,Andrea Johnson,Active,95321,2023-07-17-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-30,Sick Leave,8.0,17.5
+51,115,Andrea Johnson,Active,95321,2023-07-17-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-30,Sick Leave,7.0,17.5
+52,115,Andrea Johnson,Active,95321,2023-07-17-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-31,Sick Leave,8.0,17.5
+53,115,Andrea Johnson,Active,95321,2023-07-17-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-13,Sick Leave,1.5,17.5
+54,118,Andrea Porter,Active,92282,2016-07-19-07:00,,Social Studies Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-09-01,Sick Leave,8.0,119.25
+55,120,Andreanna Williams,Active,94826,2022-09-14-07:00,,Assistant Principal (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-07,Sick,0.0,137
+56,120,Andreanna Williams,Active,94826,2022-09-14-07:00,,Assistant Principal (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-07,Sick,-4.0,137
+57,120,Andreanna Williams,Active,94826,2022-09-14-07:00,,Assistant Principal (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-23,Sick,0.0,137
+58,120,Andreanna Williams,Active,94826,2022-09-14-07:00,,Assistant Principal (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-23,Sick,-1.5,137
+59,138,Angela Bates,Active,92881,2017-08-23-07:00,,Assistant Principal (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-28,PTO,8.0,176
+60,138,Angela Bates,Active,92881,2017-08-23-07:00,,Assistant Principal (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-29,PTO,8.0,176
+61,142,Angela Shaw,Active,92245,2016-07-19-07:00,,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-08-21,Sick Leave,8.0,136
+62,142,Angela Shaw,Active,92245,2016-07-19-07:00,,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-08-22,Sick Leave,8.0,136
+63,142,Angela Shaw,Active,92245,2016-07-19-07:00,,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-08-23,Sick Leave,8.0,136
+64,142,Angela Shaw,Active,92245,2016-07-19-07:00,,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-09-13,Sick Leave,4.0,136
+65,149,Angelle Tillman,Active,93917,2021-06-14-07:00,,Operations Manager (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-08-22,PTO,7.0,139
+66,173,Arelene Braddock,Active,95367,2023-07-24-07:00,,ESL Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-08-22,Sick Leave,4.0,20
+67,173,Arelene Braddock,Active,95367,2023-07-24-07:00,,ESL Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-09-13,Sick Leave,8.0,20
+68,173,Arelene Braddock,Active,95367,2023-07-24-07:00,,ESL Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-09-14,Sick Leave,8.0,20
+69,197,Ashley Jones,Active,93095,2018-07-16-07:00,,History Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-09-05,Sick Leave,2.5,115.5
+70,197,Ashley Jones,Active,93095,2018-07-16-07:00,,History Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-09-08,Sick Leave,8.0,115.5
+71,200,Ashley Scudder,Active,95090,2023-01-09-08:00,,Behavior Specialist (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-08-14,Sick,8.0,63
+72,200,Ashley Scudder,Active,95090,2023-01-09-08:00,,Behavior Specialist (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-08-14,Sick,0.5,63
+73,200,Ashley Scudder,Active,95090,2023-01-09-08:00,,Behavior Specialist (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-09-01,PTO,8.0,63
+74,200,Ashley Scudder,Active,95090,2023-01-09-08:00,,Behavior Specialist (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-09-01,PTO,0.5,63
+75,200,Ashley Scudder,Active,95090,2023-01-09-08:00,,Behavior Specialist (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-09-18,Sick,3.5,63
+76,200,Ashley Scudder,Active,95090,2023-01-09-08:00,,Behavior Specialist (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-10-16,PTO,0.0,63
+77,200,Ashley Scudder,Active,95090,2023-01-09-08:00,,Behavior Specialist (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-10-16,PTO,-7.5,63
+78,200,Ashley Scudder,Active,95090,2023-01-09-08:00,,Behavior Specialist (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-10-16,Sick,7.5,63
+79,203,Ashley Turner,Active,95348,2023-07-17-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-10-02,Sick Leave,4.0,4
+80,220,Ayden Olson,Active,93904,2021-05-18-07:00,,IT Manager (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-09-06,PTO,2.0,153
+81,220,Ayden Olson,Active,93904,2021-05-18-07:00,,IT Manager (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-09-13,PTO,4.0,153
+82,220,Ayden Olson,Active,93904,2021-05-18-07:00,,IT Manager (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-09-14,PTO,8.0,153
+83,220,Ayden Olson,Active,93904,2021-05-18-07:00,,IT Manager (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-09-22,PTO,4.0,153
+84,226,Bathsheba Petty,Active,94705,2022-07-18-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-09-12,Sick Leave,8.0,72
+85,226,Bathsheba Petty,Active,94705,2022-07-18-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-09-13,Sick Leave,8.0,72
+86,226,Bathsheba Petty,Active,94705,2022-07-18-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-09-14,Sick Leave,8.0,72
+87,226,Bathsheba Petty,Active,94705,2022-07-18-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-09-15,Sick Leave,8.0,72
+88,234,Bernice Pirtle,Active,95044,2022-11-16-08:00,,Instructional Aide (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-08-25,PTO,8.0,63
+89,234,Bernice Pirtle,Active,95044,2022-11-16-08:00,,Instructional Aide (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-09-11,PTO,2.0,63
+90,234,Bernice Pirtle,Active,95044,2022-11-16-08:00,,Instructional Aide (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-09-13,PTO,1.0,63
+91,234,Bernice Pirtle,Active,95044,2022-11-16-08:00,,Instructional Aide (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-09-22,PTO,1.0,63
+92,236,Beth Stayton,Active,92198,2016-07-01-07:00,,ESL Curriculum Specialist (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-08-28,PTO,4.0,120
+93,236,Beth Stayton,Active,92198,2016-07-01-07:00,,ESL Curriculum Specialist (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-09-20,PTO,8.0,120
+94,252,Brenda Bush,Active,93219,2018-08-22-07:00,,After School Site Coordinator (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-08-11,PTO,3.0,55
+95,252,Brenda Bush,Active,93219,2018-08-22-07:00,,After School Site Coordinator (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-08-14,PTO,1.0,55
+96,252,Brenda Bush,Active,93219,2018-08-22-07:00,,After School Site Coordinator (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-08-18,PTO,1.0,55
+97,252,Brenda Bush,Active,93219,2018-08-22-07:00,,After School Site Coordinator (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-08-31,PTO,1.5,55
+98,252,Brenda Bush,Active,93219,2018-08-22-07:00,,After School Site Coordinator (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-09-07,PTO,3.0,55
+99,252,Brenda Bush,Active,93219,2018-08-22-07:00,,After School Site Coordinator (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-09-08,PTO,3.0,55
+100,252,Brenda Bush,Active,93219,2018-08-22-07:00,,After School Site Coordinator (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-09-19,PTO,3.0,55
+101,252,Brenda Bush,Active,93219,2018-08-22-07:00,,After School Site Coordinator (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-09-21,PTO,2.0,55
+102,252,Brenda Bush,Active,93219,2018-08-22-07:00,,After School Site Coordinator (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-09-22,PTO,2.0,55
+103,252,Brenda Bush,Active,93219,2018-08-22-07:00,,After School Site Coordinator (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-09-26,PTO,2.0,55
+104,252,Brenda Bush,Active,93219,2018-08-22-07:00,,After School Site Coordinator (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-09-27,PTO,2.5,55
+105,252,Brenda Bush,Active,93219,2018-08-22-07:00,,After School Site Coordinator (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-09-28,PTO,2.0,55
+106,262,Breyanna Scott,Active,95397,2023-08-07-07:00,,After School Site Coordinator (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-09-29,PTO,4.0,4
+107,277,Brittany Carter,Active,93386,2019-07-16-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-08-24,Sick Leave,4.0,91.5
+108,277,Brittany Carter,Active,93386,2019-07-16-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-09-11,Sick Leave,8.0,91.5
+109,277,Brittany Carter,Active,93386,2019-07-16-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-10-02,Sick Leave,8.0,91.5
+110,293,Carl Coleman,Active,93336,2019-03-25-07:00,,Physical Education Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-08-09,Sick Leave,8.0,184.5
+111,293,Carl Coleman,Active,93336,2019-03-25-07:00,,Physical Education Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-08-10,Sick Leave,8.0,184.5
+112,293,Carl Coleman,Active,93336,2019-03-25-07:00,,Physical Education Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-08-15,Sick Leave,2.5,184.5
+113,293,Carl Coleman,Active,93336,2019-03-25-07:00,,Physical Education Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-08-21,Sick Leave,8.0,184.5
+114,293,Carl Coleman,Active,93336,2019-03-25-07:00,,Physical Education Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-08-21,Sick Leave,7.0,184.5
+115,293,Carl Coleman,Active,93336,2019-03-25-07:00,,Physical Education Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-08-25,Sick Leave,8.0,184.5
+116,293,Carl Coleman,Active,93336,2019-03-25-07:00,,Physical Education Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-08-25,Sick Leave,7.0,184.5
+117,293,Carl Coleman,Active,93336,2019-03-25-07:00,,Physical Education Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-09-15,Sick Leave,8.0,184.5
+118,293,Carl Coleman,Active,93336,2019-03-25-07:00,,Physical Education Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-09-15,Sick Leave,6.0,184.5
+119,293,Carl Coleman,Active,93336,2019-03-25-07:00,,Physical Education Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-09-18,Sick Leave,8.0,184.5
+120,293,Carl Coleman,Active,93336,2019-03-25-07:00,,Physical Education Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-09-18,Sick Leave,6.0,184.5
+121,293,Carl Coleman,Active,93336,2019-03-25-07:00,,Physical Education Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-10-03,Sick Leave,8.0,184.5
+122,293,Carl Coleman,Active,93336,2019-03-25-07:00,,Physical Education Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-10-03,Sick Leave,7.0,184.5
+123,296,Carla Walls-Key,Active,92243,2016-07-19-07:00,,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-08-21,Sick Leave,8.0,63
+124,296,Carla Walls-Key,Active,92243,2016-07-19-07:00,,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-08-22,Sick Leave,8.0,63
+125,301,Carlos Shaw,Active,95425,2023-08-14-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-09-01,Sick Leave,0.5,1.5
+126,301,Carlos Shaw,Active,95425,2023-08-14-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-09-06,Sick Leave,0.5,1.5
+127,301,Carlos Shaw,Active,95425,2023-08-14-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-09-29,Sick Leave,0.5,1.5
+128,315,Casonya Holland,Active,94684,2022-07-18-07:00,,History Teacher (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-08-11,Bereavement - 3 days or less,1.0,106
+129,315,Casonya Holland,Active,94684,2022-07-18-07:00,,History Teacher (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-08-30,Sick Leave,4.0,106
+130,315,Casonya Holland,Active,94684,2022-07-18-07:00,,History Teacher (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-09-13,Sick Leave,8.0,106
+131,315,Casonya Holland,Active,94684,2022-07-18-07:00,,History Teacher (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-10-19,Sick Leave,8.0,106
+132,315,Casonya Holland,Active,94684,2022-07-18-07:00,,History Teacher (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-10-20,Sick Leave,8.0,106
+133,321,Cecilia Cox,Active,92588,2018-07-25-07:00,2018-05-31-07:00,After-School Program Manager (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-09-18,PTO,8.0,107
+134,321,Cecilia Cox,Active,92588,2018-07-25-07:00,2018-05-31-07:00,After-School Program Manager (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-10-05,PTO,8.0,107
+135,335,Chanelle Daniels,Active,93955,2021-07-16-07:00,,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-22,Sick Leave,2.0,90.5
+136,335,Chanelle Daniels,Active,93955,2021-07-16-07:00,,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-23,Sick Leave,0.0,90.5
+137,335,Chanelle Daniels,Active,93955,2021-07-16-07:00,,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-23,Sick Leave,-2.0,90.5
+138,335,Chanelle Daniels,Active,93955,2021-07-16-07:00,,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-11,Sick Leave,2.5,90.5
+139,335,Chanelle Daniels,Active,93955,2021-07-16-07:00,,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-20,Sick Leave,0.0,90.5
+140,335,Chanelle Daniels,Active,93955,2021-07-16-07:00,,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-20,Sick Leave,-2.0,90.5
+141,335,Chanelle Daniels,Active,93955,2021-07-16-07:00,,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-21,Sick Leave,2.0,90.5
+142,335,Chanelle Daniels,Active,93955,2021-07-16-07:00,,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-10-03,Sick Leave,4.0,90.5
+143,335,Chanelle Daniels,Active,93955,2021-07-16-07:00,,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-10-05,Sick Leave,8.0,90.5
+144,335,Chanelle Daniels,Active,93955,2021-07-16-07:00,,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-10-10,Sick Leave,0.0,90.5
+145,335,Chanelle Daniels,Active,93955,2021-07-16-07:00,,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-10-10,Sick Leave,-4.0,90.5
+146,335,Chanelle Daniels,Active,93955,2021-07-16-07:00,,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-10-19,Sick Leave,1.0,90.5
+147,338,Charity Edwards,Active,95593,2023-09-25-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-10-16,Sick Leave,8.0,24
+148,338,Charity Edwards,Active,95593,2023-09-25-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-10-17,Sick Leave,8.0,24
+149,338,Charity Edwards,Active,95593,2023-09-25-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-10-18,Sick Leave,8.0,24
+150,346,Charmaine Hayslett,Active,95081,2023-01-02-08:00,,Counselor (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-10-06,Sick Leave,3.0,11
+151,364,Christian Thompson,Active,94550,2022-03-23-07:00,,Campus Aide/Security Guard (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-09-29,PTO,8.0,111.5
+152,367,Christina Austin,Active,1765,2014-07-28-07:00,,Chief Academics Officer (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-09-15,PTO,8.0,80
+153,374,Christine Daughrity,Active,95349,2023-07-17-07:00,,Chemistry Teacher (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-08-18,Sick Leave,8.0,66.5
+154,374,Christine Daughrity,Active,95349,2023-07-17-07:00,,Chemistry Teacher (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-08-21,Sick Leave,8.0,66.5
+155,374,Christine Daughrity,Active,95349,2023-07-17-07:00,,Chemistry Teacher (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-09-05,Sick Leave,8.0,66.5
+156,374,Christine Daughrity,Active,95349,2023-07-17-07:00,,Chemistry Teacher (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-09-06,Bereavement - 3 days or less,0.5,66.5
+157,374,Christine Daughrity,Active,95349,2023-07-17-07:00,,Chemistry Teacher (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-09-07,Bereavement - 3 days or less,1.0,66.5
+158,374,Christine Daughrity,Active,95349,2023-07-17-07:00,,Chemistry Teacher (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-09-08,Bereavement - 3 days or less,1.0,66.5
+159,374,Christine Daughrity,Active,95349,2023-07-17-07:00,,Chemistry Teacher (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-09-21,Sick Leave,8.0,66.5
+160,374,Christine Daughrity,Active,95349,2023-07-17-07:00,,Chemistry Teacher (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-10-16,Sick Leave,8.0,66.5
+161,374,Christine Daughrity,Active,95349,2023-07-17-07:00,,Chemistry Teacher (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-10-17,Sick Leave,8.0,66.5
+162,374,Christine Daughrity,Active,95349,2023-07-17-07:00,,Chemistry Teacher (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-10-19,Sick Leave,8.0,66.5
+163,374,Christine Daughrity,Active,95349,2023-07-17-07:00,,Chemistry Teacher (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-10-20,Sick Leave,8.0,66.5
+164,384,Cinnamon Saulsberry (On Leave),On Leave,94809,2022-08-18-07:00,,Instructional Aide (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-08-28,PTO,8.0,86.5
+165,384,Cinnamon Saulsberry (On Leave),On Leave,94809,2022-08-18-07:00,,Instructional Aide (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-08-31,PTO,8.0,86.5
+166,384,Cinnamon Saulsberry (On Leave),On Leave,94809,2022-08-18-07:00,,Instructional Aide (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-09-13,PTO,8.0,86.5
+167,384,Cinnamon Saulsberry (On Leave),On Leave,94809,2022-08-18-07:00,,Instructional Aide (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-09-14,PTO,6.5,86.5
+168,394,Corey Littleton,Active,94808,2022-08-19-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-09-11,Sick Leave,8.0,54.5
+169,394,Corey Littleton,Active,94808,2022-08-19-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-10-20,Sick Leave,8.0,54.5
+170,407,Crystal Johnson,Active,94836,2022-09-06-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-08-11,Sick Leave,8.0,149
+171,407,Crystal Johnson,Active,94836,2022-09-06-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-08-17,Sick Leave,8.0,149
+172,407,Crystal Johnson,Active,94836,2022-09-06-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-09-11,Sick Leave,8.0,149
+173,407,Crystal Johnson,Active,94836,2022-09-06-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-10-06,Sick Leave,8.0,149
+174,430,Damika Pichon,Active,91716,2014-07-01-07:00,,Assistant Principal (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-08-08,PTO,8.0,80
+175,430,Damika Pichon,Active,91716,2014-07-01-07:00,,Assistant Principal (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-08-09,PTO,8.0,80
+176,430,Damika Pichon,Active,91716,2014-07-01-07:00,,Assistant Principal (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-08-10,PTO,8.0,80
+177,430,Damika Pichon,Active,91716,2014-07-01-07:00,,Assistant Principal (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-08-11,PTO,8.0,80
+178,430,Damika Pichon,Active,91716,2014-07-01-07:00,,Assistant Principal (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-08-14,Sick,8.0,80
+179,430,Damika Pichon,Active,91716,2014-07-01-07:00,,Assistant Principal (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-08-15,Sick,8.0,80
+180,432,Damon Wordlaw,Active,93096,2018-07-16-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-25,Sick Leave,2.5,215.75
+181,432,Damon Wordlaw,Active,93096,2018-07-16-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-08,Sick Leave,8.0,215.75
+182,432,Damon Wordlaw,Active,93096,2018-07-16-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-20,Sick Leave,8.0,215.75
+183,432,Damon Wordlaw,Active,93096,2018-07-16-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-28,Sick Leave,8.0,215.75
+184,432,Damon Wordlaw,Active,93096,2018-07-16-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-29,Sick Leave,8.0,215.75
+185,457,Darnell Russell,Active,94649,2022-07-18-07:00,,Campus Aide/Security Guard (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-08-28,PTO,8.0,105
+186,457,Darnell Russell,Active,94649,2022-07-18-07:00,,Campus Aide/Security Guard (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-10-06,PTO,8.0,105
+187,464,Daryl Jones,Active,95565,2023-09-08-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-27,Sick Leave,1.5,21.5
+188,464,Daryl Jones,Active,95565,2023-09-08-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-29,Sick Leave,4.0,21.5
+189,464,Daryl Jones,Active,95565,2023-09-08-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-10-16,Sick Leave,8.0,21.5
+190,464,Daryl Jones,Active,95565,2023-09-08-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-10-17,Sick Leave,8.0,21.5
+191,476,Dawanna Kent,Active,94676,2022-07-18-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-08-21,Sick Leave,8.0,95
+192,476,Dawanna Kent,Active,94676,2022-07-18-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-10-18,Sick Leave,8.0,95
+193,495,Denai Greene,Active,1982,2015-07-23-07:00,,Principal (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-07,Sick,8.0,227.5
+194,495,Denai Greene,Active,1982,2015-07-23-07:00,,Principal (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-08,Sick,8.0,227.5
+195,495,Denai Greene,Active,1982,2015-07-23-07:00,,Principal (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-09,Sick,8.0,227.5
+196,495,Denai Greene,Active,1982,2015-07-23-07:00,,Principal (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-10,Sick,8.0,227.5
+197,495,Denai Greene,Active,1982,2015-07-23-07:00,,Principal (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-11,Sick,8.0,227.5
+198,495,Denai Greene,Active,1982,2015-07-23-07:00,,Principal (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-28,Sick,2.0,227.5
+199,495,Denai Greene,Active,1982,2015-07-23-07:00,,Principal (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-29,Sick,8.0,227.5
+200,495,Denai Greene,Active,1982,2015-07-23-07:00,,Principal (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-06,Bereavement - 3 days or less,1.0,227.5
+201,495,Denai Greene,Active,1982,2015-07-23-07:00,,Principal (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-07,Bereavement - 3 days or less,1.0,227.5
+202,495,Denai Greene,Active,1982,2015-07-23-07:00,,Principal (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-08,Bereavement - 3 days or less,1.0,227.5
+203,503,Derek Coleman,Active,95328,2023-07-17-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-08-09,Unpaid Time Off,2.0,42.25
+204,503,Derek Coleman,Active,95328,2023-07-17-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-08-24,Sick Leave,8.0,42.25
+205,503,Derek Coleman,Active,95328,2023-07-17-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-08-25,Sick Leave,8.0,42.25
+206,503,Derek Coleman,Active,95328,2023-07-17-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-09-07,Unpaid Time Off,1.0,42.25
+207,503,Derek Coleman,Active,95328,2023-07-17-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-09-21,Unpaid Time Off,1.0,42.25
+208,503,Derek Coleman,Active,95328,2023-07-17-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-09-26,Sick Leave,8.0,42.25
+209,503,Derek Coleman,Active,95328,2023-07-17-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-10-05,Sick Leave,1.0,42.25
+210,503,Derek Coleman,Active,95328,2023-07-17-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-10-06,Sick Leave,4.0,42.25
+211,503,Derek Coleman,Active,95328,2023-07-17-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-10-17,Sick Leave,1.0,42.25
+212,503,Derek Coleman,Active,95328,2023-07-17-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-10-20,Sick Leave,8.0,42.25
+213,505,Derrick Acey,Active,92272,2016-07-19-07:00,,Campus Aide/Security Guard (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-09-01,PTO,8.0,112
+214,505,Derrick Acey,Active,92272,2016-07-19-07:00,,Campus Aide/Security Guard (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-09-12,PTO,8.0,112
+215,505,Derrick Acey,Active,92272,2016-07-19-07:00,,Campus Aide/Security Guard (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-09-21,Unpaid,8.0,112
+216,505,Derrick Acey,Active,92272,2016-07-19-07:00,,Campus Aide/Security Guard (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-09-27,PTO,8.0,112
+217,516,Diamon' Thomas,Active,94667,2022-07-18-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-09,Sick Leave,1.0,243.75
+218,516,Diamon' Thomas,Active,94667,2022-07-18-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-15,Sick Leave,1.0,243.75
+219,516,Diamon' Thomas,Active,94667,2022-07-18-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-21,Sick Leave,8.0,243.75
+220,516,Diamon' Thomas,Active,94667,2022-07-18-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-28,Sick Leave,0.25,243.75
+221,516,Diamon' Thomas,Active,94667,2022-07-18-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-30,Sick Leave,0.25,243.75
+222,516,Diamon' Thomas,Active,94667,2022-07-18-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-31,Sick Leave,8.0,243.75
+223,516,Diamon' Thomas,Active,94667,2022-07-18-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-12,Sick Leave,8.0,243.75
+224,516,Diamon' Thomas,Active,94667,2022-07-18-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-28,Sick Leave,8.0,243.75
+225,516,Diamon' Thomas,Active,94667,2022-07-18-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-29,Sick Leave,8.0,243.75
+226,516,Diamon' Thomas,Active,94667,2022-07-18-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-10-02,Sick Leave,8.0,243.75
+227,525,Dieunte Davis,Active,92694,2017-07-17-07:00,,Campus Aide/Security Guard (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-09-11,PTO,4.0,81
+228,525,Dieunte Davis,Active,92694,2017-07-17-07:00,,Campus Aide/Security Guard (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-09-25,PTO,4.0,81
+229,530,Dominique Smith,Active,95500,2023-09-06-07:00,,Social Worker (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-09-19,Sick,8.0,16
+230,530,Dominique Smith,Active,95500,2023-09-06-07:00,,Social Worker (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-10-16,Sick,8.0,16
+231,531,"Donald Emory, Jr.",Active,95406,2023-08-03-07:00,,Physical Education Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-06,Sick Leave,8.0,32
+232,531,"Donald Emory, Jr.",Active,95406,2023-08-03-07:00,,Physical Education Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-27,Sick Leave,8.0,32
+233,531,"Donald Emory, Jr.",Active,95406,2023-08-03-07:00,,Physical Education Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-28,Sick Leave,8.0,32
+234,531,"Donald Emory, Jr.",Active,95406,2023-08-03-07:00,,Physical Education Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-29,Sick Leave,8.0,32
+235,589,Emerald Williams,Active,93972,2021-07-16-07:00,,Science Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-09-20,Sick Leave,4.0,44
+236,594,Emily Jones,Active,93968,2021-07-16-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-08-22,Sick Leave,8.0,153.5
+237,594,Emily Jones,Active,93968,2021-07-16-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-08-23,Sick Leave,8.0,153.5
+238,594,Emily Jones,Active,93968,2021-07-16-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-08-24,Sick Leave,8.0,153.5
+239,594,Emily Jones,Active,93968,2021-07-16-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-08-25,Sick Leave,8.0,153.5
+240,594,Emily Jones,Active,93968,2021-07-16-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-08-29,Sick Leave,6.75,153.5
+241,594,Emily Jones,Active,93968,2021-07-16-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-09-06,Sick Leave,2.5,153.5
+242,594,Emily Jones,Active,93968,2021-07-16-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-09-07,Sick Leave,8.0,153.5
+243,594,Emily Jones,Active,93968,2021-07-16-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-09-25,Sick Leave,8.0,153.5
+244,638,Estella Smith,Active,95366,2023-07-24-07:00,,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-18,Sick Leave,3.0,19
+245,638,Estella Smith,Active,95366,2023-07-24-07:00,,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-25,Sick Leave,8.0,19
+246,638,Estella Smith,Active,95366,2023-07-24-07:00,,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-26,Sick Leave,8.0,19
+247,641,Eunice Blackburn,Active,93337,2019-03-18-07:00,,Instructional Aide (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-15,PTO,8.0,106
+248,641,Eunice Blackburn,Active,93337,2019-03-18-07:00,,Instructional Aide (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-10-19,PTO,0.0,106
+249,641,Eunice Blackburn,Active,93337,2019-03-18-07:00,,Instructional Aide (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-10-19,PTO,-8.0,106
+250,652,Faith Evans,Terminated,95519,2023-09-11-07:00,2023-09-13-07:00,Instructional Aide (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-09-21,Unpaid,8.0,24
+251,652,Faith Evans,Terminated,95519,2023-09-11-07:00,2023-09-13-07:00,Instructional Aide (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-09-22,Unpaid,8.0,24
+252,652,Faith Evans,Terminated,95519,2023-09-11-07:00,2023-09-13-07:00,Instructional Aide (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-09-25,Unpaid,8.0,24
+253,655,Felicia Bullard-Dorsey,Active,93802,2022-07-25-07:00,2021-12-17-08:00,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-08-10,Sick Leave,2.0,45
+254,655,Felicia Bullard-Dorsey,Active,93802,2022-07-25-07:00,2021-12-17-08:00,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-08-30,Sick Leave,8.0,45
+255,655,Felicia Bullard-Dorsey,Active,93802,2022-07-25-07:00,2021-12-17-08:00,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-09-14,Sick Leave,8.0,45
+256,665,Freddy Tims,Active,95511,2023-09-06-07:00,,Instructional Aide (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-20,Sick Leave,8.0,16
+257,665,Freddy Tims,Active,95511,2023-09-06-07:00,,Instructional Aide (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-10-17,PTO,8.0,16
+258,666,Frederick Copeland,Active,93712,2020-07-16-07:00,,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-10-02,Sick Leave,4.0,69
+259,666,Frederick Copeland,Active,93712,2020-07-16-07:00,,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-10-03,Sick Leave,4.0,69
+260,666,Frederick Copeland,Active,93712,2020-07-16-07:00,,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-10-04,Sick Leave,8.0,69
+261,678,Gayla Marable,Active,2195,2017-01-23-08:00,2016-08-31-07:00,English Teacher (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-08-28,Sick Leave,8.0,48
+262,688,Ghiavanna Osibin,Active,93984,2021-07-16-07:00,,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-09,Sick Leave,0.0,135.75
+263,688,Ghiavanna Osibin,Active,93984,2021-07-16-07:00,,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-09,Sick Leave,-1.0,135.75
+264,688,Ghiavanna Osibin,Active,93984,2021-07-16-07:00,,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-09,Unpaid Time Off,1.0,135.75
+265,688,Ghiavanna Osibin,Active,93984,2021-07-16-07:00,,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-10,Sick Leave,3.0,135.75
+266,688,Ghiavanna Osibin,Active,93984,2021-07-16-07:00,,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-28,Unpaid Time Off,0.25,135.75
+267,688,Ghiavanna Osibin,Active,93984,2021-07-16-07:00,,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-07,Sick Leave,1.0,135.75
+268,688,Ghiavanna Osibin,Active,93984,2021-07-16-07:00,,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-08,Sick Leave,8.0,135.75
+269,688,Ghiavanna Osibin,Active,93984,2021-07-16-07:00,,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-08,Sick Leave,7.0,135.75
+270,688,Ghiavanna Osibin,Active,93984,2021-07-16-07:00,,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-12,Sick Leave,1.0,135.75
+271,688,Ghiavanna Osibin,Active,93984,2021-07-16-07:00,,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-18,Sick Leave,8.0,135.75
+272,688,Ghiavanna Osibin,Active,93984,2021-07-16-07:00,,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-18,Sick Leave,-0.5,135.75
+273,688,Ghiavanna Osibin,Active,93984,2021-07-16-07:00,,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-18,Sick Leave,0.5,135.75
+274,688,Ghiavanna Osibin,Active,93984,2021-07-16-07:00,,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-20,Sick Leave,1.0,135.75
+275,688,Ghiavanna Osibin,Active,93984,2021-07-16-07:00,,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-10-02,Sick Leave,2.0,135.75
+276,688,Ghiavanna Osibin,Active,93984,2021-07-16-07:00,,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-10-04,Sick Leave,0.0,135.75
+277,688,Ghiavanna Osibin,Active,93984,2021-07-16-07:00,,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-10-04,Sick Leave,-1.0,135.75
+278,688,Ghiavanna Osibin,Active,93984,2021-07-16-07:00,,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-10-16,Sick Leave,4.5,135.75
+279,688,Ghiavanna Osibin,Active,93984,2021-07-16-07:00,,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-10-19,Sick Leave,1.25,135.75
+280,711,Haley Morton,Active,94401,2022-01-03-08:00,,Talent Manager (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-08-18,PTO,8.0,73
+281,711,Haley Morton,Active,94401,2022-01-03-08:00,,Talent Manager (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-09-21,PTO,4.0,73
+282,711,Haley Morton,Active,94401,2022-01-03-08:00,,Talent Manager (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-09-22,PTO,8.0,73
+283,711,Haley Morton,Active,94401,2022-01-03-08:00,,Talent Manager (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-09-25,PTO,8.0,73
+284,712,Hannah Hogan,Active,93062,2018-07-16-07:00,,History Curriculum Specialist (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-08-21,Sick,8.0,144
+285,712,Hannah Hogan,Active,93062,2018-07-16-07:00,,History Curriculum Specialist (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-08-22,Sick,8.0,144
+286,712,Hannah Hogan,Active,93062,2018-07-16-07:00,,History Curriculum Specialist (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-09-05,PTO,4.0,144
+287,712,Hannah Hogan,Active,93062,2018-07-16-07:00,,History Curriculum Specialist (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-09-20,Sick,8.0,144
+288,712,Hannah Hogan,Active,93062,2018-07-16-07:00,,History Curriculum Specialist (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-10-19,Sick,4.0,144
+289,712,Hannah Hogan,Active,93062,2018-07-16-07:00,,History Curriculum Specialist (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-10-20,PTO,8.0,144
+290,727,Hershel Davis,Active,94674,2022-07-18-07:00,,Physical Education Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-09-11,Sick Leave,8.0,92
+291,727,Hershel Davis,Active,94674,2022-07-18-07:00,,Physical Education Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-10-17,Sick Leave,8.0,92
+292,731,Hillary Nelson,Active,94662,2022-07-18-07:00,,Art Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-10-18,Sick Leave,8.0,44
+293,745,Inca Harvey,Active,92270,2016-07-19-07:00,,Instructional Aide (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-08-11,PTO,1.0,78.5
+294,745,Inca Harvey,Active,92270,2016-07-19-07:00,,Instructional Aide (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-08-18,PTO,1.0,78.5
+295,745,Inca Harvey,Active,92270,2016-07-19-07:00,,Instructional Aide (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-08-25,PTO,2.5,78.5
+296,745,Inca Harvey,Active,92270,2016-07-19-07:00,,Instructional Aide (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-09-14,PTO,2.0,78.5
+297,745,Inca Harvey,Active,92270,2016-07-19-07:00,,Instructional Aide (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-09-22,PTO,1.0,78.5
+298,745,Inca Harvey,Active,92270,2016-07-19-07:00,,Instructional Aide (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-10-04,PTO,8.0,78.5
+299,745,Inca Harvey,Active,92270,2016-07-19-07:00,,Instructional Aide (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-10-06,PTO,0.5,78.5
+300,746,Inga Hurtt,Terminated,94661,2022-07-18-07:00,2023-09-08-07:00,Middle Grades Elective Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-08-16,Sick Leave,8.0,169
+301,746,Inga Hurtt,Terminated,94661,2022-07-18-07:00,2023-09-08-07:00,Middle Grades Elective Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-08-21,Sick Leave,8.0,169
+302,746,Inga Hurtt,Terminated,94661,2022-07-18-07:00,2023-09-08-07:00,Middle Grades Elective Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-08-22,Sick Leave,8.0,169
+303,746,Inga Hurtt,Terminated,94661,2022-07-18-07:00,2023-09-08-07:00,Middle Grades Elective Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-08-22,Sick Leave,4.0,169
+304,746,Inga Hurtt,Terminated,94661,2022-07-18-07:00,2023-09-08-07:00,Middle Grades Elective Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-08-23,Sick Leave,8.0,169
+305,746,Inga Hurtt,Terminated,94661,2022-07-18-07:00,2023-09-08-07:00,Middle Grades Elective Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-08-24,Sick Leave,8.0,169
+306,746,Inga Hurtt,Terminated,94661,2022-07-18-07:00,2023-09-08-07:00,Middle Grades Elective Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-08-25,Sick Leave,8.0,169
+307,746,Inga Hurtt,Terminated,94661,2022-07-18-07:00,2023-09-08-07:00,Middle Grades Elective Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-09-06,Sick Leave,4.0,169
+308,746,Inga Hurtt,Terminated,94661,2022-07-18-07:00,2023-09-08-07:00,Middle Grades Elective Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-09-08,Sick Leave,4.0,169
+309,774,Jaida Deleveaux,Active,94747,2022-08-01-07:00,,ESL Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-08-18,Sick Leave,7.0,106
+310,774,Jaida Deleveaux,Active,94747,2022-08-01-07:00,,ESL Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-08-28,Sick Leave,8.0,106
+311,774,Jaida Deleveaux,Active,94747,2022-08-01-07:00,,ESL Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-08-29,Sick Leave,8.0,106
+312,774,Jaida Deleveaux,Active,94747,2022-08-01-07:00,,ESL Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-08-30,Sick Leave,4.0,106
+313,774,Jaida Deleveaux,Active,94747,2022-08-01-07:00,,ESL Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-09-19,Sick Leave,8.0,106
+314,774,Jaida Deleveaux,Active,94747,2022-08-01-07:00,,ESL Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-09-22,Sick Leave,4.0,106
+315,774,Jaida Deleveaux,Active,94747,2022-08-01-07:00,,ESL Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-10-05,Sick Leave,8.0,106
+316,774,Jaida Deleveaux,Active,94747,2022-08-01-07:00,,ESL Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-10-06,Sick Leave,8.0,106
+317,779,Jake Williams,Terminated,1584,2014-05-01-07:00,2023-09-29-07:00,IT and Facilities Manager (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-08-25,PTO,8.0,240
+318,779,Jake Williams,Terminated,1584,2014-05-01-07:00,2023-09-29-07:00,IT and Facilities Manager (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-09-01,PTO,8.0,240
+319,779,Jake Williams,Terminated,1584,2014-05-01-07:00,2023-09-29-07:00,IT and Facilities Manager (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-09-08,PTO,8.0,240
+320,779,Jake Williams,Terminated,1584,2014-05-01-07:00,2023-09-29-07:00,IT and Facilities Manager (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-09-15,PTO,8.0,240
+321,779,Jake Williams,Terminated,1584,2014-05-01-07:00,2023-09-29-07:00,IT and Facilities Manager (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-10-09,PTO,0.0,240
+322,779,Jake Williams,Terminated,1584,2014-05-01-07:00,2023-09-29-07:00,IT and Facilities Manager (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-10-09,PTO,-8.0,240
+323,779,Jake Williams,Terminated,1584,2014-05-01-07:00,2023-09-29-07:00,IT and Facilities Manager (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-10-10,PTO,0.0,240
+324,779,Jake Williams,Terminated,1584,2014-05-01-07:00,2023-09-29-07:00,IT and Facilities Manager (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-10-10,PTO,-8.0,240
+325,779,Jake Williams,Terminated,1584,2014-05-01-07:00,2023-09-29-07:00,IT and Facilities Manager (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-10-11,PTO,0.0,240
+326,779,Jake Williams,Terminated,1584,2014-05-01-07:00,2023-09-29-07:00,IT and Facilities Manager (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-10-11,PTO,-8.0,240
+327,779,Jake Williams,Terminated,1584,2014-05-01-07:00,2023-09-29-07:00,IT and Facilities Manager (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-10-12,PTO,0.0,240
+328,779,Jake Williams,Terminated,1584,2014-05-01-07:00,2023-09-29-07:00,IT and Facilities Manager (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-10-12,PTO,-8.0,240
+329,779,Jake Williams,Terminated,1584,2014-05-01-07:00,2023-09-29-07:00,IT and Facilities Manager (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-10-13,PTO,0.0,240
+330,779,Jake Williams,Terminated,1584,2014-05-01-07:00,2023-09-29-07:00,IT and Facilities Manager (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-10-13,PTO,-8.0,240
+331,779,Jake Williams,Terminated,1584,2014-05-01-07:00,2023-09-29-07:00,IT and Facilities Manager (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-10-16,PTO,8.0,240
+332,779,Jake Williams,Terminated,1584,2014-05-01-07:00,2023-09-29-07:00,IT and Facilities Manager (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-10-17,PTO,8.0,240
+333,779,Jake Williams,Terminated,1584,2014-05-01-07:00,2023-09-29-07:00,IT and Facilities Manager (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-10-18,PTO,8.0,240
+334,779,Jake Williams,Terminated,1584,2014-05-01-07:00,2023-09-29-07:00,IT and Facilities Manager (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-10-19,PTO,8.0,240
+335,779,Jake Williams,Terminated,1584,2014-05-01-07:00,2023-09-29-07:00,IT and Facilities Manager (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-10-20,PTO,8.0,240
+336,786,James Jackson,Active,94668,2022-07-18-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-09-27,Sick Leave,8.0,44
+337,786,James Jackson,Active,94668,2022-07-18-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-09-28,Sick Leave,8.0,44
+338,788,James Spinks,Active,94115,2021-08-16-07:00,,Campus Aide/Security Guard (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-08-28,PTO,8.0,85
+339,789,Jamesha Whitfield,Active,92148,2022-08-16-07:00,2020-05-29-07:00,Instructional Aide (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-08-25,PTO,6.0,113.08
+340,789,Jamesha Whitfield,Active,92148,2022-08-16-07:00,2020-05-29-07:00,Instructional Aide (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-08-25,Unpaid,2.0,113.08
+341,789,Jamesha Whitfield,Active,92148,2022-08-16-07:00,2020-05-29-07:00,Instructional Aide (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-09-14,PTO,4.0,113.08
+342,789,Jamesha Whitfield,Active,92148,2022-08-16-07:00,2020-05-29-07:00,Instructional Aide (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-09-14,Unpaid,4.0,113.08
+343,789,Jamesha Whitfield,Active,92148,2022-08-16-07:00,2020-05-29-07:00,Instructional Aide (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-09-21,PTO,3.5,113.08
+344,790,Jamie Walker,Active,2109,2015-07-23-07:00,,Physical Education Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-08-17,Sick Leave,8.0,113
+345,790,Jamie Walker,Active,2109,2015-07-23-07:00,,Physical Education Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-09-15,Sick Leave,8.0,113
+346,794,Janet Booker,Active,92296,2016-07-19-07:00,,History Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-08-18,Sick Leave,1.25,38.5
+347,804,Jaques Hamilton,Active,94892,2022-09-26-07:00,,Special Projects Manager (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-09-15,PTO,8.0,48
+348,839,Jennifer Donald,Active,94052,2021-07-26-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-08-16,Sick Leave,4.0,218
+349,839,Jennifer Donald,Active,94052,2021-07-26-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-09-18,Sick Leave,8.0,218
+350,839,Jennifer Donald,Active,94052,2021-07-26-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-09-27,Sick Leave,8.0,218
+351,839,Jennifer Donald,Active,94052,2021-07-26-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-09-28,Sick Leave,8.0,218
+352,839,Jennifer Donald,Active,94052,2021-07-26-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-09-29,Sick Leave,8.0,218
+353,839,Jennifer Donald,Active,94052,2021-07-26-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-10-02,Sick Leave,8.0,218
+354,839,Jennifer Donald,Active,94052,2021-07-26-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-10-19,Sick Leave,8.0,218
+355,839,Jennifer Donald,Active,94052,2021-07-26-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-10-20,Sick Leave,8.0,218
+356,841,Jennifer Green,Active,93963,2021-07-16-07:00,,Spanish Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-08-10,Sick Leave,7.0,95
+357,841,Jennifer Green,Active,93963,2021-07-16-07:00,,Spanish Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-09-08,Sick Leave,8.0,95
+358,853,Jerika Eppel,Active,94186,2021-09-13-07:00,,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-09-11,Sick Leave,8.0,103.5
+359,853,Jerika Eppel,Active,94186,2021-09-13-07:00,,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-10-02,Sick Leave,8.0,103.5
+360,853,Jerika Eppel,Active,94186,2021-09-13-07:00,,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-10-06,Sick Leave,6.0,103.5
+361,854,Jermaine Jordan,Active,92307,2016-07-19-07:00,,Campus Aide/Security Guard (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-09-22,PTO,5.0,93
+362,858,Jesse Allen,Active,94671,2022-07-18-07:00,,Physical Education Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-28,Sick Leave,0.0,55
+363,858,Jesse Allen,Active,94671,2022-07-18-07:00,,Physical Education Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-28,Sick Leave,-0.5,55
+364,858,Jesse Allen,Active,94671,2022-07-18-07:00,,Physical Education Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-10-20,Bereavement - 3 days or less,1.0,55
+365,874,Jessica McGee,Active,95330,2023-07-17-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-17,Sick Leave,8.0,47
+366,874,Jessica McGee,Active,95330,2023-07-17-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-08,Sick Leave,8.0,47
+367,874,Jessica McGee,Active,95330,2023-07-17-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-08,Sick Leave,7.0,47
+368,874,Jessica McGee,Active,95330,2023-07-17-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-18,Sick Leave,8.0,47
+369,874,Jessica McGee,Active,95330,2023-07-17-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-20,Sick Leave,6.0,47
+370,874,Jessica McGee,Active,95330,2023-07-17-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-21,Sick Leave,8.0,47
+371,874,Jessica McGee,Active,95330,2023-07-17-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-22,Sick Leave,7.0,47
+372,874,Jessica McGee,Active,95330,2023-07-17-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-22,Sick Leave,-1.0,47
+373,890,Jim Thomas,Active,92050,2016-01-04-08:00,,Facilities Associate (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-09-01,PTO,8.0,290
+374,890,Jim Thomas,Active,92050,2016-01-04-08:00,,Facilities Associate (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-09-19,PTO,8.0,290
+375,890,Jim Thomas,Active,92050,2016-01-04-08:00,,Facilities Associate (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-09-20,PTO,8.0,290
+376,890,Jim Thomas,Active,92050,2016-01-04-08:00,,Facilities Associate (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-09-21,PTO,8.0,290
+377,890,Jim Thomas,Active,92050,2016-01-04-08:00,,Facilities Associate (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-09-22,PTO,8.0,290
+378,893,Joanie Wright,Active,94663,2022-07-18-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-08-15,Sick Leave,8.0,124.5
+379,893,Joanie Wright,Active,94663,2022-07-18-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-09-14,Sick Leave,8.0,124.5
+380,893,Joanie Wright,Active,94663,2022-07-18-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-09-25,Sick Leave,8.0,124.5
+381,893,Joanie Wright,Active,94663,2022-07-18-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-10-05,Sick Leave,8.0,124.5
+382,893,Joanie Wright,Active,94663,2022-07-18-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-10-06,Sick Leave,8.0,124.5
+383,904,Jockquelene Mitchell,Active,93759,2020-07-16-07:00,,Social Studies Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-05,Sick Leave,7.0,123.75
+384,904,Jockquelene Mitchell,Active,93759,2020-07-16-07:00,,Social Studies Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-08,Sick Leave,7.0,123.75
+385,904,Jockquelene Mitchell,Active,93759,2020-07-16-07:00,,Social Studies Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-08,Sick Leave,-1.0,123.75
+386,904,Jockquelene Mitchell,Active,93759,2020-07-16-07:00,,Social Studies Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-10-03,Sick Leave,2.0,123.75
+387,904,Jockquelene Mitchell,Active,93759,2020-07-16-07:00,,Social Studies Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-10-20,Sick Leave,8.0,123.75
+388,1007,Karen Payne,Active,92271,2016-07-19-07:00,,Director of Community Engagement & Development (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-09-22,PTO,8.0,148
+389,1007,Karen Payne,Active,92271,2016-07-19-07:00,,Director of Community Engagement & Development (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-10-19,PTO,8.0,148
+390,1007,Karen Payne,Active,92271,2016-07-19-07:00,,Director of Community Engagement & Development (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-10-20,PTO,8.0,148
+391,1015,Karintha Shaw,Active,93983,2021-07-23-07:00,,ELA Curriculum Specialist (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-09-21,Sick,4.0,161
+392,1018,Karl Lyman,Active,95016,2022-11-07-08:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-08-23,Sick Leave,8.0,32
+393,1018,Karl Lyman,Active,95016,2022-11-07-08:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-09-01,Sick Leave,8.0,32
+394,1018,Karl Lyman,Active,95016,2022-11-07-08:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-09-14,Sick Leave,8.0,32
+395,1021,Kashier Elliott,Active,94651,2022-07-18-07:00,,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-08-18,Sick Leave,2.5,108
+396,1021,Kashier Elliott,Active,94651,2022-07-18-07:00,,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-08-21,Sick Leave,8.0,108
+397,1021,Kashier Elliott,Active,94651,2022-07-18-07:00,,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-08-22,Sick Leave,8.0,108
+398,1021,Kashier Elliott,Active,94651,2022-07-18-07:00,,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-09-14,Sick Leave,0.0,108
+399,1021,Kashier Elliott,Active,94651,2022-07-18-07:00,,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-09-14,Sick Leave,-8.0,108
+400,1021,Kashier Elliott,Active,94651,2022-07-18-07:00,,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-09-15,Sick Leave,0.0,108
+401,1021,Kashier Elliott,Active,94651,2022-07-18-07:00,,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-09-15,Sick Leave,-8.0,108
+402,1021,Kashier Elliott,Active,94651,2022-07-18-07:00,,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-09-20,Sick Leave,8.0,108
+403,1021,Kashier Elliott,Active,94651,2022-07-18-07:00,,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-09-22,Sick Leave,8.0,108
+404,1037,Kawana Strong,Active,92190,2016-07-05-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-08-15,Sick Leave,1.25,231.5
+405,1037,Kawana Strong,Active,92190,2016-07-05-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-08-25,Sick Leave,8.0,231.5
+406,1037,Kawana Strong,Active,92190,2016-07-05-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-09-01,Sick Leave,5.5,231.5
+407,1037,Kawana Strong,Active,92190,2016-07-05-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-10-05,Sick Leave,4.0,231.5
+408,1051,Kelly Leitz,Active,94757,2022-08-05-07:00,,Physical Education Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-09-01,Sick Leave,8.0,68
+409,1051,Kelly Leitz,Active,94757,2022-08-05-07:00,,Physical Education Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-09-29,Sick Leave,4.0,68
+410,1066,Kerwin Thomas,Active,92241,2016-07-19-07:00,,History Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-08-10,Sick Leave,0.75,66.5
+411,1066,Kerwin Thomas,Active,92241,2016-07-19-07:00,,History Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-09-13,Sick Leave,8.0,66.5
+412,1066,Kerwin Thomas,Active,92241,2016-07-19-07:00,,History Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-10-02,Sick Leave,8.0,66.5
+413,1077,Kierra Savage,Active,94685,2022-07-18-07:00,,Counselor (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-09-27,Sick Leave,8.0,64.75
+414,1077,Kierra Savage,Active,94685,2022-07-18-07:00,,Counselor (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-10-04,Sick Leave,8.0,64.75
+415,1080,Kim Jones,Active,95383,2023-08-07-07:00,,Instructional Aide (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-09-15,PTO,8.0,16
+416,1080,Kim Jones,Active,95383,2023-08-07-07:00,,Instructional Aide (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-10-16,PTO,8.0,16
+417,1085,Kimmie-K. Autry-Peoples,Active,95570,2023-09-11-07:00,,Instructional Aide (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-25,PTO,3.0,11
+418,1085,Kimmie-K. Autry-Peoples,Active,95570,2023-09-11-07:00,,Instructional Aide (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-10-02,Unpaid,8.0,11
+419,1096,Kristen Bowen,Active,93877,2021-04-05-07:00,,Social Worker (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-08-16,Sick,8.0,148
+420,1096,Kristen Bowen,Active,93877,2021-04-05-07:00,,Social Worker (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-08-17,Sick,8.0,148
+421,1096,Kristen Bowen,Active,93877,2021-04-05-07:00,,Social Worker (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-08-21,Sick,8.0,148
+422,1096,Kristen Bowen,Active,93877,2021-04-05-07:00,,Social Worker (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-09-18,Sick,3.0,148
+423,1119,LaKesha Smith,Active,2227,2015-09-24-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-08-24,Bereavement - 3 days or less,1.0,63
+424,1119,LaKesha Smith,Active,2227,2015-09-24-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-08-25,Bereavement - 3 days or less,1.0,63
+425,1119,LaKesha Smith,Active,2227,2015-09-24-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-08-28,Bereavement - 3 days or less,1.0,63
+426,1119,LaKesha Smith,Active,2227,2015-09-24-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-08-29,Sick Leave,4.0,63
+427,1121,Lamaya Sparks,Active,95412,2023-08-07-07:00,,Science Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-08-31,Unpaid Time Off,4.5,77.75
+428,1125,Laquisha Mason,Active,92446,2016-08-22-07:00,,Social Studies Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-22,Sick Leave,8.0,98.5
+429,1125,Laquisha Mason,Active,92446,2016-08-22-07:00,,Social Studies Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-10-02,Sick Leave,8.0,98.5
+430,1131,LaSonya Woods,Active,95505,2023-08-30-07:00,,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-09-28,Sick Leave,7.0,7
+431,1138,LaToya Marshall,Active,94748,2022-08-04-07:00,,Instructional Aide (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-08-11,PTO,7.0,70
+432,1138,LaToya Marshall,Active,94748,2022-08-04-07:00,,Instructional Aide (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-09-05,PTO,8.0,70
+433,1138,LaToya Marshall,Active,94748,2022-08-04-07:00,,Instructional Aide (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-09-25,PTO,1.0,70
+434,1138,LaToya Marshall,Active,94748,2022-08-04-07:00,,Instructional Aide (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-09-29,PTO,8.0,70
+435,1141,Laura Cochran,Active,93976,2021-07-16-07:00,,Art Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-09-27,Sick Leave,8.0,66.5
+436,1142,Laura Coleman,Active,93717,2020-07-16-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-08-29,Sick Leave,8.0,80
+437,1142,Laura Coleman,Active,93717,2020-07-16-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-08-30,Sick Leave,8.0,80
+438,1148,Lauren Edwards,Active,93702,2020-07-16-07:00,,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-09-20,Sick Leave,8.0,8
+439,1167,Leigha Walton-Bayne,Retired,94655,2022-07-18-07:00,2023-09-01-07:00,English Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-08-15,Sick Leave,8.0,176
+440,1167,Leigha Walton-Bayne,Retired,94655,2022-07-18-07:00,2023-09-01-07:00,English Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-08-17,Sick Leave,8.0,176
+441,1167,Leigha Walton-Bayne,Retired,94655,2022-07-18-07:00,2023-09-01-07:00,English Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-08-21,Sick Leave,8.0,176
+442,1167,Leigha Walton-Bayne,Retired,94655,2022-07-18-07:00,2023-09-01-07:00,English Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-08-23,Sick Leave,0.0,176
+443,1167,Leigha Walton-Bayne,Retired,94655,2022-07-18-07:00,2023-09-01-07:00,English Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-08-23,Sick Leave,-8.0,176
+444,1167,Leigha Walton-Bayne,Retired,94655,2022-07-18-07:00,2023-09-01-07:00,English Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-08-24,Sick Leave,0.0,176
+445,1167,Leigha Walton-Bayne,Retired,94655,2022-07-18-07:00,2023-09-01-07:00,English Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-08-24,Sick Leave,-8.0,176
+446,1167,Leigha Walton-Bayne,Retired,94655,2022-07-18-07:00,2023-09-01-07:00,English Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-08-28,Sick Leave,0.0,176
+447,1167,Leigha Walton-Bayne,Retired,94655,2022-07-18-07:00,2023-09-01-07:00,English Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-08-28,Sick Leave,-8.0,176
+448,1167,Leigha Walton-Bayne,Retired,94655,2022-07-18-07:00,2023-09-01-07:00,English Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-08-30,Sick Leave,0.0,176
+449,1167,Leigha Walton-Bayne,Retired,94655,2022-07-18-07:00,2023-09-01-07:00,English Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-08-30,Sick Leave,-8.0,176
+450,1177,Leslie Moore,Active,94444,2022-02-01-08:00,,Middle Grades Elective Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-09,Sick Leave,8.0,182.5
+451,1177,Leslie Moore,Active,94444,2022-02-01-08:00,,Middle Grades Elective Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-14,Sick Leave,8.0,182.5
+452,1177,Leslie Moore,Active,94444,2022-02-01-08:00,,Middle Grades Elective Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-17,Sick Leave,2.5,182.5
+453,1177,Leslie Moore,Active,94444,2022-02-01-08:00,,Middle Grades Elective Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-18,Sick Leave,8.0,182.5
+454,1177,Leslie Moore,Active,94444,2022-02-01-08:00,,Middle Grades Elective Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-21,Sick Leave,8.0,182.5
+455,1177,Leslie Moore,Active,94444,2022-02-01-08:00,,Middle Grades Elective Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-22,Sick Leave,8.0,182.5
+456,1177,Leslie Moore,Active,94444,2022-02-01-08:00,,Middle Grades Elective Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-31,Sick Leave,8.0,182.5
+457,1177,Leslie Moore,Active,94444,2022-02-01-08:00,,Middle Grades Elective Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-14,Sick Leave,8.0,182.5
+458,1177,Leslie Moore,Active,94444,2022-02-01-08:00,,Middle Grades Elective Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-21,Sick Leave,1.0,182.5
+459,1177,Leslie Moore,Active,94444,2022-02-01-08:00,,Middle Grades Elective Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-10-16,Sick Leave,8.0,182.5
+460,1179,Letha Reed,Active,94753,2022-08-03-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-09-20,Sick Leave,8.0,129
+461,1179,Letha Reed,Active,94753,2022-08-03-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-09-21,Sick Leave,8.0,129
+462,1179,Letha Reed,Active,94753,2022-08-03-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-09-22,Sick Leave,8.0,129
+463,1179,Letha Reed,Active,94753,2022-08-03-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-09-25,Sick Leave,3.5,129
+464,1179,Letha Reed,Active,94753,2022-08-03-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-09-29,Sick Leave,8.0,129
+465,1179,Letha Reed,Active,94753,2022-08-03-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-10-20,Sick Leave,8.0,129
+466,1193,Lisa Hoelmer,Terminated,93879,2021-05-03-07:00,2023-09-22-07:00,ESL Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-08-29,Sick Leave,8.0,125.25
+467,1193,Lisa Hoelmer,Terminated,93879,2021-05-03-07:00,2023-09-22-07:00,ESL Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-09-08,Sick Leave,8.0,125.25
+468,1193,Lisa Hoelmer,Terminated,93879,2021-05-03-07:00,2023-09-22-07:00,ESL Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-09-14,Sick Leave,8.0,125.25
+469,1193,Lisa Hoelmer,Terminated,93879,2021-05-03-07:00,2023-09-22-07:00,ESL Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-09-18,Sick Leave,8.0,125.25
+470,1235,Malica Johnson,Active,95308,2023-07-05-07:00,,Assistant Principal (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-09-11,Sick,8.0,16
+471,1235,Malica Johnson,Active,95308,2023-07-05-07:00,,Assistant Principal (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-09-12,Sick,8.0,16
+472,1238,Mandrika Arnett,Active,94729,2022-07-26-07:00,,Biology Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-08-10,Sick Leave,8.0,382
+473,1238,Mandrika Arnett,Active,94729,2022-07-26-07:00,,Biology Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-08-16,Sick Leave,8.0,382
+474,1238,Mandrika Arnett,Active,94729,2022-07-26-07:00,,Biology Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-08-29,Sick Leave,8.0,382
+475,1238,Mandrika Arnett,Active,94729,2022-07-26-07:00,,Biology Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-09-06,Sick Leave,3.0,382
+476,1238,Mandrika Arnett,Active,94729,2022-07-26-07:00,,Biology Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-09-18,Bereavement - 3 days or less,1.0,382
+477,1238,Mandrika Arnett,Active,94729,2022-07-26-07:00,,Biology Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-09-19,Bereavement - 3 days or less,1.0,382
+478,1238,Mandrika Arnett,Active,94729,2022-07-26-07:00,,Biology Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-09-20,Bereavement - 3 days or less,1.0,382
+479,1238,Mandrika Arnett,Active,94729,2022-07-26-07:00,,Biology Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-09-27,Sick Leave,8.0,382
+480,1238,Mandrika Arnett,Active,94729,2022-07-26-07:00,,Biology Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-09-28,Sick Leave,8.0,382
+481,1238,Mandrika Arnett,Active,94729,2022-07-26-07:00,,Biology Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-10-16,Sick Leave,4.0,382
+482,1239,Manika Glasper (On Leave),On Leave,92809,2018-07-25-07:00,2018-05-31-07:00,Student Support Specialist (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-08-10,PTO,8.0,162
+483,1239,Manika Glasper (On Leave),On Leave,92809,2018-07-25-07:00,2018-05-31-07:00,Student Support Specialist (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-08-11,PTO,8.0,162
+484,1239,Manika Glasper (On Leave),On Leave,92809,2018-07-25-07:00,2018-05-31-07:00,Student Support Specialist (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-08-14,PTO,8.0,162
+485,1241,Mantatisi Walker,Active,94185,2021-09-09-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-08-11,Sick Leave,8.0,81
+486,1241,Mantatisi Walker,Active,94185,2021-09-09-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-08-11,Sick Leave,6.5,81
+487,1241,Mantatisi Walker,Active,94185,2021-09-09-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-08-30,Sick Leave,3.0,81
+488,1241,Mantatisi Walker,Active,94185,2021-09-09-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-09-07,Sick Leave,8.0,81
+489,1241,Mantatisi Walker,Active,94185,2021-09-09-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-09-08,Sick Leave,8.0,81
+490,1250,Margeau Eddington,Active,93819,2021-07-16-07:00,2021-06-30-07:00,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-08-15,Sick Leave,4.0,166
+491,1250,Margeau Eddington,Active,93819,2021-07-16-07:00,2021-06-30-07:00,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-09-11,Sick Leave,8.0,166
+492,1250,Margeau Eddington,Active,93819,2021-07-16-07:00,2021-06-30-07:00,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-10-03,Sick Leave,8.0,166
+493,1256,Maria Osborne,Active,94488,2022-02-22-08:00,,Office Coordinator (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-08-11,PTO,8.0,112
+494,1256,Maria Osborne,Active,94488,2022-02-22-08:00,,Office Coordinator (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-08-16,PTO,8.0,112
+495,1256,Maria Osborne,Active,94488,2022-02-22-08:00,,Office Coordinator (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-08-17,PTO,8.0,112
+496,1256,Maria Osborne,Active,94488,2022-02-22-08:00,,Office Coordinator (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-09-12,PTO,6.5,112
+497,1267,Mariana Cruz,Active,95512,2023-09-05-07:00,,Spanish Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-09-25,Sick Leave,8.0,8
+498,1278,Maritza Colunga,Active,95286,2023-06-26-07:00,,Office Coordinator (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-08-21,PTO,8.0,96
+499,1278,Maritza Colunga,Active,95286,2023-06-26-07:00,,Office Coordinator (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-08-22,PTO,8.0,96
+500,1278,Maritza Colunga,Active,95286,2023-06-26-07:00,,Office Coordinator (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-08-23,PTO,8.0,96
+501,1278,Maritza Colunga,Active,95286,2023-06-26-07:00,,Office Coordinator (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-08-24,Unpaid,8.0,96
+502,1278,Maritza Colunga,Active,95286,2023-06-26-07:00,,Office Coordinator (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-08-25,Unpaid,8.0,96
+503,1278,Maritza Colunga,Active,95286,2023-06-26-07:00,,Office Coordinator (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-08-25,Unpaid,0.0,96
+504,1278,Maritza Colunga,Active,95286,2023-06-26-07:00,,Office Coordinator (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-08-25,Unpaid,-8.0,96
+505,1278,Maritza Colunga,Active,95286,2023-06-26-07:00,,Office Coordinator (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-09-13,PTO,6.0,96
+506,1278,Maritza Colunga,Active,95286,2023-06-26-07:00,,Office Coordinator (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-09-13,Unpaid,2.0,96
+507,1278,Maritza Colunga,Active,95286,2023-06-26-07:00,,Office Coordinator (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-09-14,Unpaid,8.0,96
+508,1278,Maritza Colunga,Active,95286,2023-06-26-07:00,,Office Coordinator (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-09-15,Unpaid,8.0,96
+509,1278,Maritza Colunga,Active,95286,2023-06-26-07:00,,Office Coordinator (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-09-26,Unpaid,8.0,96
+510,1278,Maritza Colunga,Active,95286,2023-06-26-07:00,,Office Coordinator (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-10-19,Unpaid,8.0,96
+511,1278,Maritza Colunga,Active,95286,2023-06-26-07:00,,Office Coordinator (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-10-20,Unpaid,8.0,96
+512,1297,Mary Huddleston,Active,95320,2023-07-17-07:00,,History Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-08-25,Sick Leave,8.0,16
+513,1297,Mary Huddleston,Active,95320,2023-07-17-07:00,,History Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-09-15,Sick Leave,8.0,16
+514,1300,Marysa Utley,Active,1994,2015-07-23-07:00,,Chief of Schools (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-10-18,Sick,8.0,40
+515,1312,Maya Wallace,Active,94394,2022-01-03-08:00,,Social Worker (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-09-05,Sick,8.0,139
+516,1312,Maya Wallace,Active,94394,2022-01-03-08:00,,Social Worker (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-09-29,Sick,8.0,139
+517,1312,Maya Wallace,Active,94394,2022-01-03-08:00,,Social Worker (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-10-16,Sick,8.0,139
+518,1318,Meesha Munnings,Active,92242,2016-07-19-07:00,,Assistant Principal (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-10-17,Sick,8.0,184
+519,1335,Melissa Grant,Active,95428,2023-08-14-07:00,,Biology Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-09-20,Sick Leave,8.0,8
+520,1336,Melissa King,Terminated,95190,2023-03-03-08:00,2023-10-03-07:00,School Bus Driver (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-08-16,Unpaid,6.5,39
+521,1336,Melissa King,Terminated,95190,2023-03-03-08:00,2023-10-03-07:00,School Bus Driver (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-08-23,Sick,5.0,39
+522,1336,Melissa King,Terminated,95190,2023-03-03-08:00,2023-10-03-07:00,School Bus Driver (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-09-12,Sick,3.0,39
+523,1336,Melissa King,Terminated,95190,2023-03-03-08:00,2023-10-03-07:00,School Bus Driver (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-09-15,Unpaid,6.5,39
+524,1349,Michael Henson,Active,93883,2021-04-16-07:00,,School Operations Manager (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-08-11,PTO,8.0,68
+525,1355,Michael Nesbitt,Active,95398,2023-08-03-07:00,,School Bus Driver (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-09-19,Unpaid,6.5,26
+526,1355,Michael Nesbitt,Active,95398,2023-08-03-07:00,,School Bus Driver (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-09-20,Sick,6.5,26
+527,1355,Michael Nesbitt,Active,95398,2023-08-03-07:00,,School Bus Driver (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-09-21,Unpaid,6.5,26
+528,1355,Michael Nesbitt,Active,95398,2023-08-03-07:00,,School Bus Driver (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-09-22,Unpaid,6.5,26
+529,1361,Michele McLillie,Active,93971,2021-07-16-07:00,,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-08-21,Sick Leave,8.0,119
+530,1361,Michele McLillie,Active,93971,2021-07-16-07:00,,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-08-22,Sick Leave,8.0,119
+531,1361,Michele McLillie,Active,93971,2021-07-16-07:00,,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-08-23,Sick Leave,8.0,119
+532,1361,Michele McLillie,Active,93971,2021-07-16-07:00,,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-08-24,Sick Leave,8.0,119
+533,1361,Michele McLillie,Active,93971,2021-07-16-07:00,,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-08-25,Sick Leave,8.0,119
+534,1361,Michele McLillie,Active,93971,2021-07-16-07:00,,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-09-07,Sick Leave,4.0,119
+535,1361,Michele McLillie,Active,93971,2021-07-16-07:00,,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-10-06,Sick Leave,8.0,119
+536,1383,Miquel Soto,Active,94104,2021-08-16-07:00,,Campus Aide/Security Guard (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-28,PTO,6.0,140.5
+537,1383,Miquel Soto,Active,94104,2021-08-16-07:00,,Campus Aide/Security Guard (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-29,Unpaid,8.0,140.5
+538,1383,Miquel Soto,Active,94104,2021-08-16-07:00,,Campus Aide/Security Guard (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-07,PTO,4.0,140.5
+539,1383,Miquel Soto,Active,94104,2021-08-16-07:00,,Campus Aide/Security Guard (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-07,Unpaid,4.0,140.5
+540,1383,Miquel Soto,Active,94104,2021-08-16-07:00,,Campus Aide/Security Guard (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-08,Unpaid,8.0,140.5
+541,1386,Miriam Cain,Active,92331,2016-07-19-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-28,Sick Leave,8.0,114.75
+542,1386,Miriam Cain,Active,92331,2016-07-19-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-28,Sick Leave,6.0,114.75
+543,1386,Miriam Cain,Active,92331,2016-07-19-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-01,Sick Leave,2.0,114.75
+544,1386,Miriam Cain,Active,92331,2016-07-19-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-27,Sick Leave,8.0,114.75
+545,1386,Miriam Cain,Active,92331,2016-07-19-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-28,Sick Leave,8.0,114.75
+546,1386,Miriam Cain,Active,92331,2016-07-19-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-29,Sick Leave,8.0,114.75
+547,1391,Mondrea Brooks,Active,2260,2015-11-06-08:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-11,Sick Leave,8.0,75.5
+548,1391,Mondrea Brooks,Active,2260,2015-11-06-08:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-25,Sick Leave,8.0,75.5
+549,1391,Mondrea Brooks,Active,2260,2015-11-06-08:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-14,Sick Leave,1.5,75.5
+550,1391,Mondrea Brooks,Active,2260,2015-11-06-08:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-15,Sick Leave,8.0,75.5
+551,1402,Myron Taylor,Active,95080,2023-01-03-08:00,,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-09,Sick Leave,1.0,57.5
+552,1402,Myron Taylor,Active,95080,2023-01-03-08:00,,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-18,Sick Leave,4.0,57.5
+553,1402,Myron Taylor,Active,95080,2023-01-03-08:00,,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-12,Sick Leave,0.25,57.5
+554,1402,Myron Taylor,Active,95080,2023-01-03-08:00,,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-25,Sick Leave,8.0,57.5
+555,1402,Myron Taylor,Active,95080,2023-01-03-08:00,,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-26,Sick Leave,3.0,57.5
+556,1402,Myron Taylor,Active,95080,2023-01-03-08:00,,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-10-19,Sick Leave,8.0,57.5
+557,1440,Nico Hardaway,Active,93928,2021-07-01-07:00,,School Operations Manager (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-25,PTO,2.0,140
+558,1440,Nico Hardaway,Active,93928,2021-07-01-07:00,,School Operations Manager (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-01,PTO,2.0,140
+559,1441,Nicole Ford,Active,93978,2021-07-16-07:00,,Biology Teacher (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-08-11,Sick Leave,3.0,150
+560,1441,Nicole Ford,Active,93978,2021-07-16-07:00,,Biology Teacher (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-08-17,Sick Leave,8.0,150
+561,1441,Nicole Ford,Active,93978,2021-07-16-07:00,,Biology Teacher (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-09-19,Sick Leave,8.0,150
+562,1441,Nicole Ford,Active,93978,2021-07-16-07:00,,Biology Teacher (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-09-21,Sick Leave,4.0,150
+563,1441,Nicole Ford,Active,93978,2021-07-16-07:00,,Biology Teacher (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-09-22,Sick Leave,8.0,150
+564,1441,Nicole Ford,Active,93978,2021-07-16-07:00,,Biology Teacher (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-09-25,Sick Leave,8.0,150
+565,1441,Nicole Ford,Active,93978,2021-07-16-07:00,,Biology Teacher (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-09-26,Sick Leave,8.0,150
+566,1441,Nicole Ford,Active,93978,2021-07-16-07:00,,Biology Teacher (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-10-20,Sick Leave,1.5,150
+567,1444,Nikia Bell,Terminated,94066,2021-08-02-07:00,2023-10-17-07:00,School Bus Driver (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-09-06,Sick,5.0,71
+568,1444,Nikia Bell,Terminated,94066,2021-08-02-07:00,2023-10-17-07:00,School Bus Driver (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-09-26,Sick,3.0,71
+569,1444,Nikia Bell,Terminated,94066,2021-08-02-07:00,2023-10-17-07:00,School Bus Driver (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-10-10,Sick,5.0,71
+570,1444,Nikia Bell,Terminated,94066,2021-08-02-07:00,2023-10-17-07:00,School Bus Driver (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-10-11,Sick,5.0,71
+571,1445,Nikki Lewis,Active,94427,2022-01-18-08:00,,Middle Grades Elective Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-08-31,Sick Leave,8.0,97
+572,1445,Nikki Lewis,Active,94427,2022-01-18-08:00,,Middle Grades Elective Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-09-29,Sick Leave,1.0,97
+573,1446,Nina Lyles,Active,95098,2023-01-17-08:00,,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-08-24,Sick Leave,8.0,83
+574,1446,Nina Lyles,Active,95098,2023-01-17-08:00,,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-08-30,Sick Leave,8.0,83
+575,1446,Nina Lyles,Active,95098,2023-01-17-08:00,,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-09-14,Sick Leave,8.0,83
+576,1446,Nina Lyles,Active,95098,2023-01-17-08:00,,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-09-21,Sick Leave,4.0,83
+577,1446,Nina Lyles,Active,95098,2023-01-17-08:00,,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-09-28,Sick Leave,4.0,83
+578,1446,Nina Lyles,Active,95098,2023-01-17-08:00,,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-10-19,Sick Leave,8.0,83
+579,1446,Nina Lyles,Active,95098,2023-01-17-08:00,,Special Education Teacher (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-10-20,Sick Leave,4.0,83
+580,1477,Patrice Slaughter Prewitt,Active,92496,2016-08-29-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-22,Sick Leave,2.0,46.25
+581,1478,Patricia Adams,Active,1572,2014-07-01-07:00,,Director of Operations (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-10-02,PTO,8.0,123
+582,1478,Patricia Adams,Active,1572,2014-07-01-07:00,,Director of Operations (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-10-03,PTO,8.0,123
+583,1478,Patricia Adams,Active,1572,2014-07-01-07:00,,Director of Operations (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-10-04,PTO,8.0,123
+584,1478,Patricia Adams,Active,1572,2014-07-01-07:00,,Director of Operations (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-10-05,PTO,8.0,123
+585,1478,Patricia Adams,Active,1572,2014-07-01-07:00,,Director of Operations (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-10-06,PTO,8.0,123
+586,1486,Paul Stevenson,Terminated,95158,2023-02-03-08:00,2023-10-06-07:00,School Bus Driver (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-08-23,Unpaid,0.0,45.5
+587,1486,Paul Stevenson,Terminated,95158,2023-02-03-08:00,2023-10-06-07:00,School Bus Driver (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-08-23,Unpaid,-6.5,45.5
+588,1486,Paul Stevenson,Terminated,95158,2023-02-03-08:00,2023-10-06-07:00,School Bus Driver (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-08-23,Sick,6.5,45.5
+589,1486,Paul Stevenson,Terminated,95158,2023-02-03-08:00,2023-10-06-07:00,School Bus Driver (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-10-05,Sick,6.5,45.5
+590,1486,Paul Stevenson,Terminated,95158,2023-02-03-08:00,2023-10-06-07:00,School Bus Driver (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-10-06,Sick,1.5,45.5
+591,1516,Rachel Bowen,Active,2116,2022-07-18-07:00,2021-06-30-07:00,Campus Aide/Security Guard (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-22,Unpaid,8.0,118
+592,1516,Rachel Bowen,Active,2116,2022-07-18-07:00,2021-06-30-07:00,Campus Aide/Security Guard (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-29,PTO,8.0,118
+593,1527,Ramon Ramirez Armenta,Active,92263,2016-07-19-07:00,,School Operations Manager (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-09-01,PTO,8.0,165
+594,1527,Ramon Ramirez Armenta,Active,92263,2016-07-19-07:00,,School Operations Manager (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-10-03,PTO,8.0,165
+595,1535,Raul Ramirez Perez,Active,95371,2023-07-24-07:00,,Spanish Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-08-14,Sick Leave,8.0,80
+596,1535,Raul Ramirez Perez,Active,95371,2023-07-24-07:00,,Spanish Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-08-15,Sick Leave,8.0,80
+597,1535,Raul Ramirez Perez,Active,95371,2023-07-24-07:00,,Spanish Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-08-28,Sick Leave,8.0,80
+598,1535,Raul Ramirez Perez,Active,95371,2023-07-24-07:00,,Spanish Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-08-29,Sick Leave,8.0,80
+599,1535,Raul Ramirez Perez,Active,95371,2023-07-24-07:00,,Spanish Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-09-08,Sick Leave,8.0,80
+600,1535,Raul Ramirez Perez,Active,95371,2023-07-24-07:00,,Spanish Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-09-11,Sick Leave,8.0,80
+601,1535,Raul Ramirez Perez,Active,95371,2023-07-24-07:00,,Spanish Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-09-15,Sick Leave,8.0,80
+602,1535,Raul Ramirez Perez,Active,95371,2023-07-24-07:00,,Spanish Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-09-18,Sick Leave,8.0,80
+603,1535,Raul Ramirez Perez,Active,95371,2023-07-24-07:00,,Spanish Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-10-05,Unpaid Time Off,8.0,80
+604,1535,Raul Ramirez Perez,Active,95371,2023-07-24-07:00,,Spanish Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-10-06,Unpaid Time Off,8.0,80
+605,1537,Ravi Sibal,Active,95172,2023-03-01-08:00,,Music Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-09-11,Sick Leave,8.0,72
+606,1537,Ravi Sibal,Active,95172,2023-03-01-08:00,,Music Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-09-20,Sick Leave,8.0,72
+607,1537,Ravi Sibal,Active,95172,2023-03-01-08:00,,Music Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-09-25,Sick Leave,8.0,72
+608,1537,Ravi Sibal,Active,95172,2023-03-01-08:00,,Music Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-09-26,Sick Leave,8.0,72
+609,1537,Ravi Sibal,Active,95172,2023-03-01-08:00,,Music Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-09-27,Sick Leave,8.0,72
+610,1539,Raymond Murph,Active,93658,2021-08-30-07:00,2020-12-18-08:00,History Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-08-18,Sick Leave,8.0,131.75
+611,1539,Raymond Murph,Active,93658,2021-08-30-07:00,2020-12-18-08:00,History Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-09-14,Sick Leave,1.25,131.75
+612,1539,Raymond Murph,Active,93658,2021-08-30-07:00,2020-12-18-08:00,History Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-09-20,Sick Leave,1.25,131.75
+613,1539,Raymond Murph,Active,93658,2021-08-30-07:00,2020-12-18-08:00,History Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-09-20,Sick Leave,0.25,131.75
+614,1539,Raymond Murph,Active,93658,2021-08-30-07:00,2020-12-18-08:00,History Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-09-21,Sick Leave,8.0,131.75
+615,1568,Richard Shaffer,Active,92338,2016-07-19-07:00,,Social Studies Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-08-21,Sick Leave,8.0,267
+616,1568,Richard Shaffer,Active,92338,2016-07-19-07:00,,Social Studies Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-08-22,Sick Leave,8.0,267
+617,1568,Richard Shaffer,Active,92338,2016-07-19-07:00,,Social Studies Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-08-23,Sick Leave,8.0,267
+618,1568,Richard Shaffer,Active,92338,2016-07-19-07:00,,Social Studies Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-08-24,Sick Leave,8.0,267
+619,1568,Richard Shaffer,Active,92338,2016-07-19-07:00,,Social Studies Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-09-29,Sick Leave,8.0,267
+620,1568,Richard Shaffer,Active,92338,2016-07-19-07:00,,Social Studies Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-10-18,Sick Leave,4.0,267
+621,1592,Rodnicholas Lewis,Active,94673,2022-07-18-07:00,,Science Teacher (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-08-25,Sick Leave,8.0,100
+622,1592,Rodnicholas Lewis,Active,94673,2022-07-18-07:00,,Science Teacher (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-09-08,Sick Leave,4.0,100
+623,1592,Rodnicholas Lewis,Active,94673,2022-07-18-07:00,,Science Teacher (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-10-20,Sick Leave,8.0,100
+624,1598,Ron Clark,Terminated,94100,2021-08-06-07:00,2023-08-10-07:00,English Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-07,Sick Leave,2.5,120
+625,1598,Ron Clark,Terminated,94100,2021-08-06-07:00,2023-08-10-07:00,English Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-10,Sick Leave,4.0,120
+626,1599,Ron DeCarr,Active,93762,2020-07-16-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-08-10,Sick Leave,8.0,178.5
+627,1599,Ron DeCarr,Active,93762,2020-07-16-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-08-24,Sick Leave,8.0,178.5
+628,1599,Ron DeCarr,Active,93762,2020-07-16-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-08-25,Sick Leave,8.0,178.5
+629,1599,Ron DeCarr,Active,93762,2020-07-16-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-09-05,Sick Leave,8.0,178.5
+630,1599,Ron DeCarr,Active,93762,2020-07-16-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-09-06,Sick Leave,8.0,178.5
+631,1599,Ron DeCarr,Active,93762,2020-07-16-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-09-07,Sick Leave,8.0,178.5
+632,1599,Ron DeCarr,Active,93762,2020-07-16-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-10-16,Sick Leave,8.0,178.5
+633,1602,Rorcia Roland,Active,95319,2023-07-17-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-09-12,Sick Leave,8.0,32
+634,1602,Rorcia Roland,Active,95319,2023-07-17-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-09-13,Sick Leave,0.75,32
+635,1602,Rorcia Roland,Active,95319,2023-07-17-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-09-20,Sick Leave,3.25,32
+636,1602,Rorcia Roland,Active,95319,2023-07-17-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-09-21,Sick Leave,8.0,32
+637,1602,Rorcia Roland,Active,95319,2023-07-17-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-09-22,Sick Leave,8.0,32
+638,1602,Rorcia Roland,Active,95319,2023-07-17-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-09-22,Sick Leave,4.0,32
+639,1602,Rorcia Roland,Active,95319,2023-07-17-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-10-02,Sick Leave,4.0,32
+640,1666,Shamille Jones,Terminated,93455,2019-07-16-07:00,2023-10-06-07:00,Counselor (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-08-11,Sick Leave,2.5,89.5
+641,1666,Shamille Jones,Terminated,93455,2019-07-16-07:00,2023-10-06-07:00,Counselor (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-08-21,Sick Leave,2.0,89.5
+642,1666,Shamille Jones,Terminated,93455,2019-07-16-07:00,2023-10-06-07:00,Counselor (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-09-08,Sick Leave,8.0,89.5
+643,1666,Shamille Jones,Terminated,93455,2019-07-16-07:00,2023-10-06-07:00,Counselor (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-09-08,Sick Leave,0.5,89.5
+644,1666,Shamille Jones,Terminated,93455,2019-07-16-07:00,2023-10-06-07:00,Counselor (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-09-11,Sick Leave,8.0,89.5
+645,1666,Shamille Jones,Terminated,93455,2019-07-16-07:00,2023-10-06-07:00,Counselor (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-09-11,Sick Leave,0.5,89.5
+646,1666,Shamille Jones,Terminated,93455,2019-07-16-07:00,2023-10-06-07:00,Counselor (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-09-12,Sick Leave,8.0,89.5
+647,1666,Shamille Jones,Terminated,93455,2019-07-16-07:00,2023-10-06-07:00,Counselor (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-09-12,Sick Leave,0.5,89.5
+648,1666,Shamille Jones,Terminated,93455,2019-07-16-07:00,2023-10-06-07:00,Counselor (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-09-13,Sick Leave,8.0,89.5
+649,1666,Shamille Jones,Terminated,93455,2019-07-16-07:00,2023-10-06-07:00,Counselor (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-09-13,Sick Leave,0.5,89.5
+650,1666,Shamille Jones,Terminated,93455,2019-07-16-07:00,2023-10-06-07:00,Counselor (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-09-14,Sick Leave,8.0,89.5
+651,1666,Shamille Jones,Terminated,93455,2019-07-16-07:00,2023-10-06-07:00,Counselor (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-09-14,Sick Leave,0.5,89.5
+652,1666,Shamille Jones,Terminated,93455,2019-07-16-07:00,2023-10-06-07:00,Counselor (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-09-15,Sick Leave,8.0,89.5
+653,1666,Shamille Jones,Terminated,93455,2019-07-16-07:00,2023-10-06-07:00,Counselor (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-09-15,Sick Leave,0.5,89.5
+654,1671,Shannon Shaw,Active,92343,2016-07-19-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-08-15,Sick Leave,8.0,128
+655,1671,Shannon Shaw,Active,92343,2016-07-19-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-08-16,Sick Leave,8.0,128
+656,1671,Shannon Shaw,Active,92343,2016-07-19-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-08-17,Sick Leave,8.0,128
+657,1671,Shannon Shaw,Active,92343,2016-07-19-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-08-18,Sick Leave,8.0,128
+658,1671,Shannon Shaw,Active,92343,2016-07-19-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-08-21,Sick Leave,8.0,128
+659,1672,Shannon Whitmire,Active,94137,2021-08-30-07:00,,ESL Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-28,Jury Duty,8.0,138.75
+660,1672,Shannon Whitmire,Active,94137,2021-08-30-07:00,,ESL Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-29,Jury Duty,8.0,138.75
+661,1672,Shannon Whitmire,Active,94137,2021-08-30-07:00,,ESL Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-30,Jury Duty,8.0,138.75
+662,1672,Shannon Whitmire,Active,94137,2021-08-30-07:00,,ESL Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-21,Sick Leave,8.0,138.75
+663,1672,Shannon Whitmire,Active,94137,2021-08-30-07:00,,ESL Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-22,Sick Leave,8.0,138.75
+664,1673,Shantel Shipp,Active,95064,2022-12-07-08:00,,School Bus Driver (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-08-10,Unpaid,3.0,226.5
+665,1673,Shantel Shipp,Active,95064,2022-12-07-08:00,,School Bus Driver (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-08-23,Unpaid,6.5,226.5
+666,1673,Shantel Shipp,Active,95064,2022-12-07-08:00,,School Bus Driver (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-08-24,Unpaid,6.5,226.5
+667,1673,Shantel Shipp,Active,95064,2022-12-07-08:00,,School Bus Driver (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-08-28,Unpaid,5.0,226.5
+668,1673,Shantel Shipp,Active,95064,2022-12-07-08:00,,School Bus Driver (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-08-29,Unpaid,5.0,226.5
+669,1673,Shantel Shipp,Active,95064,2022-12-07-08:00,,School Bus Driver (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-08-30,Unpaid,5.0,226.5
+670,1673,Shantel Shipp,Active,95064,2022-12-07-08:00,,School Bus Driver (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-08-31,Unpaid,5.0,226.5
+671,1673,Shantel Shipp,Active,95064,2022-12-07-08:00,,School Bus Driver (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-09-01,Unpaid,5.0,226.5
+672,1673,Shantel Shipp,Active,95064,2022-12-07-08:00,,School Bus Driver (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-09-19,Sick,3.0,226.5
+673,1673,Shantel Shipp,Active,95064,2022-12-07-08:00,,School Bus Driver (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-09-20,Sick,6.5,226.5
+674,1674,Shaquille Sims,Active,95464,2023-08-18-07:00,,Physical Education Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-09-15,Sick Leave,8.0,8
+675,1676,Sharon Blocker-Williams,Active,95204,2023-03-21-07:00,,School Operations Manager (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-09-01,PTO,8.0,24
+676,1686,Sheila Weda,Terminated,95323,2023-07-17-07:00,2023-09-08-07:00,English Teacher (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-08-09,Sick Leave,8.0,64
+677,1686,Sheila Weda,Terminated,95323,2023-07-17-07:00,2023-09-08-07:00,English Teacher (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-08-11,Unpaid Time Off,0.0,64
+678,1686,Sheila Weda,Terminated,95323,2023-07-17-07:00,2023-09-08-07:00,English Teacher (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-08-11,Unpaid Time Off,-8.0,64
+679,1686,Sheila Weda,Terminated,95323,2023-07-17-07:00,2023-09-08-07:00,English Teacher (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-08-11,Sick Leave,8.0,64
+680,1686,Sheila Weda,Terminated,95323,2023-07-17-07:00,2023-09-08-07:00,English Teacher (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-08-14,Unpaid Time Off,0.0,64
+681,1686,Sheila Weda,Terminated,95323,2023-07-17-07:00,2023-09-08-07:00,English Teacher (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-08-14,Unpaid Time Off,-8.0,64
+682,1686,Sheila Weda,Terminated,95323,2023-07-17-07:00,2023-09-08-07:00,English Teacher (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-08-14,Sick Leave,8.0,64
+683,1686,Sheila Weda,Terminated,95323,2023-07-17-07:00,2023-09-08-07:00,English Teacher (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-08-23,Sick Leave,8.0,64
+684,1686,Sheila Weda,Terminated,95323,2023-07-17-07:00,2023-09-08-07:00,English Teacher (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-08-29,Unpaid Time Off,8.0,64
+685,1686,Sheila Weda,Terminated,95323,2023-07-17-07:00,2023-09-08-07:00,English Teacher (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-09-06,Sick Leave,8.0,64
+686,1686,Sheila Weda,Terminated,95323,2023-07-17-07:00,2023-09-08-07:00,English Teacher (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-09-07,Sick Leave,8.0,64
+687,1686,Sheila Weda,Terminated,95323,2023-07-17-07:00,2023-09-08-07:00,English Teacher (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-09-08,Sick Leave,8.0,64
+688,1689,Shenia Jimenez,Active,95206,2023-03-27-07:00,,School Bus Driver (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-10-20,Unpaid,6.5,9.5
+689,1692,Sherell Sago,Active,2094,2015-07-23-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-12,Sick Leave,0.25,81.75
+690,1692,Sherell Sago,Active,2094,2015-07-23-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-29,Sick Leave,8.0,81.75
+691,1692,Sherell Sago,Active,2094,2015-07-23-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-10-16,Sick Leave,8.0,81.75
+692,1694,Sherice Flowers,Active,94985,2022-11-01-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-08-28,Sick Leave,8.0,110
+693,1694,Sherice Flowers,Active,94985,2022-11-01-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-08-29,Sick Leave,8.0,110
+694,1695,Sherika Overall,Active,95373,2023-07-27-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-08-14,Sick Leave,1.0,20
+695,1695,Sherika Overall,Active,95373,2023-07-27-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-08-14,Sick Leave,7.0,20
+696,1695,Sherika Overall,Active,95373,2023-07-27-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-08-30,Sick Leave,8.0,20
+697,1695,Sherika Overall,Active,95373,2023-07-27-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-09-13,Unpaid Time Off,4.0,20
+698,1706,Sophie Johnson,Active,93045,2022-07-01-07:00,2021-06-30-07:00,ELA Curriculum Specialist (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-08-15,Sick,2.0,139
+699,1706,Sophie Johnson,Active,93045,2022-07-01-07:00,2021-06-30-07:00,ELA Curriculum Specialist (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-08-17,Sick,4.0,139
+700,1706,Sophie Johnson,Active,93045,2022-07-01-07:00,2021-06-30-07:00,ELA Curriculum Specialist (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-08-25,Sick,1.0,139
+701,1706,Sophie Johnson,Active,93045,2022-07-01-07:00,2021-06-30-07:00,ELA Curriculum Specialist (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-08-28,Sick,8.0,139
+702,1707,Sophie Soto,Active,93921,2021-06-17-07:00,,Office Coordinator (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-08,PTO,8.0,216
+703,1707,Sophie Soto,Active,93921,2021-06-17-07:00,,Office Coordinator (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-14,PTO,0.5,216
+704,1707,Sophie Soto,Active,93921,2021-06-17-07:00,,Office Coordinator (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-18,PTO,0.5,216
+705,1707,Sophie Soto,Active,93921,2021-06-17-07:00,,Office Coordinator (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-19,PTO,0.5,216
+706,1707,Sophie Soto,Active,93921,2021-06-17-07:00,,Office Coordinator (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-10-17,PTO,8.0,216
+707,1707,Sophie Soto,Active,93921,2021-06-17-07:00,,Office Coordinator (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-10-18,PTO,8.0,216
+708,1740,Susan Tiegelmann,Active,94605,2022-06-20-07:00,,Director of Counseling and College (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-08-15,Sick,8.0,96
+709,1740,Susan Tiegelmann,Active,94605,2022-06-20-07:00,,Director of Counseling and College (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-10-03,Sick,8.0,96
+710,1751,Sydney Jackson,Active,94658,2022-07-18-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-08-21,Sick Leave,8.0,132
+711,1751,Sydney Jackson,Active,94658,2022-07-18-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-08-31,Sick Leave,4.0,132
+712,1751,Sydney Jackson,Active,94658,2022-07-18-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-09-27,Sick Leave,8.0,132
+713,1760,Tamenika Hall,Active,95216,2023-04-12-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-08-21,Sick Leave,8.0,40
+714,1760,Tamenika Hall,Active,95216,2023-04-12-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-09-14,Sick Leave,8.0,40
+715,1760,Tamenika Hall,Active,95216,2023-04-12-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-09-15,Sick Leave,8.0,40
+716,1762,Tamisha Estes,Active,93018,2022-07-25-07:00,2021-05-07-07:00,English Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-12,Sick Leave,0.0,93.75
+717,1762,Tamisha Estes,Active,93018,2022-07-25-07:00,2021-05-07-07:00,English Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-12,Sick Leave,-8.0,93.75
+718,1762,Tamisha Estes,Active,93018,2022-07-25-07:00,2021-05-07-07:00,English Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-13,Sick Leave,0.0,93.75
+719,1762,Tamisha Estes,Active,93018,2022-07-25-07:00,2021-05-07-07:00,English Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-13,Sick Leave,-2.0,93.75
+720,1762,Tamisha Estes,Active,93018,2022-07-25-07:00,2021-05-07-07:00,English Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-22,Sick Leave,2.0,93.75
+721,1762,Tamisha Estes,Active,93018,2022-07-25-07:00,2021-05-07-07:00,English Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-10-17,Sick Leave,8.0,93.75
+722,1762,Tamisha Estes,Active,93018,2022-07-25-07:00,2021-05-07-07:00,English Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-10-20,Bereavement - 3 days or less,1.0,93.75
+723,1768,Tara Head,Active,93688,2020-07-01-07:00,,Science Curriculum Specialist (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-08-31,Sick,4.0,159
+724,1768,Tara Head,Active,93688,2020-07-01-07:00,,Science Curriculum Specialist (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-09-12,Sick,8.0,159
+725,1768,Tara Head,Active,93688,2020-07-01-07:00,,Science Curriculum Specialist (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-09-13,Sick,8.0,159
+726,1768,Tara Head,Active,93688,2020-07-01-07:00,,Science Curriculum Specialist (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-09-29,Sick,3.0,159
+727,1769,Tara Walsh-Powell,Active,2152,2015-07-23-07:00,,Counselor (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-10,Sick Leave,1.0,82
+728,1769,Tara Walsh-Powell,Active,2152,2015-07-23-07:00,,Counselor (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-18,Sick Leave,1.0,82
+729,1769,Tara Walsh-Powell,Active,2152,2015-07-23-07:00,,Counselor (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-07,Sick Leave,4.0,82
+730,1769,Tara Walsh-Powell,Active,2152,2015-07-23-07:00,,Counselor (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-15,Sick Leave,8.0,82
+731,1769,Tara Walsh-Powell,Active,2152,2015-07-23-07:00,,Counselor (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-10-16,Sick Leave,8.0,82
+732,1769,Tara Walsh-Powell,Active,2152,2015-07-23-07:00,,Counselor (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-10-17,Sick Leave,8.0,82
+733,1783,Terra Henderson,Active,92337,2016-07-19-07:00,,Math Curriculum Specialist (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-09-20,Sick,3.0,126.75
+734,1783,Terra Henderson,Active,92337,2016-07-19-07:00,,Math Curriculum Specialist (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-09-21,Sick,8.0,126.75
+735,1783,Terra Henderson,Active,92337,2016-07-19-07:00,,Math Curriculum Specialist (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-09-28,Sick,8.0,126.75
+736,1806,Tiffany Dyson,Terminated,93995,2021-07-16-07:00,2023-09-08-07:00,Biology Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-08-10,Sick Leave,0.75,257.5
+737,1806,Tiffany Dyson,Terminated,93995,2021-07-16-07:00,2023-09-08-07:00,Biology Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-08-15,Sick Leave,8.0,257.5
+738,1806,Tiffany Dyson,Terminated,93995,2021-07-16-07:00,2023-09-08-07:00,Biology Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-08-23,Sick Leave,8.0,257.5
+739,1806,Tiffany Dyson,Terminated,93995,2021-07-16-07:00,2023-09-08-07:00,Biology Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-08-31,Sick Leave,0.75,257.5
+740,1806,Tiffany Dyson,Terminated,93995,2021-07-16-07:00,2023-09-08-07:00,Biology Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-09-05,Sick Leave,8.0,257.5
+741,1806,Tiffany Dyson,Terminated,93995,2021-07-16-07:00,2023-09-08-07:00,Biology Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-09-06,Sick Leave,8.0,257.5
+742,1806,Tiffany Dyson,Terminated,93995,2021-07-16-07:00,2023-09-08-07:00,Biology Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-09-07,Sick Leave,8.0,257.5
+743,1821,Tomisha Murrell,Active,93588,2020-11-04-08:00,,Special Education Program Administrator (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-08-11,Sick,8.0,180
+744,1821,Tomisha Murrell,Active,93588,2020-11-04-08:00,,Special Education Program Administrator (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-08-14,Sick,8.0,180
+745,1821,Tomisha Murrell,Active,93588,2020-11-04-08:00,,Special Education Program Administrator (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-09-08,Sick,0.0,180
+746,1821,Tomisha Murrell,Active,93588,2020-11-04-08:00,,Special Education Program Administrator (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-09-08,Sick,-8.0,180
+747,1821,Tomisha Murrell,Active,93588,2020-11-04-08:00,,Special Education Program Administrator (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-09-11,PTO,8.0,180
+748,1821,Tomisha Murrell,Active,93588,2020-11-04-08:00,,Special Education Program Administrator (TN),Green Dot Public Schools Tennessee,Green Dot Tennessee Home Office,2023-09-29,Sick,4.0,180
+749,1823,Tonda Boyland,Active,94103,2021-08-09-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-20,Sick Leave,8.0,69
+750,1838,Tracy Shaw,Active,95508,2023-09-05-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-09-29,Sick Leave,0.5,0.5
+751,1841,Travis Vaughn,Active,94650,2022-07-18-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-08-14,Sick Leave,8.0,128
+752,1841,Travis Vaughn,Active,94650,2022-07-18-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-08-29,Sick Leave,8.0,128
+753,1841,Travis Vaughn,Active,94650,2022-07-18-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-08-30,Sick Leave,8.0,128
+754,1841,Travis Vaughn,Active,94650,2022-07-18-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-08-31,Sick Leave,8.0,128
+755,1841,Travis Vaughn,Active,94650,2022-07-18-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-09-01,Sick Leave,8.0,128
+756,1841,Travis Vaughn,Active,94650,2022-07-18-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Fairley High School,2023-09-11,Sick Leave,8.0,128
+757,1851,Tyson McClain,Active,94660,2022-07-18-07:00,,Social Studies Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-08-30,Sick Leave,8.0,126
+758,1851,Tyson McClain,Active,94660,2022-07-18-07:00,,Social Studies Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-08-31,Sick Leave,8.0,126
+759,1884,Wahidah Muhammad,Active,95462,2023-08-21-07:00,,Middle Grades Elective Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-10-20,Sick Leave,4.0,4
+760,1889,Wendell Brown,Active,93520,2019-08-09-07:00,,Chemistry Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-09-08,Sick Leave,8.0,171
+761,1889,Wendell Brown,Active,93520,2019-08-09-07:00,,Chemistry Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-09-14,Sick Leave,8.0,171
+762,1889,Wendell Brown,Active,93520,2019-08-09-07:00,,Chemistry Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-09-15,Sick Leave,8.0,171
+763,1889,Wendell Brown,Active,93520,2019-08-09-07:00,,Chemistry Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-09-18,Sick Leave,8.0,171
+764,1889,Wendell Brown,Active,93520,2019-08-09-07:00,,Chemistry Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-09-19,Sick Leave,4.0,171
+765,1889,Wendell Brown,Active,93520,2019-08-09-07:00,,Chemistry Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-09-20,Sick Leave,8.0,171
+766,1889,Wendell Brown,Active,93520,2019-08-09-07:00,,Chemistry Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-09-25,Sick Leave,8.0,171
+767,1889,Wendell Brown,Active,93520,2019-08-09-07:00,,Chemistry Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-09-28,Sick Leave,4.0,171
+768,1889,Wendell Brown,Active,93520,2019-08-09-07:00,,Chemistry Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-09-29,Sick Leave,8.0,171
+769,1905,William Van Wyk,Active,95363,2023-07-19-07:00,,Physical Education Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-10-02,Sick Leave,8.0,40
+770,1905,William Van Wyk,Active,95363,2023-07-19-07:00,,Physical Education Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-10-03,Sick Leave,8.0,40
+771,1905,William Van Wyk,Active,95363,2023-07-19-07:00,,Physical Education Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-10-04,Sick Leave,8.0,40
+772,1905,William Van Wyk,Active,95363,2023-07-19-07:00,,Physical Education Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-10-05,Sick Leave,8.0,40
+773,1905,William Van Wyk,Active,95363,2023-07-19-07:00,,Physical Education Teacher (TN),Green Dot Public Schools Tennessee,Kirby Middle School,2023-10-06,Sick Leave,8.0,40
+774,1912,XZaviana Boddie,Active,95325,2023-07-17-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-15,Sick Leave,2.5,75.5
+775,1912,XZaviana Boddie,Active,95325,2023-07-17-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-18,Sick Leave,8.0,75.5
+776,1912,XZaviana Boddie,Active,95325,2023-07-17-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-23,Sick Leave,3.0,75.5
+777,1912,XZaviana Boddie,Active,95325,2023-07-17-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-23,Sick Leave,-5.0,75.5
+778,1912,XZaviana Boddie,Active,95325,2023-07-17-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-24,Sick Leave,8.0,75.5
+779,1912,XZaviana Boddie,Active,95325,2023-07-17-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-25,Sick Leave,8.0,75.5
+780,1912,XZaviana Boddie,Active,95325,2023-07-17-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-08-28,Sick Leave,2.0,75.5
+781,1912,XZaviana Boddie,Active,95325,2023-07-17-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-13,Sick Leave,8.0,75.5
+782,1912,XZaviana Boddie,Active,95325,2023-07-17-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-20,Sick Leave,8.0,75.5
+783,1912,XZaviana Boddie,Active,95325,2023-07-17-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-26,Sick Leave,8.0,75.5
+784,1912,XZaviana Boddie,Active,95325,2023-07-17-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-09-27,Sick Leave,8.0,75.5
+785,1912,XZaviana Boddie,Active,95325,2023-07-17-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-10-20,Sick Leave,4.5,75.5
+786,1912,XZaviana Boddie,Active,95325,2023-07-17-07:00,,Math Teacher (TN),Green Dot Public Schools Tennessee,Wooddale Middle School,2023-10-20,Unpaid Time Off,3.5,75.5
+787,1918,Yajaira Torrez,Active,94777,2022-08-16-07:00,,Office Coordinator (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-10-04,PTO,8.0,47
+788,1918,Yajaira Torrez,Active,94777,2022-08-16-07:00,,Office Coordinator (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-10-05,PTO,8.0,47
+789,1937,Zeporia Gray,Active,93990,2021-07-16-07:00,,Music Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-09-14,Sick Leave,8.0,75.5
+790,1937,Zeporia Gray,Active,93990,2021-07-16-07:00,,Music Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-09-15,Sick Leave,8.0,75.5
+791,1937,Zeporia Gray,Active,93990,2021-07-16-07:00,,Music Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-09-18,Sick Leave,8.0,75.5
+792,1937,Zeporia Gray,Active,93990,2021-07-16-07:00,,Music Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-09-19,Sick Leave,8.0,75.5
+793,1937,Zeporia Gray,Active,93990,2021-07-16-07:00,,Music Teacher (TN),Green Dot Public Schools Tennessee,Hillcrest High School,2023-09-20,Sick Leave,8.0,75.5
+794,1938,Zhané Waye,Active,95329,2023-07-17-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-08-18,Sick Leave,8.0,32
+795,1938,Zhané Waye,Active,95329,2023-07-17-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-08-21,Sick Leave,8.0,32
+796,1938,Zhané Waye,Active,95329,2023-07-17-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-09-22,Unpaid Time Off,8.0,32
+797,1938,Zhané Waye,Active,95329,2023-07-17-07:00,,English Teacher (TN),Green Dot Public Schools Tennessee,Bluff City High School,2023-09-25,Unpaid Time Off,8.0,32
