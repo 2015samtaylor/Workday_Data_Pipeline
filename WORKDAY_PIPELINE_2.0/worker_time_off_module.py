@@ -1,48 +1,29 @@
 import pandas as pd
-<<<<<<< HEAD
 import logging
 
 class worker_time_off:
 
     def remove_WTO_during_LOA(output, WTO_SY):
 
-=======
-
-class worker_time_off:
-
-    def remove_WTO_during_LOA(output, fall_cal, WTO_):
-            
-        
->>>>>>> de857ad773209994cdd4a5e8e7710de712ecc338
         # identify days where time off days are during leave of Absence. Outliers variable holds Emp ID & WTO Day to remove
         during_LOA = output.loc[output['Status'] == True]
         during_LOA.reset_index(drop = True, inplace = True)
         outliers = pd.DataFrame(list(zip(during_LOA['Employee ID'], during_LOA['WTO Day'])), columns = ['Employee ID', 'WTO Day'])
 
         # outer join, and then filtering for left only to retain day WTO that was not during LOA. 
-<<<<<<< HEAD
         indicators = pd.merge(WTO_SY, outliers, how = 'outer', left_on=['Employee ID', 'Time Off Date'], right_on = ['Employee ID', 'WTO Day'], indicator = True )
-=======
-        indicators = pd.merge(WTO_, outliers, how = 'outer', left_on=['Employee ID', 'Time Off Date'], right_on = ['Employee ID', 'WTO Day'], indicator = True )
->>>>>>> de857ad773209994cdd4a5e8e7710de712ecc338
         indicators = indicators.loc[indicators['_merge'] == 'left_only']
         indicators.drop(columns = ['WTO Day', '_merge'],inplace = True)
         indicators.reset_index(drop = True, inplace = True)
 
-<<<<<<< HEAD
         first_day = indicators['Time Off Date'].min()
         last_day =  indicators['Time Off Date'].max()
 
         logging.info(f'WTO during the SY has been filtered during the time period of {first_day}-{last_day}')
-=======
-        #This might need to be filtered down further
-        indicators = indicators.loc[indicators['Time Off Date'] > fall_cal.iloc[0]['DATE_VALUE']]
->>>>>>> de857ad773209994cdd4a5e8e7710de712ecc338
 
         return(indicators)
     
 
-<<<<<<< HEAD
     def map_new_absence_days(WTO_SY, WB):
 
         #Get total units of Worker TIme off and map by EMployee ID
@@ -51,13 +32,6 @@ class worker_time_off:
 
         #Take the necessities of WTO_absence, create the 'Total Days' of WTO and map to the WB
         WTO_absence = WTO_SY[['Employee ID', 'Sum of Hours']].drop_duplicates()
-=======
-    def map_new_absence_days(WTO_, WB):
-
-        WTO_hours_dict = dict(WTO_.groupby(['Employee ID'])['Total Units'].sum())
-        WTO_['Sum of Hours'] = WTO_['Employee ID'].map(WTO_hours_dict)
-        WTO_absence = WTO_[['Employee ID', 'Sum of Hours']].drop_duplicates()
->>>>>>> de857ad773209994cdd4a5e8e7710de712ecc338
         WTO_absence['Total Days'] = WTO_absence['Sum of Hours'] / 8
         WTO_absence.loc[WTO_absence['Total Days'] < 0] = 0                # locate negative absence days, and replace with 0
         absence_dict = dict(zip(WTO_absence['Employee ID'], WTO_absence['Total Days']))
