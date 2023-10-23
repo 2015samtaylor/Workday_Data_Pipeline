@@ -20,7 +20,7 @@ today = date.today().strftime("%Y/%m/%d")
 today = today.replace('/','-')
 today_year = today[0:4]
 
-logging.basicConfig(filename='Workday_Attendance.log', level=logging.INFO,
+logging.basicConfig(filename='logs/Workday_Attendance.log', level=logging.INFO,
                    format='%(asctime)s - %(message)s', datefmt='%d-%b-%y %H:%M:%S',force=True)
 
 # --------------------------Calling the Process----------------
