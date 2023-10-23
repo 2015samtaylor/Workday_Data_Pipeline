@@ -1,6 +1,7 @@
 ### What is this repository for? ###
 
 * Python script interacts with custom reports set up on Workday - Worker Time Off, Leave of Absence, All Roster, & Terminations in order to calculate Average Daily Attendance.
+* The script calculates **school year attendance** for all employees in CA, TN, TX for the years 2021-2022, 2022-2023, 2023-2024
 * The script is set to udpate once a week, given the custom reports from Workday update Monday mornings at 10:05 (Ran in a batch file). 
 
 
