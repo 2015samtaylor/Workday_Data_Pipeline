@@ -1,51 +1,52 @@
 ,School Year,Emp_ID,Company,Location,Worker,Title,Hire_Date,Term_Date,Calendar Start Date,Calendar End Date,LOA Days,WTO Days
-0,2023-2024,95347,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Tiffany Alexander,Assistant Principal,2023-07-17,Employed,1.0,49.0,0.0,3.0
-1,2023-2024,94974,Green Dot Public Schools Southeast Texas,Green Dot Southeast Texas Home Office,Brian Bahr [C],Board Member,2022-10-12,Employed,1.0,49.0,0.0,0.0
-2,2023-2024,95567,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Paige Bennett,Special Education Aide,2023-09-08,Employed,22.0,49.0,0.0,0.125
-3,2023-2024,94406,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Tracy Bradford,Special Education Aide,2022-01-03,Employed,1.0,49.0,0.0,3.0
-4,2023-2024,94714,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Ashley Broughton,Social Worker,2022-07-25,Employed,1.0,49.0,0.0,0.5625
+0,2023-2024,95347,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Tiffany Alexander,Assistant Principal,2023-07-17,Employed,1,49.0,0.0,3.0
+1,2023-2024,94974,Green Dot Public Schools Southeast Texas,Green Dot Southeast Texas Home Office,Brian Bahr [C],Board Member,2022-10-12,Employed,1,49.0,0.0,0.0
+2,2023-2024,95567,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Paige Bennett,Special Education Aide,2023-09-08,Employed,22.0,49.0,0.0,0.25
+3,2023-2024,94406,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Tracy Bradford,Special Education Aide,2022-01-03,Employed,1,49.0,0.0,3.0
+4,2023-2024,94714,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Ashley Broughton,Social Worker,2022-07-25,Employed,1,49.0,0.0,0.5625
 5,2023-2024,95429,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Osheyauna Burns,Campus Behavior Coordinator,2023-08-14,Employed,4.0,49.0,0.0,3.0
-6,2023-2024,93047,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Audrey Burnside,Principal,2018-07-16,Employed,1.0,49.0,0.0,5.0
+6,2023-2024,93047,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Audrey Burnside,Principal,2018-07-16,Employed,1,49.0,0.0,5.0
 7,2023-2024,95619,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Ashlynn Bush,Teacher Resident,2023-10-06,Employed,42.0,49.0,0.0,1.0
-8,2023-2024,95382,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Ashley Carr,Leader in Residence,2023-07-31,Employed,1.0,49.0,0.0,3.0
-9,2023-2024,93943,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Larry Charles,Special Education Teacher,2021-07-16,Employed,1.0,49.0,0.0,2.625
+8,2023-2024,95382,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Ashley Carr,Leader in Residence,2023-07-31,Employed,1,49.0,0.0,3.0
+9,2023-2024,93943,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Larry Charles,Special Education Teacher,2021-07-16,Employed,1,49.0,0.0,2.625
 11,2023-2024,95503,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Riyah Collins,Substitute Teacher,2023-08-25,Employed,13.0,49.0,0.0,0.0
 12,2023-2024,95568,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Tumiso Cox-Todd,Substitute Teacher,2023-09-08,Employed,22.0,49.0,0.0,0.0
-13,2023-2024,94682,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Ariana Darjean,Physical Education/Health Teacher,2022-07-16,Employed,1.0,49.0,0.0,0.28125
-15,2023-2024,95661,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Destiny Eldridge,Substitute Teacher,2023-10-18,Employed,47.0,49.0,0.0,0.0
-16,2023-2024,94142,Green Dot Public Schools Southeast Texas,Green Dot Southeast Texas Home Office,Stephanie Flatten,Senior Development Advisor,2022-08-01,Employed,1.0,49.0,0.0,0.0
-17,2023-2024,94608,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Stephan Garrett,Social Studies Teacher,2022-07-16,Employed,1.0,49.0,0.0,3.0
-18,2023-2024,93948,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Angela Gauthier,Physical Education/Health Teacher,2021-07-16,Employed,1.0,49.0,0.0,0.0
-19,2023-2024,94977,Green Dot Public Schools Southeast Texas,Green Dot Southeast Texas Home Office,Amanda Gayle [C],Board Member,2021-05-05,Employed,1.0,49.0,0.0,0.0
-20,2023-2024,95501,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Ebony Granger,On-Call Substitute Teacher,2023-08-24,Employed,12.0,49.0,0.0,0.0
-21,2023-2024,95370,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Lauren Hargrove,ELA Teacher,2023-07-24,Employed,1.0,49.0,0.0,5.0
-22,2023-2024,94991,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Denisha Haynes,Teacher Resident,2022-10-28,Employed,1.0,49.0,0.0,0.0
-25,2023-2024,94979,Green Dot Public Schools Southeast Texas,Green Dot Southeast Texas Home Office,Nate Jenkins [C],Board Member,2021-05-05,Employed,1.0,49.0,0.0,0.0
-27,2023-2024,95470,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Laci Johnson,On-Call Substitute Teacher,2023-08-17,Employed,7.0,49.0,0.0,0.0
-28,2023-2024,94799,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Tracie Johnson,Permanent Substitute Teacher,2022-08-15,Employed,1.0,49.0,0.0,2.0
-29,2023-2024,94679,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Kayla LaSalle,Special Education Aide,2022-07-25,Employed,1.0,49.0,0.0,3.0
-31,2023-2024,94990,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Alexandria Lewis,Teacher Resident,2022-10-28,Employed,1.0,49.0,0.0,7.875
-32,2023-2024,94041,Green Dot Public Schools Southeast Texas,Green Dot Southeast Texas Home Office,Hannah Lofthus [C],Contractor,2021-07-19,Employed,1.0,49.0,0.0,0.0
-33,2023-2024,95574,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Carolina Lopez,Substitute Teacher,2023-10-10,2023-09-18 00:00:00,44.0,49.0,0.0,0.0
-34,2023-2024,93940,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Abel Martinez,Special Education Teacher,2021-07-16,Employed,1.0,49.0,0.0,4.0
-35,2023-2024,94800,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Ambria McNeil,Office Coordinator,2022-08-15,Employed,1.0,49.0,0.0,2.0
-36,2023-2024,94414,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Laquana Mitchell,Special Education Aide,2022-01-10,Employed,1.0,49.0,0.0,2.75
-37,2023-2024,94783,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Kevin Newton,Campus Behavior Coordinator,2022-08-12,Employed,1.0,49.0,0.0,1.875
-39,2023-2024,95045,Green Dot Public Schools Southeast Texas,Green Dot Southeast Texas Home Office,Heather Petkovsek [C],Board Member,2021-12-15,Employed,1.0,49.0,0.0,0.0
-40,2023-2024,95359,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Amanda Pierson,Science Teacher,2023-07-17,Employed,1.0,49.0,0.0,13.0625
-41,2023-2024,95504,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Sabrecia Pitre,Substitute Teacher,2023-08-25,Employed,13.0,49.0,0.0,0.0
-42,2023-2024,93947,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Jennifer Ponton,Special Education Teacher,2021-07-16,Employed,1.0,49.0,0.0,1.0
-43,2023-2024,94677,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Serita Porter,Math Teacher,2022-07-16,Employed,1.0,49.0,0.0,4.75
-44,2023-2024,95586,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Christopher Raggett,Substitute Teacher,2023-09-13,Employed,25.0,49.0,0.0,0.0
-45,2023-2024,95312,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Jose Rodriguez,Social Studies Teacher,2023-07-17,Employed,1.0,49.0,0.0,3.0
-47,2023-2024,95178,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Kathy Scott-Morris,Special Education Teacher,2023-02-20,Employed,1.0,49.0,15.0,3.75
-48,2023-2024,95471,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Ashante Sims,Substitute Teacher,2023-08-21,Employed,9.0,49.0,0.0,0.0
-49,2023-2024,95670,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Taylor Smith,Substitute Teacher,2023-10-18,Employed,47.0,49.0,0.0,0.0
-50,2023-2024,95218,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Devyn Thompson,Substitute Teacher,2023-09-05,2023-08-09 00:00:00,19.0,49.0,0.0,1.0
-51,2023-2024,95315,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Laura Tuttle,Fine Arts Teacher,2023-07-16,Employed,1.0,49.0,0.0,10.375
-52,2023-2024,95089,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Adriana Vasquez,Office Coordinator,2023-01-04,Employed,1.0,49.0,0.0,2.0
-53,2023-2024,95510,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Lisa Villanueva,Substitute Teacher,2023-08-30,Employed,16.0,49.0,0.0,0.0
-54,2023-2024,95154,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Bella Ward,Substitute Teacher,2023-02-02,Employed,1.0,49.0,0.0,3.0
-55,2023-2024,95585,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Vernardo Washington,Substitute Teacher,2023-09-13,Employed,25.0,49.0,0.0,0.0
-56,2023-2024,94340,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Doretta Watson,Campus Behavior Coordinator,2021-11-08,Employed,1.0,49.0,0.0,6.5
-57,2023-2024,94978,Green Dot Public Schools Southeast Texas,Green Dot Southeast Texas Home Office,David Willard [C],Board Member,2021-05-05,Employed,1.0,49.0,0.0,0.0
+13,2023-2024,94682,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Ariana Darjean,Physical Education/Health Teacher,2022-07-16,Employed,1,49.0,0.0,0.28125
+15,2023-2024,95698,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Sophia Dewitt Shugart,Substitute Teacher,2023-10-23,Employed,49,49.0,0.0,0.0
+16,2023-2024,95661,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Destiny Eldridge,Substitute Teacher,2023-10-18,Employed,47.0,49.0,0.0,0.0
+17,2023-2024,94142,Green Dot Public Schools Southeast Texas,Green Dot Southeast Texas Home Office,Stephanie Flatten,Senior Development Advisor,2022-08-01,Employed,1,49.0,0.0,0.0
+18,2023-2024,94608,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Stephan Garrett,Social Studies Teacher,2022-07-16,Employed,1,49.0,0.0,3.0
+19,2023-2024,93948,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Angela Gauthier,Physical Education/Health Teacher,2021-07-16,Employed,1,49.0,0.0,0.0
+20,2023-2024,94977,Green Dot Public Schools Southeast Texas,Green Dot Southeast Texas Home Office,Amanda Gayle [C],Board Member,2021-05-05,Employed,1,49.0,0.0,0.0
+21,2023-2024,95501,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Ebony Granger,On-Call Substitute Teacher,2023-08-24,Employed,12.0,49.0,0.0,0.0
+22,2023-2024,95699,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Cierra Guillory,Substitute Teacher,2023-10-23,Employed,49,49.0,0.0,0.0
+23,2023-2024,95370,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Lauren Hargrove,ELA Teacher,2023-07-24,Employed,1,49.0,0.0,5.0
+24,2023-2024,94991,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Denisha Haynes,Teacher Resident,2022-10-28,Employed,1,49.0,0.0,0.0
+27,2023-2024,94979,Green Dot Public Schools Southeast Texas,Green Dot Southeast Texas Home Office,Nate Jenkins [C],Board Member,2021-05-05,Employed,1,49.0,0.0,0.0
+29,2023-2024,95470,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Laci Johnson,On-Call Substitute Teacher,2023-08-17,Employed,7.0,49.0,0.0,0.0
+30,2023-2024,94799,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Tracie Johnson,Permanent Substitute Teacher,2022-08-15,Employed,1,49.0,0.0,2.0
+31,2023-2024,94679,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Kayla LaSalle,Special Education Aide,2022-07-25,Employed,1,49.0,0.0,3.0
+33,2023-2024,94990,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Alexandria Lewis,Teacher Resident,2022-10-28,Employed,1,49.0,0.0,7.875
+34,2023-2024,94041,Green Dot Public Schools Southeast Texas,Green Dot Southeast Texas Home Office,Hannah Lofthus [C],Contractor,2021-07-19,Employed,1,49.0,0.0,0.0
+35,2023-2024,95574,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Carolina Lopez,Substitute Teacher,2023-10-10,2023-09-18 00:00:00,44.0,49.0,0.0,0.0
+36,2023-2024,93940,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Abel Martinez,Special Education Teacher,2021-07-16,Employed,1,49.0,0.0,4.0
+37,2023-2024,94800,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Ambria McNeil,Office Coordinator,2022-08-15,Employed,1,49.0,0.0,2.0
+38,2023-2024,94414,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Laquana Mitchell,Special Education Aide,2022-01-10,Employed,1,49.0,0.0,2.75
+39,2023-2024,94783,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Kevin Newton,Campus Behavior Coordinator,2022-08-12,Employed,1,49.0,0.0,1.875
+41,2023-2024,95045,Green Dot Public Schools Southeast Texas,Green Dot Southeast Texas Home Office,Heather Petkovsek [C],Board Member,2021-12-15,Employed,1,49.0,0.0,0.0
+42,2023-2024,95359,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Amanda Pierson,Science Teacher,2023-07-17,Employed,1,49.0,0.0,13.0625
+43,2023-2024,95504,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Sabrecia Pitre,Substitute Teacher,2023-08-25,Employed,13.0,49.0,0.0,0.0
+44,2023-2024,93947,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Jennifer Ponton,Special Education Teacher,2021-07-16,Employed,1,49.0,0.0,2.0
+45,2023-2024,94677,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Serita Porter,Math Teacher,2022-07-16,Employed,1,49.0,0.0,4.75
+46,2023-2024,95586,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Christopher Raggett,Substitute Teacher,2023-09-13,Employed,25.0,49.0,0.0,0.0
+47,2023-2024,95312,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Jose Rodriguez,Social Studies Teacher,2023-07-17,Employed,1,49.0,0.0,3.0
+49,2023-2024,95178,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Kathy Scott-Morris,Special Education Teacher,2023-02-20,Employed,1,49.0,15.0,3.75
+50,2023-2024,95471,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Ashante Sims,Substitute Teacher,2023-08-21,Employed,9.0,49.0,0.0,0.0
+51,2023-2024,95670,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Taylor Smith,Substitute Teacher,2023-10-18,Employed,47.0,49.0,0.0,0.0
+52,2023-2024,95218,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Devyn Thompson,Substitute Teacher,2023-09-05,2023-08-09 00:00:00,19.0,49.0,0.0,1.0
+53,2023-2024,95089,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Adriana Vasquez,Office Coordinator,2023-01-04,Employed,1,49.0,0.0,2.0
+54,2023-2024,95510,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Lisa Villanueva,Substitute Teacher,2023-08-30,Employed,16.0,49.0,0.0,0.0
+55,2023-2024,95154,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Bella Ward,Substitute Teacher,2023-02-02,Employed,1,49.0,0.0,3.0
+56,2023-2024,95585,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Vernardo Washington,Substitute Teacher,2023-09-13,Employed,25.0,49.0,0.0,0.0
+57,2023-2024,94340,Green Dot Public Schools Southeast Texas,M.L. King Middle School,Doretta Watson,Campus Behavior Coordinator,2021-11-08,Employed,1,49.0,0.0,6.5
+58,2023-2024,94978,Green Dot Public Schools Southeast Texas,Green Dot Southeast Texas Home Office,David Willard [C],Board Member,2021-05-05,Employed,1,49.0,0.0,0.0

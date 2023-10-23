@@ -68,13 +68,13 @@ class leave_of_absence:
 
         #Accounts for all 3 scenarios, LOA beginning before SY and ending during, LOA beginning during SY and ending after
         #and lastly normal LOA during SY. 
-        sub = sub[
+        LOA_ = LOA_[
         #LOA begins before SY, but ends during 
-        (((sub['First Day'] <= region_first_day) & (sub['Actual Last Day'] <= region_last_day)) |
+        (((LOA_['First Day'] <= region_first_day) & (LOA_['Actual Last Day'] <= region_last_day)) |
         #LOA begins at the end of SY, and ends after the SY
-        ((sub['First Day'] >= region_first_day) & (sub['First Day'] <= region_last_day)) |
+        ((LOA_['First Day'] >= region_first_day) & (LOA_['First Day'] <= region_last_day)) |
         #LOA is within the SY
-        ((sub['First Day'] >= region_first_day) & (sub['Actual Last Day'] <= region_last_day)))
+        ((LOA_['First Day'] >= region_first_day) & (LOA_['Actual Last Day'] <= region_last_day)))
         ]
 
         #given the first day and last day, use the Calendar Dict to map the Calendar Start Date & End Date
