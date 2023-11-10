@@ -1,15 +1,15 @@
 ,employee count,Worker,Worker Status,Employee ID,Hire Date,Termination Date,Job Profile,Company,Location,Time Off Date,Time Off Type for Time Off Entry,Total Units,Sum of Hours
-0,2,Abel Martinez,Active,93940,2021-07-16-07:00,,Special Education Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-12,Local Sick Leave,8.0,120
-1,2,Abel Martinez,Active,93940,2021-07-16-07:00,,Special Education Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-28,Local Sick Leave,8.0,120
-2,2,Abel Martinez,Active,93940,2021-07-16-07:00,,Special Education Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-17,Local Sick Leave,8.0,120
-3,2,Abel Martinez,Active,93940,2021-07-16-07:00,,Special Education Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-11-04,Sick Leave (Pension Eligible),8.0,120
-4,2,Abel Martinez,Active,93940,2021-07-16-07:00,,Special Education Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-01-06,Sick Leave (Pension Eligible),8.0,120
-5,2,Abel Martinez,Active,93940,2021-07-16-07:00,,Special Education Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-01-25,Sick Leave (Pension Eligible),8.0,120
-6,2,Abel Martinez,Active,93940,2021-07-16-07:00,,Special Education Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-20,Local Sick Leave,8.0,120
-7,2,Abel Martinez,Active,93940,2021-07-16-07:00,,Special Education Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-06,Sick Leave (Pension Eligible),8.0,120
-8,2,Abel Martinez,Active,93940,2021-07-16-07:00,,Special Education Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-24,Sick Leave (Pension Eligible),8.0,120
-9,2,Abel Martinez,Active,93940,2021-07-16-07:00,,Special Education Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-04-03,Local Sick Leave,8.0,120
-10,2,Abel Martinez,Active,93940,2021-07-16-07:00,,Special Education Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-01,Sick Leave (Pension Eligible),8.0,120
+0,2,Abel Martinez,Active,93940,2021-07-16-07:00,,Assistant Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-12,Local Sick Leave,8.0,120
+1,2,Abel Martinez,Active,93940,2021-07-16-07:00,,Assistant Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-28,Local Sick Leave,8.0,120
+2,2,Abel Martinez,Active,93940,2021-07-16-07:00,,Assistant Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-17,Local Sick Leave,8.0,120
+3,2,Abel Martinez,Active,93940,2021-07-16-07:00,,Assistant Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-11-04,Sick Leave (Pension Eligible),8.0,120
+4,2,Abel Martinez,Active,93940,2021-07-16-07:00,,Assistant Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-01-06,Sick Leave (Pension Eligible),8.0,120
+5,2,Abel Martinez,Active,93940,2021-07-16-07:00,,Assistant Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-01-25,Sick Leave (Pension Eligible),8.0,120
+6,2,Abel Martinez,Active,93940,2021-07-16-07:00,,Assistant Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-20,Local Sick Leave,8.0,120
+7,2,Abel Martinez,Active,93940,2021-07-16-07:00,,Assistant Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-06,Sick Leave (Pension Eligible),8.0,120
+8,2,Abel Martinez,Active,93940,2021-07-16-07:00,,Assistant Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-24,Sick Leave (Pension Eligible),8.0,120
+9,2,Abel Martinez,Active,93940,2021-07-16-07:00,,Assistant Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-04-03,Local Sick Leave,8.0,120
+10,2,Abel Martinez,Active,93940,2021-07-16-07:00,,Assistant Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-01,Sick Leave (Pension Eligible),8.0,120
 11,15,Adriana Vasquez,Active,95089,2023-01-04-08:00,,Office Coordinator (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-10,Office Closure,8.0,16
 12,28,Alaina Castillo,Terminated,94375,2021-12-13-08:00,2023-07-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-20,Local Sick Leave,4.0,76
 13,28,Alaina Castillo,Terminated,94375,2021-12-13-08:00,2023-07-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-20,Local Sick Leave,8.0,76
@@ -19,482 +19,482 @@
 17,28,Alaina Castillo,Terminated,94375,2021-12-13-08:00,2023-07-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-24,Local Sick Leave,-8.0,76
 18,28,Alaina Castillo,Terminated,94375,2021-12-13-08:00,2023-07-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-31,Local Sick Leave,8.0,76
 19,28,Alaina Castillo,Terminated,94375,2021-12-13-08:00,2023-07-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-08,Local Sick Leave,8.0,76
-20,52,Alexandria Lewis,Active,94990,2022-10-28-07:00,,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-10,Office Closure,8.0,65
-21,98,Amber Young,Active,94106,2022-08-22-07:00,2022-07-25-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-22,Local Sick Leave,8.0,115
-22,98,Amber Young,Active,94106,2022-08-22-07:00,2022-07-25-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-23,Local Sick Leave,8.0,115
-23,98,Amber Young,Active,94106,2022-08-22-07:00,2022-07-25-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-26,Local Sick Leave,8.0,115
-24,98,Amber Young,Active,94106,2022-08-22-07:00,2022-07-25-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-27,Local Sick Leave,8.0,115
-25,98,Amber Young,Active,94106,2022-08-22-07:00,2022-07-25-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-12,Sick Leave (Pension Eligible),5.0,115
-26,98,Amber Young,Active,94106,2022-08-22-07:00,2022-07-25-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-13,Sick Leave (Pension Eligible),8.0,115
-27,98,Amber Young,Active,94106,2022-08-22-07:00,2022-07-25-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-24,Sick Leave (Pension Eligible),4.5,115
-28,98,Amber Young,Active,94106,2022-08-22-07:00,2022-07-25-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-11-02,Local Sick Leave,4.5,115
-29,98,Amber Young,Active,94106,2022-08-22-07:00,2022-07-25-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-11-15,Sick Leave (Pension Eligible),2.5,115
-30,99,Ambria McNeil,Active,94800,2022-08-15-07:00,,Office Coordinator (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-29,Local Sick Leave,8.0,56
-31,99,Ambria McNeil,Active,94800,2022-08-15-07:00,,Office Coordinator (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-07,Local Sick Leave,8.0,56
-32,99,Ambria McNeil,Active,94800,2022-08-15-07:00,,Office Coordinator (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-08,Local Sick Leave,8.0,56
-33,99,Ambria McNeil,Active,94800,2022-08-15-07:00,,Office Coordinator (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-15,Unpaid,4.0,56
-34,99,Ambria McNeil,Active,94800,2022-08-15-07:00,,Office Coordinator (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-11-07,Unpaid,4.0,56
-35,99,Ambria McNeil,Active,94800,2022-08-15-07:00,,Office Coordinator (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-06,Local Sick Leave,8.0,56
-36,99,Ambria McNeil,Active,94800,2022-08-15-07:00,,Office Coordinator (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-10,Office Closure,8.0,56
+20,52,Alexandria Lewis,Active,94990,2022-10-28-07:00,,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-10,Office Closure,8.0,93
+21,98,Amber Young,Active,94106,2022-08-22-07:00,2022-07-25-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-22,Local Sick Leave,8.0,147
+22,98,Amber Young,Active,94106,2022-08-22-07:00,2022-07-25-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-23,Local Sick Leave,8.0,147
+23,98,Amber Young,Active,94106,2022-08-22-07:00,2022-07-25-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-26,Local Sick Leave,8.0,147
+24,98,Amber Young,Active,94106,2022-08-22-07:00,2022-07-25-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-27,Local Sick Leave,8.0,147
+25,98,Amber Young,Active,94106,2022-08-22-07:00,2022-07-25-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-12,Sick Leave (Pension Eligible),5.0,147
+26,98,Amber Young,Active,94106,2022-08-22-07:00,2022-07-25-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-13,Sick Leave (Pension Eligible),8.0,147
+27,98,Amber Young,Active,94106,2022-08-22-07:00,2022-07-25-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-24,Sick Leave (Pension Eligible),4.5,147
+28,98,Amber Young,Active,94106,2022-08-22-07:00,2022-07-25-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-11-02,Local Sick Leave,4.5,147
+29,98,Amber Young,Active,94106,2022-08-22-07:00,2022-07-25-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-11-15,Sick Leave (Pension Eligible),2.5,147
+30,99,Ambria McNeil,Active,94800,2022-08-15-07:00,,Office Coordinator (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-29,Local Sick Leave,8.0,72
+31,99,Ambria McNeil,Active,94800,2022-08-15-07:00,,Office Coordinator (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-07,Local Sick Leave,8.0,72
+32,99,Ambria McNeil,Active,94800,2022-08-15-07:00,,Office Coordinator (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-08,Local Sick Leave,8.0,72
+33,99,Ambria McNeil,Active,94800,2022-08-15-07:00,,Office Coordinator (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-15,Unpaid,4.0,72
+34,99,Ambria McNeil,Active,94800,2022-08-15-07:00,,Office Coordinator (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-11-07,Unpaid,4.0,72
+35,99,Ambria McNeil,Active,94800,2022-08-15-07:00,,Office Coordinator (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-06,Local Sick Leave,8.0,72
+36,99,Ambria McNeil,Active,94800,2022-08-15-07:00,,Office Coordinator (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-10,Office Closure,8.0,72
 37,139,Angela Gauthier,Active,93948,2021-07-16-07:00,,Physical Education/Health Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-24,Local Sick Leave,8.0,16
 38,139,Angela Gauthier,Active,93948,2021-07-16-07:00,,Physical Education/Health Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-25,Local Sick Leave,8.0,16
-39,153,Anitra Smith,Terminated,94055,2023-03-22-07:00,2023-07-14-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-04-05,Local Sick Leave,8.0,37
-40,153,Anitra Smith,Terminated,94055,2023-03-22-07:00,2023-07-14-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-04-13,Unpaid Time Off,3.0,37
-41,153,Anitra Smith,Terminated,94055,2023-03-22-07:00,2023-07-14-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-04-19,Sick Leave (Pension Eligible),8.0,37
-42,153,Anitra Smith,Terminated,94055,2023-03-22-07:00,2023-07-14-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-08,Sick Leave (Pension Eligible),8.0,37
-43,153,Anitra Smith,Terminated,94055,2023-03-22-07:00,2023-07-14-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-22,Sick Leave (Pension Eligible),4.0,37
-44,175,Ariana Darjean,Active,94682,2022-07-16-07:00,,Physical Education/Health Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-22,Local Sick Leave,8.0,44.25
-45,175,Ariana Darjean,Active,94682,2022-07-16-07:00,,Physical Education/Health Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-23,Local Sick Leave,8.0,44.25
-46,175,Ariana Darjean,Active,94682,2022-07-16-07:00,,Physical Education/Health Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-20,Jury Duty,0.0,44.25
-47,175,Ariana Darjean,Active,94682,2022-07-16-07:00,,Physical Education/Health Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-20,Jury Duty,-4.0,44.25
-48,175,Ariana Darjean,Active,94682,2022-07-16-07:00,,Physical Education/Health Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-01-17,Local Sick Leave,4.0,44.25
-49,175,Ariana Darjean,Active,94682,2022-07-16-07:00,,Physical Education/Health Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-07,Local Sick Leave,2.0,44.25
-50,175,Ariana Darjean,Active,94682,2022-07-16-07:00,,Physical Education/Health Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-07,Local Sick Leave,8.0,44.25
-51,175,Ariana Darjean,Active,94682,2022-07-16-07:00,,Physical Education/Health Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-19,Sick Leave (Pension Eligible),4.0,44.25
-52,191,Ashley Broughton,Active,94714,2022-07-25-07:00,,Social Worker (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-21,Local Sick Leave,8.0,44
-53,191,Ashley Broughton,Active,94714,2022-07-25-07:00,,Social Worker (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-11-03,Local Sick Leave,6.0,44
-54,191,Ashley Broughton,Active,94714,2022-07-25-07:00,,Social Worker (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-12-08,Local Sick Leave,1.0,44
-55,191,Ashley Broughton,Active,94714,2022-07-25-07:00,,Social Worker (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-02,Local Sick Leave,6.5,44
-56,191,Ashley Broughton,Active,94714,2022-07-25-07:00,,Social Worker (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-21,Local Sick Leave,1.0,44
-57,191,Ashley Broughton,Active,94714,2022-07-25-07:00,,Social Worker (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-31,Local Sick Leave,8.0,44
-58,191,Ashley Broughton,Active,94714,2022-07-25-07:00,,Social Worker (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-09,Local Sick Leave,1.0,44
-59,191,Ashley Broughton,Active,94714,2022-07-25-07:00,,Social Worker (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-11,Local Sick Leave,0.0,44
-60,191,Ashley Broughton,Active,94714,2022-07-25-07:00,,Social Worker (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-11,Local Sick Leave,-1.0,44
-61,191,Ashley Broughton,Active,94714,2022-07-25-07:00,,Social Worker (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-12,Local Sick Leave,8.0,44
-62,213,Audrey Burnside,Active,93047,2018-07-16-07:00,,Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-10,Sick,8.0,160
-63,213,Audrey Burnside,Active,93047,2018-07-16-07:00,,Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-11,Sick,8.0,160
-64,213,Audrey Burnside,Active,93047,2018-07-16-07:00,,Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-12,Sick,8.0,160
-65,213,Audrey Burnside,Active,93047,2018-07-16-07:00,,Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-01,Sick,8.0,160
-66,213,Audrey Burnside,Active,93047,2018-07-16-07:00,,Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-02,Sick,8.0,160
-67,213,Audrey Burnside,Active,93047,2018-07-16-07:00,,Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-14,Sick,8.0,160
-68,213,Audrey Burnside,Active,93047,2018-07-16-07:00,,Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-26,Sick,8.0,160
-69,213,Audrey Burnside,Active,93047,2018-07-16-07:00,,Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-12-09,PTO,8.0,160
-70,213,Audrey Burnside,Active,93047,2018-07-16-07:00,,Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-12-12,PTO,8.0,160
-71,213,Audrey Burnside,Active,93047,2018-07-16-07:00,,Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-01-17,Sick,8.0,160
-72,213,Audrey Burnside,Active,93047,2018-07-16-07:00,,Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-10,Sick,8.0,160
-73,213,Audrey Burnside,Active,93047,2018-07-16-07:00,,Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-17,Sick,8.0,160
-74,213,Audrey Burnside,Active,93047,2018-07-16-07:00,,Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-08,PTO,8.0,160
-75,213,Audrey Burnside,Active,93047,2018-07-16-07:00,,Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-09,PTO,8.0,160
-76,213,Audrey Burnside,Active,93047,2018-07-16-07:00,,Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-22,PTO,0.0,160
-77,213,Audrey Burnside,Active,93047,2018-07-16-07:00,,Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-22,PTO,-8.0,160
-78,213,Audrey Burnside,Active,93047,2018-07-16-07:00,,Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-22,PTO,8.0,160
-79,213,Audrey Burnside,Active,93047,2018-07-16-07:00,,Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-23,PTO,0.0,160
-80,213,Audrey Burnside,Active,93047,2018-07-16-07:00,,Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-23,PTO,-8.0,160
-81,240,Billy Grogan,Terminated,93945,2021-07-26-07:00,2023-06-30-07:00,Special Education Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-23,Local Sick Leave,8.0,125
-82,240,Billy Grogan,Terminated,93945,2021-07-26-07:00,2023-06-30-07:00,Special Education Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-11-10,Sick Leave (Pension Eligible),8.0,125
-83,240,Billy Grogan,Terminated,93945,2021-07-26-07:00,2023-06-30-07:00,Special Education Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-12-09,Sick Leave (Pension Eligible),8.0,125
-84,240,Billy Grogan,Terminated,93945,2021-07-26-07:00,2023-06-30-07:00,Special Education Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-12-15,Local Sick Leave,8.0,125
-85,240,Billy Grogan,Terminated,93945,2021-07-26-07:00,2023-06-30-07:00,Special Education Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-01-19,Local Sick Leave,8.0,125
-86,240,Billy Grogan,Terminated,93945,2021-07-26-07:00,2023-06-30-07:00,Special Education Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-01-20,Local Sick Leave,8.0,125
-87,240,Billy Grogan,Terminated,93945,2021-07-26-07:00,2023-06-30-07:00,Special Education Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-01-23,Sick Leave (Pension Eligible),8.0,125
-88,240,Billy Grogan,Terminated,93945,2021-07-26-07:00,2023-06-30-07:00,Special Education Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-04-04,Local Sick Leave,8.0,125
-89,240,Billy Grogan,Terminated,93945,2021-07-26-07:00,2023-06-30-07:00,Special Education Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-04-05,Sick Leave (Pension Eligible),8.0,125
-90,240,Billy Grogan,Terminated,93945,2021-07-26-07:00,2023-06-30-07:00,Special Education Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-04-06,Local Sick Leave,5.0,125
-91,240,Billy Grogan,Terminated,93945,2021-07-26-07:00,2023-06-30-07:00,Special Education Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-04-14,Sick Leave (Pension Eligible),8.0,125
-92,240,Billy Grogan,Terminated,93945,2021-07-26-07:00,2023-06-30-07:00,Special Education Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-04-17,Sick Leave (Pension Eligible),8.0,125
-93,240,Billy Grogan,Terminated,93945,2021-07-26-07:00,2023-06-30-07:00,Special Education Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-04-18,Sick Leave (Pension Eligible),8.0,125
-94,240,Billy Grogan,Terminated,93945,2021-07-26-07:00,2023-06-30-07:00,Special Education Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-04-19,Sick Leave (Pension Eligible),8.0,125
-95,240,Billy Grogan,Terminated,93945,2021-07-26-07:00,2023-06-30-07:00,Special Education Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-04-20,Sick Leave (Pension Eligible),8.0,125
-96,240,Billy Grogan,Terminated,93945,2021-07-26-07:00,2023-06-30-07:00,Special Education Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-04-21,Sick Leave (Pension Eligible),8.0,125
-97,243,Blanca Nunez,Active,94988,2023-08-02-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-24,Local Sick Leave,8.0,48
-98,243,Blanca Nunez,Active,94988,2023-08-02-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-10,Office Closure,8.0,48
-99,243,Blanca Nunez,Active,94988,2023-08-02-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-12,Local Sick Leave,8.0,48
-100,387,Cliff Claflin,Terminated,93815,2020-11-09-08:00,2023-05-31-07:00,Executive Director (TX),Green Dot Public Schools Southeast Texas,Green Dot Southeast Texas Home Office,2022-08-25,PTO,8.0,74
-101,387,Cliff Claflin,Terminated,93815,2020-11-09-08:00,2023-05-31-07:00,Executive Director (TX),Green Dot Public Schools Southeast Texas,Green Dot Southeast Texas Home Office,2022-08-26,PTO,8.0,74
-102,387,Cliff Claflin,Terminated,93815,2020-11-09-08:00,2023-05-31-07:00,Executive Director (TX),Green Dot Public Schools Southeast Texas,Green Dot Southeast Texas Home Office,2022-09-30,PTO,8.0,74
-103,387,Cliff Claflin,Terminated,93815,2020-11-09-08:00,2023-05-31-07:00,Executive Director (TX),Green Dot Public Schools Southeast Texas,Green Dot Southeast Texas Home Office,2022-11-07,PTO,8.0,74
-104,387,Cliff Claflin,Terminated,93815,2020-11-09-08:00,2023-05-31-07:00,Executive Director (TX),Green Dot Public Schools Southeast Texas,Green Dot Southeast Texas Home Office,2022-11-30,Local Sick Leave,8.0,74
-105,387,Cliff Claflin,Terminated,93815,2020-11-09-08:00,2023-05-31-07:00,Executive Director (TX),Green Dot Public Schools Southeast Texas,Green Dot Southeast Texas Home Office,2023-01-11,Local Sick Leave,4.0,74
-106,387,Cliff Claflin,Terminated,93815,2020-11-09-08:00,2023-05-31-07:00,Executive Director (TX),Green Dot Public Schools Southeast Texas,Green Dot Southeast Texas Home Office,2023-03-23,PTO,7.0,74
-107,387,Cliff Claflin,Terminated,93815,2020-11-09-08:00,2023-05-31-07:00,Executive Director (TX),Green Dot Public Schools Southeast Texas,Green Dot Southeast Texas Home Office,2023-04-14,Bereavement - 3 days or less,1.0,74
-108,387,Cliff Claflin,Terminated,93815,2020-11-09-08:00,2023-05-31-07:00,Executive Director (TX),Green Dot Public Schools Southeast Texas,Green Dot Southeast Texas Home Office,2023-04-17,PTO,8.0,74
-109,387,Cliff Claflin,Terminated,93815,2020-11-09-08:00,2023-05-31-07:00,Executive Director (TX),Green Dot Public Schools Southeast Texas,Green Dot Southeast Texas Home Office,2023-05-10,PTO,4.0,74
-110,387,Cliff Claflin,Terminated,93815,2020-11-09-08:00,2023-05-31-07:00,Executive Director (TX),Green Dot Public Schools Southeast Texas,Green Dot Southeast Texas Home Office,2023-05-11,Local Sick Leave,2.0,74
-111,387,Cliff Claflin,Terminated,93815,2020-11-09-08:00,2023-05-31-07:00,Executive Director (TX),Green Dot Public Schools Southeast Texas,Green Dot Southeast Texas Home Office,2023-05-15,PTO,4.0,74
-112,387,Cliff Claflin,Terminated,93815,2020-11-09-08:00,2023-05-31-07:00,Executive Director (TX),Green Dot Public Schools Southeast Texas,Green Dot Southeast Texas Home Office,2023-05-17,PTO,4.0,74
-113,417,Cynthia Suarez,Terminated,94167,2021-08-27-07:00,2022-12-09-08:00,Office Assistant (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-22,Local Sick Leave,1.0,80
-114,417,Cynthia Suarez,Terminated,94167,2021-08-27-07:00,2022-12-09-08:00,Office Assistant (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-22,Local Sick Leave,7.0,80
-115,417,Cynthia Suarez,Terminated,94167,2021-08-27-07:00,2022-12-09-08:00,Office Assistant (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-23,Local Sick Leave,1.0,80
-116,417,Cynthia Suarez,Terminated,94167,2021-08-27-07:00,2022-12-09-08:00,Office Assistant (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-23,Local Sick Leave,7.0,80
-117,417,Cynthia Suarez,Terminated,94167,2021-08-27-07:00,2022-12-09-08:00,Office Assistant (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-24,Local Sick Leave,8.0,80
-118,417,Cynthia Suarez,Terminated,94167,2021-08-27-07:00,2022-12-09-08:00,Office Assistant (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-25,Local Sick Leave,8.0,80
-119,417,Cynthia Suarez,Terminated,94167,2021-08-27-07:00,2022-12-09-08:00,Office Assistant (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-26,Local Sick Leave,8.0,80
-120,417,Cynthia Suarez,Terminated,94167,2021-08-27-07:00,2022-12-09-08:00,Office Assistant (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-31,Sick Leave (Pension Eligible),8.0,80
-121,417,Cynthia Suarez,Terminated,94167,2021-08-27-07:00,2022-12-09-08:00,Office Assistant (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-11-01,Sick Leave (Pension Eligible),8.0,80
-122,417,Cynthia Suarez,Terminated,94167,2021-08-27-07:00,2022-12-09-08:00,Office Assistant (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-11-02,Sick Leave (Pension Eligible),8.0,80
-123,417,Cynthia Suarez,Terminated,94167,2021-08-27-07:00,2022-12-09-08:00,Office Assistant (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-11-03,Sick Leave (Pension Eligible),8.0,80
-124,417,Cynthia Suarez,Terminated,94167,2021-08-27-07:00,2022-12-09-08:00,Office Assistant (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-11-04,Unpaid,8.0,80
-125,487,Decaqunita Forte,Terminated,94549,2022-03-23-07:00,2023-07-14-07:00,Math Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-10,Local Sick Leave,8.0,40
-126,487,Decaqunita Forte,Terminated,94549,2022-03-23-07:00,2023-07-14-07:00,Math Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-11,Local Sick Leave,8.0,40
-127,487,Decaqunita Forte,Terminated,94549,2022-03-23-07:00,2023-07-14-07:00,Math Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-12,Local Sick Leave,8.0,40
-128,487,Decaqunita Forte,Terminated,94549,2022-03-23-07:00,2023-07-14-07:00,Math Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-11-11,Local Sick Leave,8.0,40
-129,487,Decaqunita Forte,Terminated,94549,2022-03-23-07:00,2023-07-14-07:00,Math Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-19,Local Sick Leave,8.0,40
-130,499,Denisha Haynes,Active,94991,2022-10-28-07:00,,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-10,Office Closure,8.0,8
-131,527,Dilya Jones,Terminated,93942,2021-07-16-07:00,2023-06-30-07:00,ELA Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-15,Local Sick Leave,1.5,121
-132,527,Dilya Jones,Terminated,93942,2021-07-16-07:00,2023-06-30-07:00,ELA Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-18,Local Sick Leave,8.0,121
-133,527,Dilya Jones,Terminated,93942,2021-07-16-07:00,2023-06-30-07:00,ELA Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-19,Local Sick Leave,8.0,121
-134,527,Dilya Jones,Terminated,93942,2021-07-16-07:00,2023-06-30-07:00,ELA Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-22,Local Sick Leave,8.0,121
-135,527,Dilya Jones,Terminated,93942,2021-07-16-07:00,2023-06-30-07:00,ELA Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-23,Local Sick Leave,8.0,121
-136,527,Dilya Jones,Terminated,93942,2021-07-16-07:00,2023-06-30-07:00,ELA Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-09,Local Sick Leave,3.0,121
-137,527,Dilya Jones,Terminated,93942,2021-07-16-07:00,2023-06-30-07:00,ELA Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-20,Sick Leave (Pension Eligible),8.0,121
-138,527,Dilya Jones,Terminated,93942,2021-07-16-07:00,2023-06-30-07:00,ELA Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-11-01,Sick Leave (Pension Eligible),4.0,121
-139,527,Dilya Jones,Terminated,93942,2021-07-16-07:00,2023-06-30-07:00,ELA Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-12-02,Sick Leave (Pension Eligible),8.0,121
-140,527,Dilya Jones,Terminated,93942,2021-07-16-07:00,2023-06-30-07:00,ELA Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-01-13,Sick Leave (Pension Eligible),4.0,121
-141,527,Dilya Jones,Terminated,93942,2021-07-16-07:00,2023-06-30-07:00,ELA Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-01-26,Sick Leave (Pension Eligible),8.0,121
-142,527,Dilya Jones,Terminated,93942,2021-07-16-07:00,2023-06-30-07:00,ELA Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-01,Bereavement - 4 to 5 Days,1.0,121
-143,527,Dilya Jones,Terminated,93942,2021-07-16-07:00,2023-06-30-07:00,ELA Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-02,Bereavement - 4 to 5 Days,1.0,121
-144,527,Dilya Jones,Terminated,93942,2021-07-16-07:00,2023-06-30-07:00,ELA Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-03,Bereavement - 4 to 5 Days,1.0,121
-145,527,Dilya Jones,Terminated,93942,2021-07-16-07:00,2023-06-30-07:00,ELA Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-06,Bereavement - 4 to 5 Days,1.0,121
-146,527,Dilya Jones,Terminated,93942,2021-07-16-07:00,2023-06-30-07:00,ELA Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-07,Bereavement - 4 to 5 Days,1.0,121
-147,527,Dilya Jones,Terminated,93942,2021-07-16-07:00,2023-06-30-07:00,ELA Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-08,Sick Leave (Pension Eligible),8.0,121
-148,527,Dilya Jones,Terminated,93942,2021-07-16-07:00,2023-06-30-07:00,ELA Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-23,Sick Leave (Pension Eligible),8.0,121
-149,527,Dilya Jones,Terminated,93942,2021-07-16-07:00,2023-06-30-07:00,ELA Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-28,Sick Leave (Pension Eligible),3.0,121
-150,527,Dilya Jones,Terminated,93942,2021-07-16-07:00,2023-06-30-07:00,ELA Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-04,Local Sick Leave,0.0,121
-151,527,Dilya Jones,Terminated,93942,2021-07-16-07:00,2023-06-30-07:00,ELA Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-04,Local Sick Leave,-6.0,121
-152,527,Dilya Jones,Terminated,93942,2021-07-16-07:00,2023-06-30-07:00,ELA Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-04,Local Sick Leave,6.5,121
-153,527,Dilya Jones,Terminated,93942,2021-07-16-07:00,2023-06-30-07:00,ELA Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-04,Unpaid Time Off,1.5,121
-154,527,Dilya Jones,Terminated,93942,2021-07-16-07:00,2023-06-30-07:00,ELA Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-12,Sick Leave (Pension Eligible),8.0,121
-155,527,Dilya Jones,Terminated,93942,2021-07-16-07:00,2023-06-30-07:00,ELA Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-22,Unpaid Time Off,8.0,121
-156,527,Dilya Jones,Terminated,93942,2021-07-16-07:00,2023-06-30-07:00,ELA Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-23,Sick Leave (Pension Eligible),1.0,121
-157,527,Dilya Jones,Terminated,93942,2021-07-16-07:00,2023-06-30-07:00,ELA Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-24,Sick Leave (Pension Eligible),1.0,121
-158,527,Dilya Jones,Terminated,93942,2021-07-16-07:00,2023-06-30-07:00,ELA Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-25,Sick Leave (Pension Eligible),2.5,121
-159,536,Doretta Watson,Active,94340,2021-11-08-08:00,,Campus Behavior Coordinator (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-07,Local Sick Leave,4.0,127.5
-160,536,Doretta Watson,Active,94340,2021-11-08-08:00,,Campus Behavior Coordinator (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-21,Local Sick Leave,8.0,127.5
-161,536,Doretta Watson,Active,94340,2021-11-08-08:00,,Campus Behavior Coordinator (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-30,Sick Leave (Pension Eligible),8.0,127.5
-162,536,Doretta Watson,Active,94340,2021-11-08-08:00,,Campus Behavior Coordinator (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-31,Sick Leave (Pension Eligible),8.0,127.5
-163,536,Doretta Watson,Active,94340,2021-11-08-08:00,,Campus Behavior Coordinator (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-11-01,Sick Leave (Pension Eligible),8.0,127.5
-164,536,Doretta Watson,Active,94340,2021-11-08-08:00,,Campus Behavior Coordinator (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-12-01,Local Sick Leave,8.0,127.5
-165,536,Doretta Watson,Active,94340,2021-11-08-08:00,,Campus Behavior Coordinator (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-01-20,Local Sick Leave,8.0,127.5
-166,536,Doretta Watson,Active,94340,2021-11-08-08:00,,Campus Behavior Coordinator (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-16,Local Sick Leave,8.0,127.5
-167,536,Doretta Watson,Active,94340,2021-11-08-08:00,,Campus Behavior Coordinator (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-21,Sick Leave (Pension Eligible),8.0,127.5
-168,536,Doretta Watson,Active,94340,2021-11-08-08:00,,Campus Behavior Coordinator (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-10,Office Closure,8.0,127.5
-169,536,Doretta Watson,Active,94340,2021-11-08-08:00,,Campus Behavior Coordinator (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-02,Sick Leave (Pension Eligible),7.5,127.5
-170,566,Elexsia Roberts,Terminated,94337,2021-11-08-08:00,2023-01-17-08:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-22,Local Sick Leave,8.0,64
-171,566,Elexsia Roberts,Terminated,94337,2021-11-08-08:00,2023-01-17-08:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-13,Local Sick Leave,8.0,64
-172,566,Elexsia Roberts,Terminated,94337,2021-11-08-08:00,2023-01-17-08:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-24,Local Sick Leave,8.0,64
-173,566,Elexsia Roberts,Terminated,94337,2021-11-08-08:00,2023-01-17-08:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-25,Local Sick Leave,8.0,64
-174,566,Elexsia Roberts,Terminated,94337,2021-11-08-08:00,2023-01-17-08:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-11-29,Local Sick Leave,4.0,64
-175,566,Elexsia Roberts,Terminated,94337,2021-11-08-08:00,2023-01-17-08:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-12-15,Local Sick Leave,4.0,64
-176,566,Elexsia Roberts,Terminated,94337,2021-11-08-08:00,2023-01-17-08:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-01-06,Sick Leave (Pension Eligible),8.0,64
-177,566,Elexsia Roberts,Terminated,94337,2021-11-08-08:00,2023-01-17-08:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-01-09,Sick Leave (Pension Eligible),8.0,64
-178,566,Elexsia Roberts,Terminated,94337,2021-11-08-08:00,2023-01-17-08:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-01-10,Sick Leave (Pension Eligible),8.0,64
-179,569,Elias Ibarra,Terminated,94731,2022-07-28-07:00,2023-07-21-07:00,Campus Behavior Coordinator (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-01-25,Local Sick Leave,8.0,64
-180,569,Elias Ibarra,Terminated,94731,2022-07-28-07:00,2023-07-21-07:00,Campus Behavior Coordinator (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-10,Office Closure,8.0,64
-181,569,Elias Ibarra,Terminated,94731,2022-07-28-07:00,2023-07-21-07:00,Campus Behavior Coordinator (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-28,Sick Leave (Pension Eligible),8.0,64
-182,569,Elias Ibarra,Terminated,94731,2022-07-28-07:00,2023-07-21-07:00,Campus Behavior Coordinator (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-09,Local Sick Leave,8.0,64
-183,569,Elias Ibarra,Terminated,94731,2022-07-28-07:00,2023-07-21-07:00,Campus Behavior Coordinator (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-15,Local Sick Leave,8.0,64
-184,569,Elias Ibarra,Terminated,94731,2022-07-28-07:00,2023-07-21-07:00,Campus Behavior Coordinator (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-16,Local Sick Leave,8.0,64
-185,569,Elias Ibarra,Terminated,94731,2022-07-28-07:00,2023-07-21-07:00,Campus Behavior Coordinator (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-17,Local Sick Leave,8.0,64
-186,569,Elias Ibarra,Terminated,94731,2022-07-28-07:00,2023-07-21-07:00,Campus Behavior Coordinator (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-18,Sick Leave (Pension Eligible),8.0,64
-187,569,Elias Ibarra,Terminated,94731,2022-07-28-07:00,2023-07-21-07:00,Campus Behavior Coordinator (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-19,Sick Leave (Pension Eligible),8.0,64
-188,716,Hany Abdelmalek,Terminated,94678,2022-07-16-07:00,2022-09-09-07:00,Science Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-25,Local Sick Leave,1.0,25
-189,716,Hany Abdelmalek,Terminated,94678,2022-07-16-07:00,2022-09-09-07:00,Science Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-08,Local Sick Leave,8.0,25
-190,716,Hany Abdelmalek,Terminated,94678,2022-07-16-07:00,2022-09-09-07:00,Science Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-12,Unpaid Time Off,8.0,25
-191,716,Hany Abdelmalek,Terminated,94678,2022-07-16-07:00,2022-09-09-07:00,Science Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-13,Unpaid Time Off,8.0,25
-192,767,Jacob Smith,Terminated,94129,2021-08-16-07:00,2023-06-30-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-06,Local Sick Leave,8.0,72
-193,767,Jacob Smith,Terminated,94129,2021-08-16-07:00,2023-06-30-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-07,Local Sick Leave,8.0,72
-194,767,Jacob Smith,Terminated,94129,2021-08-16-07:00,2023-06-30-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-10,Unpaid Time Off,0.0,72
-195,767,Jacob Smith,Terminated,94129,2021-08-16-07:00,2023-06-30-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-10,Unpaid Time Off,-8.0,72
-196,767,Jacob Smith,Terminated,94129,2021-08-16-07:00,2023-06-30-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-10,Local Sick Leave,8.0,72
-197,767,Jacob Smith,Terminated,94129,2021-08-16-07:00,2023-06-30-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-11,Unpaid Time Off,0.0,72
-198,767,Jacob Smith,Terminated,94129,2021-08-16-07:00,2023-06-30-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-11,Unpaid Time Off,-8.0,72
-199,767,Jacob Smith,Terminated,94129,2021-08-16-07:00,2023-06-30-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-11,Local Sick Leave,8.0,72
-200,767,Jacob Smith,Terminated,94129,2021-08-16-07:00,2023-06-30-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-12,Unpaid Time Off,0.0,72
-201,767,Jacob Smith,Terminated,94129,2021-08-16-07:00,2023-06-30-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-12,Unpaid Time Off,-8.0,72
-202,767,Jacob Smith,Terminated,94129,2021-08-16-07:00,2023-06-30-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-12,Local Sick Leave,8.0,72
-203,767,Jacob Smith,Terminated,94129,2021-08-16-07:00,2023-06-30-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-13,Unpaid Time Off,0.0,72
-204,767,Jacob Smith,Terminated,94129,2021-08-16-07:00,2023-06-30-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-13,Unpaid Time Off,-8.0,72
-205,767,Jacob Smith,Terminated,94129,2021-08-16-07:00,2023-06-30-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-13,Local Sick Leave,0.0,72
-206,767,Jacob Smith,Terminated,94129,2021-08-16-07:00,2023-06-30-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-13,Local Sick Leave,-8.0,72
-207,767,Jacob Smith,Terminated,94129,2021-08-16-07:00,2023-06-30-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-14,Unpaid Time Off,0.0,72
-208,767,Jacob Smith,Terminated,94129,2021-08-16-07:00,2023-06-30-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-14,Unpaid Time Off,-8.0,72
-209,767,Jacob Smith,Terminated,94129,2021-08-16-07:00,2023-06-30-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-14,Local Sick Leave,0.0,72
-210,767,Jacob Smith,Terminated,94129,2021-08-16-07:00,2023-06-30-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-14,Local Sick Leave,-8.0,72
-211,767,Jacob Smith,Terminated,94129,2021-08-16-07:00,2023-06-30-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-06,Sick Leave (Pension Eligible),8.0,72
-212,767,Jacob Smith,Terminated,94129,2021-08-16-07:00,2023-06-30-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-04-25,Unpaid Time Off,8.0,72
-213,767,Jacob Smith,Terminated,94129,2021-08-16-07:00,2023-06-30-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-04-26,Unpaid Time Off,8.0,72
-214,767,Jacob Smith,Terminated,94129,2021-08-16-07:00,2023-06-30-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-19,Sick Leave (Pension Eligible),0.0,72
-215,767,Jacob Smith,Terminated,94129,2021-08-16-07:00,2023-06-30-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-19,Sick Leave (Pension Eligible),-8.0,72
-216,767,Jacob Smith,Terminated,94129,2021-08-16-07:00,2023-06-30-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-19,Unpaid Time Off,8.0,72
-217,767,Jacob Smith,Terminated,94129,2021-08-16-07:00,2023-06-30-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-24,Sick Leave (Pension Eligible),0.0,72
-218,767,Jacob Smith,Terminated,94129,2021-08-16-07:00,2023-06-30-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-24,Sick Leave (Pension Eligible),-2.5,72
-219,811,Jasmine Delcambre,Active,94537,2023-08-09-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-11-28,Unpaid,8.0,148
-220,811,Jasmine Delcambre,Active,94537,2023-08-09-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-11-29,Unpaid,8.0,148
-221,811,Jasmine Delcambre,Active,94537,2023-08-09-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-11-30,Unpaid,8.0,148
-222,811,Jasmine Delcambre,Active,94537,2023-08-09-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-12-01,Unpaid,8.0,148
-223,811,Jasmine Delcambre,Active,94537,2023-08-09-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-01-18,Unpaid,0.0,148
-224,811,Jasmine Delcambre,Active,94537,2023-08-09-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-01-18,Unpaid,-8.0,148
-225,811,Jasmine Delcambre,Active,94537,2023-08-09-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-01-18,Local Sick Leave,8.0,148
-226,811,Jasmine Delcambre,Active,94537,2023-08-09-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-01-19,Local Sick Leave,8.0,148
-227,811,Jasmine Delcambre,Active,94537,2023-08-09-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-01-23,Unpaid,8.0,148
-228,811,Jasmine Delcambre,Active,94537,2023-08-09-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-23,Local Sick Leave,8.0,148
-229,811,Jasmine Delcambre,Active,94537,2023-08-09-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-24,Local Sick Leave,8.0,148
-230,811,Jasmine Delcambre,Active,94537,2023-08-09-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-27,Local Sick Leave,8.0,148
-231,811,Jasmine Delcambre,Active,94537,2023-08-09-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-10,Unpaid,0.0,148
-232,811,Jasmine Delcambre,Active,94537,2023-08-09-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-10,Unpaid,-8.0,148
-233,811,Jasmine Delcambre,Active,94537,2023-08-09-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-10,Office Closure,8.0,148
-234,811,Jasmine Delcambre,Active,94537,2023-08-09-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-27,Local Sick Leave,8.0,148
-235,811,Jasmine Delcambre,Active,94537,2023-08-09-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-28,Local Sick Leave,8.0,148
-236,811,Jasmine Delcambre,Active,94537,2023-08-09-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-04-12,Local Sick Leave,8.0,148
-237,811,Jasmine Delcambre,Active,94537,2023-08-09-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-12,Local Sick Leave,4.0,148
-238,811,Jasmine Delcambre,Active,94537,2023-08-09-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-19,Local Sick Leave,8.0,148
-239,836,Jenna Betts,Terminated,93967,2021-07-16-07:00,2022-09-23-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-29,Sick Leave (Pension Eligible),8.0,24
-240,836,Jenna Betts,Terminated,93967,2021-07-16-07:00,2022-09-23-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-30,Sick Leave (Pension Eligible),8.0,24
-241,836,Jenna Betts,Terminated,93967,2021-07-16-07:00,2022-09-23-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-21,Local Sick Leave,8.0,24
-242,846,Jennifer Ponton,Active,93947,2021-07-16-07:00,,Special Education Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-06,Local Sick Leave,8.0,99
-243,846,Jennifer Ponton,Active,93947,2021-07-16-07:00,,Special Education Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-07,Sick Leave (Pension Eligible),8.0,99
-244,846,Jennifer Ponton,Active,93947,2021-07-16-07:00,,Special Education Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-27,Sick Leave (Pension Eligible),8.0,99
-245,846,Jennifer Ponton,Active,93947,2021-07-16-07:00,,Special Education Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-28,Sick Leave (Pension Eligible),8.0,99
-246,846,Jennifer Ponton,Active,93947,2021-07-16-07:00,,Special Education Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-11-14,Sick Leave (Pension Eligible),8.0,99
-247,846,Jennifer Ponton,Active,93947,2021-07-16-07:00,,Special Education Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-11-28,Bereavement - 3 days or less,1.0,99
-248,846,Jennifer Ponton,Active,93947,2021-07-16-07:00,,Special Education Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-11-29,Bereavement - 3 days or less,1.0,99
-249,846,Jennifer Ponton,Active,93947,2021-07-16-07:00,,Special Education Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-11-30,Bereavement - 3 days or less,1.0,99
-250,846,Jennifer Ponton,Active,93947,2021-07-16-07:00,,Special Education Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-01-13,Sick Leave (Pension Eligible),8.0,99
-251,846,Jennifer Ponton,Active,93947,2021-07-16-07:00,,Special Education Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-01-30,Sick Leave (Pension Eligible),8.0,99
-252,846,Jennifer Ponton,Active,93947,2021-07-16-07:00,,Special Education Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-23,Local Sick Leave,8.0,99
-253,846,Jennifer Ponton,Active,93947,2021-07-16-07:00,,Special Education Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-04-13,Local Sick Leave,8.0,99
-254,846,Jennifer Ponton,Active,93947,2021-07-16-07:00,,Special Education Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-04-21,Sick Leave (Pension Eligible),8.0,99
-255,1028,Kathy Barker,Terminated,94982,2022-11-01-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-27,Unpaid,0.0,46
-256,1028,Kathy Barker,Terminated,94982,2022-11-01-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-27,Unpaid,-6.0,46
-257,1028,Kathy Barker,Terminated,94982,2022-11-01-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-27,Sick Leave (Pension Eligible),8.0,46
-258,1028,Kathy Barker,Terminated,94982,2022-11-01-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-28,Unpaid,0.0,46
-259,1028,Kathy Barker,Terminated,94982,2022-11-01-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-28,Unpaid,-6.0,46
-260,1028,Kathy Barker,Terminated,94982,2022-11-01-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-28,Sick Leave (Pension Eligible),8.0,46
-261,1028,Kathy Barker,Terminated,94982,2022-11-01-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-01,Unpaid,0.0,46
-262,1028,Kathy Barker,Terminated,94982,2022-11-01-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-01,Unpaid,-6.0,46
-263,1028,Kathy Barker,Terminated,94982,2022-11-01-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-01,Sick Leave (Pension Eligible),8.0,46
-264,1028,Kathy Barker,Terminated,94982,2022-11-01-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-02,Unpaid,0.0,46
-265,1028,Kathy Barker,Terminated,94982,2022-11-01-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-02,Unpaid,-6.0,46
-266,1028,Kathy Barker,Terminated,94982,2022-11-01-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-02,Sick Leave (Pension Eligible),8.0,46
-267,1028,Kathy Barker,Terminated,94982,2022-11-01-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-03,Unpaid,0.0,46
-268,1028,Kathy Barker,Terminated,94982,2022-11-01-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-03,Unpaid,-6.0,46
-269,1028,Kathy Barker,Terminated,94982,2022-11-01-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-03,Sick Leave (Pension Eligible),8.0,46
-270,1028,Kathy Barker,Terminated,94982,2022-11-01-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-06,Unpaid,6.0,46
-271,1028,Kathy Barker,Terminated,94982,2022-11-01-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-10,Office Closure,8.0,46
-272,1039,Kayla LaSalle,Active,94679,2022-07-25-07:00,,Special Education Aide (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-10,Office Closure,8.0,24
-273,1045,Keith Williams-Bey,Terminated,94057,2021-07-26-07:00,2022-09-23-07:00,Campus Behavior Coordinator (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-12,Local Sick Leave,8.0,8
-274,1065,Kenya Johnson,Terminated,94596,2022-06-01-07:00,2022-08-25-07:00,Office Coordinator (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-24,Sick Leave (Pension Eligible),3.5,15
-275,1065,Kenya Johnson,Terminated,94596,2022-06-01-07:00,2022-08-25-07:00,Office Coordinator (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-25,Sick Leave (Pension Eligible),3.5,15
-276,1065,Kenya Johnson,Terminated,94596,2022-06-01-07:00,2022-08-25-07:00,Office Coordinator (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-29,Sick Leave (Pension Eligible),8.0,15
-277,1067,Keshiona Coleman,Active,94752,2023-07-19-07:00,2023-05-31-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-11-03,Unpaid,8.0,52
-278,1067,Keshiona Coleman,Active,94752,2023-07-19-07:00,2023-05-31-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-11-04,Unpaid,4.0,52
-279,1067,Keshiona Coleman,Active,94752,2023-07-19-07:00,2023-05-31-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-11-18,Local Sick Leave,8.0,52
-280,1067,Keshiona Coleman,Active,94752,2023-07-19-07:00,2023-05-31-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-01-30,Local Sick Leave,8.0,52
-281,1067,Keshiona Coleman,Active,94752,2023-07-19-07:00,2023-05-31-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-10,Office Closure,8.0,52
-282,1067,Keshiona Coleman,Active,94752,2023-07-19-07:00,2023-05-31-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-04-05,Local Sick Leave,8.0,52
-283,1067,Keshiona Coleman,Active,94752,2023-07-19-07:00,2023-05-31-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-12,Local Sick Leave,8.0,52
-284,1067,Keshiona Coleman,Active,94752,2023-07-19-07:00,2023-05-31-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-19,Local Sick Leave,8.0,52
-285,1071,Kevin Newton,Active,94783,2022-08-12-07:00,,Campus Behavior Coordinator (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-10,Office Closure,8.0,8
-286,1118,Laila Ajour,Terminated,95088,2023-01-04-08:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-10,Office Closure,8.0,0
-287,1124,Laquana Mitchell,Active,94414,2022-01-10-08:00,,Special Education Aide (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-12,Local Sick Leave,8.0,71.5
-288,1124,Laquana Mitchell,Active,94414,2022-01-10-08:00,,Special Education Aide (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-15,Local Sick Leave,0.0,71.5
-289,1124,Laquana Mitchell,Active,94414,2022-01-10-08:00,,Special Education Aide (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-15,Local Sick Leave,-8.0,71.5
-290,1124,Laquana Mitchell,Active,94414,2022-01-10-08:00,,Special Education Aide (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-21,Local Sick Leave,8.0,71.5
-291,1124,Laquana Mitchell,Active,94414,2022-01-10-08:00,,Special Education Aide (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-22,Local Sick Leave,8.0,71.5
-292,1124,Laquana Mitchell,Active,94414,2022-01-10-08:00,,Special Education Aide (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-23,Local Sick Leave,8.0,71.5
-293,1124,Laquana Mitchell,Active,94414,2022-01-10-08:00,,Special Education Aide (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-01-04,Local Sick Leave,4.0,71.5
-294,1124,Laquana Mitchell,Active,94414,2022-01-10-08:00,,Special Education Aide (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-01-05,Local Sick Leave,4.0,71.5
-295,1124,Laquana Mitchell,Active,94414,2022-01-10-08:00,,Special Education Aide (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-20,Local Sick Leave,1.5,71.5
-296,1124,Laquana Mitchell,Active,94414,2022-01-10-08:00,,Special Education Aide (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-21,Sick Leave (Pension Eligible),8.0,71.5
-297,1124,Laquana Mitchell,Active,94414,2022-01-10-08:00,,Special Education Aide (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-10,Office Closure,8.0,71.5
-298,1127,Larry Charles,Active,93943,2021-07-16-07:00,,Special Education Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-13,Local Sick Leave,8.0,38
-299,1127,Larry Charles,Active,93943,2021-07-16-07:00,,Special Education Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-14,Local Sick Leave,8.0,38
-300,1127,Larry Charles,Active,93943,2021-07-16-07:00,,Special Education Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-27,Local Sick Leave,8.0,38
-301,1155,LaWanna Liedy,Terminated,94512,2023-08-09-07:00,2023-08-09-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-01-02,Local Sick Leave,8.0,48
-302,1155,LaWanna Liedy,Terminated,94512,2023-08-09-07:00,2023-08-09-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-01-16,Local Sick Leave,8.0,48
-303,1155,LaWanna Liedy,Terminated,94512,2023-08-09-07:00,2023-08-09-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-10,Office Closure,8.0,48
-304,1155,LaWanna Liedy,Terminated,94512,2023-08-09-07:00,2023-08-09-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-04-07,Local Sick Leave,8.0,48
-305,1155,LaWanna Liedy,Terminated,94512,2023-08-09-07:00,2023-08-09-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-04-10,Local Sick Leave,8.0,48
-306,1155,LaWanna Liedy,Terminated,94512,2023-08-09-07:00,2023-08-09-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-08,Local Sick Leave,8.0,48
-307,1155,LaWanna Liedy,Terminated,94512,2023-08-09-07:00,2023-08-09-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-17,Local Sick Leave,0.0,48
-308,1155,LaWanna Liedy,Terminated,94512,2023-08-09-07:00,2023-08-09-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-17,Local Sick Leave,-8.0,48
-309,1155,LaWanna Liedy,Terminated,94512,2023-08-09-07:00,2023-08-09-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-18,Local Sick Leave,8.0,48
-310,1191,Lindsey Cooper,Terminated,93836,2021-01-11-08:00,2023-05-31-07:00,Director of Human Capital (TX),Green Dot Public Schools Southeast Texas,Green Dot Southeast Texas Home Office,2022-10-07,Local Sick Leave,8.0,27
-311,1191,Lindsey Cooper,Terminated,93836,2021-01-11-08:00,2023-05-31-07:00,Director of Human Capital (TX),Green Dot Public Schools Southeast Texas,Green Dot Southeast Texas Home Office,2022-11-16,Sick Leave (Pension Eligible),8.0,27
-312,1191,Lindsey Cooper,Terminated,93836,2021-01-11-08:00,2023-05-31-07:00,Director of Human Capital (TX),Green Dot Public Schools Southeast Texas,Green Dot Southeast Texas Home Office,2023-02-14,Sick Leave (Pension Eligible),4.0,27
-313,1191,Lindsey Cooper,Terminated,93836,2021-01-11-08:00,2023-05-31-07:00,Director of Human Capital (TX),Green Dot Public Schools Southeast Texas,Green Dot Southeast Texas Home Office,2023-04-26,Sick Leave (Pension Eligible),3.0,27
-314,1191,Lindsey Cooper,Terminated,93836,2021-01-11-08:00,2023-05-31-07:00,Director of Human Capital (TX),Green Dot Public Schools Southeast Texas,Green Dot Southeast Texas Home Office,2023-05-05,Sick Leave (Pension Eligible),4.0,27
-315,1266,Marian Williams,Terminated,92063,2016-01-04-08:00,2023-07-18-07:00,Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-29,Bereavement - 3 days or less,1.0,60
-316,1266,Marian Williams,Terminated,92063,2016-01-04-08:00,2023-07-18-07:00,Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-30,Bereavement - 3 days or less,1.0,60
-317,1266,Marian Williams,Terminated,92063,2016-01-04-08:00,2023-07-18-07:00,Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-07,Bereavement - 3 days or less,1.0,60
-318,1266,Marian Williams,Terminated,92063,2016-01-04-08:00,2023-07-18-07:00,Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-11-07,Local Sick Leave,8.0,60
-319,1266,Marian Williams,Terminated,92063,2016-01-04-08:00,2023-07-18-07:00,Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-11-08,Local Sick Leave,8.0,60
-320,1297,Mary Colbert,Terminated,93944,2021-07-16-07:00,2023-01-13-08:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-24,Local Sick Leave,8.0,68
-321,1297,Mary Colbert,Terminated,93944,2021-07-16-07:00,2023-01-13-08:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-01,Local Sick Leave,8.0,68
-322,1297,Mary Colbert,Terminated,93944,2021-07-16-07:00,2023-01-13-08:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-02,Unpaid Time Off,4.0,68
-323,1297,Mary Colbert,Terminated,93944,2021-07-16-07:00,2023-01-13-08:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-19,Sick Leave (Pension Eligible),8.0,68
-324,1297,Mary Colbert,Terminated,93944,2021-07-16-07:00,2023-01-13-08:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-20,Sick Leave (Pension Eligible),8.0,68
-325,1297,Mary Colbert,Terminated,93944,2021-07-16-07:00,2023-01-13-08:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-21,Sick Leave (Pension Eligible),8.0,68
-326,1297,Mary Colbert,Terminated,93944,2021-07-16-07:00,2023-01-13-08:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-22,Sick Leave (Pension Eligible),8.0,68
-327,1297,Mary Colbert,Terminated,93944,2021-07-16-07:00,2023-01-13-08:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-31,Sick Leave (Pension Eligible),8.0,68
-328,1297,Mary Colbert,Terminated,93944,2021-07-16-07:00,2023-01-13-08:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-12-09,Unpaid Time Off,8.0,68
-329,1401,Myesha Lee,Active,95095,2023-07-19-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-10,Office Closure,8.0,16
-330,1401,Myesha Lee,Active,95095,2023-07-19-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-24,Local Sick Leave,0.0,16
-331,1401,Myesha Lee,Active,95095,2023-07-19-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-24,Local Sick Leave,-8.0,16
-332,1401,Myesha Lee,Active,95095,2023-07-19-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-25,Local Sick Leave,0.0,16
-333,1401,Myesha Lee,Active,95095,2023-07-19-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-25,Local Sick Leave,-7.0,16
-334,1412,Nancy Flores,Terminated,94569,2022-06-01-07:00,2022-12-09-08:00,Director of Academics (TX),Green Dot Public Schools Southeast Texas,Green Dot Southeast Texas Home Office,2022-11-29,Local Sick Leave,8.0,24
-335,1412,Nancy Flores,Terminated,94569,2022-06-01-07:00,2022-12-09-08:00,Director of Academics (TX),Green Dot Public Schools Southeast Texas,Green Dot Southeast Texas Home Office,2022-12-05,Local Sick Leave,8.0,24
-336,1412,Nancy Flores,Terminated,94569,2022-06-01-07:00,2022-12-09-08:00,Director of Academics (TX),Green Dot Public Schools Southeast Texas,Green Dot Southeast Texas Home Office,2022-12-06,Local Sick Leave,8.0,24
-337,1434,Nelisia Maldonado,Terminated,93956,2021-07-16-07:00,2023-03-31-07:00,Fine Arts Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-20,Local Sick Leave,8.0,81.5
-338,1434,Nelisia Maldonado,Terminated,93956,2021-07-16-07:00,2023-03-31-07:00,Fine Arts Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-20,Local Sick Leave,7.0,81.5
-339,1434,Nelisia Maldonado,Terminated,93956,2021-07-16-07:00,2023-03-31-07:00,Fine Arts Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-12,Local Sick Leave,8.0,81.5
-340,1434,Nelisia Maldonado,Terminated,93956,2021-07-16-07:00,2023-03-31-07:00,Fine Arts Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-12,Local Sick Leave,7.0,81.5
-341,1434,Nelisia Maldonado,Terminated,93956,2021-07-16-07:00,2023-03-31-07:00,Fine Arts Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-25,Local Sick Leave,8.0,81.5
-342,1434,Nelisia Maldonado,Terminated,93956,2021-07-16-07:00,2023-03-31-07:00,Fine Arts Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-31,Local Sick Leave,4.0,81.5
-343,1434,Nelisia Maldonado,Terminated,93956,2021-07-16-07:00,2023-03-31-07:00,Fine Arts Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-11-10,Local Sick Leave,7.0,81.5
-344,1434,Nelisia Maldonado,Terminated,93956,2021-07-16-07:00,2023-03-31-07:00,Fine Arts Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-11-14,Unpaid Time Off,4.0,81.5
-345,1434,Nelisia Maldonado,Terminated,93956,2021-07-16-07:00,2023-03-31-07:00,Fine Arts Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-01-27,Unpaid Time Off,8.0,81.5
-346,1434,Nelisia Maldonado,Terminated,93956,2021-07-16-07:00,2023-03-31-07:00,Fine Arts Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-28,Unpaid Time Off,8.0,81.5
-347,1434,Nelisia Maldonado,Terminated,93956,2021-07-16-07:00,2023-03-31-07:00,Fine Arts Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-28,Unpaid Time Off,7.0,81.5
-348,1434,Nelisia Maldonado,Terminated,93956,2021-07-16-07:00,2023-03-31-07:00,Fine Arts Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-01,Unpaid Time Off,8.0,81.5
-349,1434,Nelisia Maldonado,Terminated,93956,2021-07-16-07:00,2023-03-31-07:00,Fine Arts Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-02,Unpaid Time Off,8.0,81.5
-350,1434,Nelisia Maldonado,Terminated,93956,2021-07-16-07:00,2023-03-31-07:00,Fine Arts Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-03,Unpaid Time Off,8.0,81.5
-351,1434,Nelisia Maldonado,Terminated,93956,2021-07-16-07:00,2023-03-31-07:00,Fine Arts Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-22,Unpaid Time Off,0.5,81.5
-352,1434,Nelisia Maldonado,Terminated,93956,2021-07-16-07:00,2023-03-31-07:00,Fine Arts Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-31,Unpaid Time Off,1.0,81.5
-353,1491,Paula Pickett,Terminated,94108,2021-08-09-07:00,2023-06-30-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-14,Local Sick Leave,3.0,11
-354,1491,Paula Pickett,Terminated,94108,2021-08-09-07:00,2023-06-30-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-05,Local Sick Leave,8.0,11
-355,1549,Reginald Johnson,Terminated,93953,2022-12-13-08:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-07,Unpaid,8.0,177.75
-356,1549,Reginald Johnson,Terminated,93953,2022-12-13-08:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-26,Sick Leave (Pension Eligible),6.0,177.75
-357,1549,Reginald Johnson,Terminated,93953,2022-12-13-08:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-03,Sick Leave (Pension Eligible),8.0,177.75
-358,1549,Reginald Johnson,Terminated,93953,2022-12-13-08:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-04,Sick Leave (Pension Eligible),8.0,177.75
-359,1549,Reginald Johnson,Terminated,93953,2022-12-13-08:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-05,Sick Leave (Pension Eligible),2.0,177.75
-360,1549,Reginald Johnson,Terminated,93953,2022-12-13-08:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-06,Unpaid,8.0,177.75
-361,1549,Reginald Johnson,Terminated,93953,2022-12-13-08:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-07,Sick Leave (Pension Eligible),8.0,177.75
-362,1549,Reginald Johnson,Terminated,93953,2022-12-13-08:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-10,Sick Leave (Pension Eligible),8.0,177.75
-363,1549,Reginald Johnson,Terminated,93953,2022-12-13-08:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-08,Sick,8.0,177.75
-364,1549,Reginald Johnson,Terminated,93953,2022-12-13-08:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-15,Sick,4.0,177.75
-365,1549,Reginald Johnson,Terminated,93953,2022-12-13-08:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-21,Local Sick Leave,8.0,177.75
-366,1549,Reginald Johnson,Terminated,93953,2022-12-13-08:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-22,Local Sick Leave,8.0,177.75
-367,1549,Reginald Johnson,Terminated,93953,2022-12-13-08:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-06,Local Sick Leave,8.0,177.75
-368,1549,Reginald Johnson,Terminated,93953,2022-12-13-08:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-07,Local Sick Leave,8.0,177.75
-369,1549,Reginald Johnson,Terminated,93953,2022-12-13-08:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-10,Office Closure,8.0,177.75
-370,1549,Reginald Johnson,Terminated,93953,2022-12-13-08:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-27,Local Sick Leave,8.0,177.75
-371,1549,Reginald Johnson,Terminated,93953,2022-12-13-08:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-04-03,Local Sick Leave,5.75,177.75
-372,1549,Reginald Johnson,Terminated,93953,2022-12-13-08:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-04-12,Local Sick Leave,8.0,177.75
-373,1549,Reginald Johnson,Terminated,93953,2022-12-13-08:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-04-14,Local Sick Leave,8.0,177.75
-374,1549,Reginald Johnson,Terminated,93953,2022-12-13-08:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-04-17,Local Sick Leave,8.0,177.75
-375,1549,Reginald Johnson,Terminated,93953,2022-12-13-08:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-04,Local Sick Leave,8.0,177.75
-376,1549,Reginald Johnson,Terminated,93953,2022-12-13-08:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-05,Local Sick Leave,8.0,177.75
-377,1549,Reginald Johnson,Terminated,93953,2022-12-13-08:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-08,Local Sick Leave,8.0,177.75
-378,1549,Reginald Johnson,Terminated,93953,2022-12-13-08:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-12,Local Sick Leave,8.0,177.75
-379,1549,Reginald Johnson,Terminated,93953,2022-12-13-08:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-19,Local Sick Leave,8.0,177.75
-380,1549,Reginald Johnson,Terminated,93953,2022-12-13-08:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-25,Local Sick Leave,0.0,177.75
-381,1549,Reginald Johnson,Terminated,93953,2022-12-13-08:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-25,Local Sick Leave,-7.0,177.75
-382,1567,Richard Harris,Terminated,93860,2021-03-01-08:00,2023-02-03-08:00,Director of Finance & Operations (TX),Green Dot Public Schools Southeast Texas,Green Dot Southeast Texas Home Office,2022-09-13,Sick Leave (Pension Eligible),6.0,40
-383,1567,Richard Harris,Terminated,93860,2021-03-01-08:00,2023-02-03-08:00,Director of Finance & Operations (TX),Green Dot Public Schools Southeast Texas,Green Dot Southeast Texas Home Office,2022-09-16,Sick Leave (Pension Eligible),8.0,40
-384,1567,Richard Harris,Terminated,93860,2021-03-01-08:00,2023-02-03-08:00,Director of Finance & Operations (TX),Green Dot Public Schools Southeast Texas,Green Dot Southeast Texas Home Office,2022-10-24,Local Sick Leave,8.0,40
-385,1567,Richard Harris,Terminated,93860,2021-03-01-08:00,2023-02-03-08:00,Director of Finance & Operations (TX),Green Dot Public Schools Southeast Texas,Green Dot Southeast Texas Home Office,2022-11-17,Local Sick Leave,8.0,40
-386,1567,Richard Harris,Terminated,93860,2021-03-01-08:00,2023-02-03-08:00,Director of Finance & Operations (TX),Green Dot Public Schools Southeast Texas,Green Dot Southeast Texas Home Office,2022-12-09,Local Sick Leave,8.0,40
-387,1567,Richard Harris,Terminated,93860,2021-03-01-08:00,2023-02-03-08:00,Director of Finance & Operations (TX),Green Dot Public Schools Southeast Texas,Green Dot Southeast Texas Home Office,2023-02-02,Bereavement - 3 days or less,1.0,40
-388,1567,Richard Harris,Terminated,93860,2021-03-01-08:00,2023-02-03-08:00,Director of Finance & Operations (TX),Green Dot Public Schools Southeast Texas,Green Dot Southeast Texas Home Office,2023-02-03,Bereavement - 3 days or less,1.0,40
-389,1605,Rosalyn Antoine,Terminated,93962,2021-07-16-07:00,2022-09-23-07:00,ELA Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-11,Local Sick Leave,0.0,20
-390,1605,Rosalyn Antoine,Terminated,93962,2021-07-16-07:00,2022-09-23-07:00,ELA Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-11,Local Sick Leave,-8.0,20
-391,1605,Rosalyn Antoine,Terminated,93962,2021-07-16-07:00,2022-09-23-07:00,ELA Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-12,Local Sick Leave,0.0,20
-392,1605,Rosalyn Antoine,Terminated,93962,2021-07-16-07:00,2022-09-23-07:00,ELA Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-12,Local Sick Leave,-8.0,20
-393,1605,Rosalyn Antoine,Terminated,93962,2021-07-16-07:00,2022-09-23-07:00,ELA Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-16,Local Sick Leave,8.0,20
-394,1605,Rosalyn Antoine,Terminated,93962,2021-07-16-07:00,2022-09-23-07:00,ELA Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-20,Local Sick Leave,4.0,20
-395,1605,Rosalyn Antoine,Terminated,93962,2021-07-16-07:00,2022-09-23-07:00,ELA Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-11-08,Local Sick Leave,8.0,20
-396,1661,Serita Porter,Active,94677,2022-07-16-07:00,,Math Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-28,Sick Leave (Pension Eligible),8.0,104
-397,1661,Serita Porter,Active,94677,2022-07-16-07:00,,Math Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-29,Sick Leave (Pension Eligible),8.0,104
-398,1661,Serita Porter,Active,94677,2022-07-16-07:00,,Math Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-01-30,Sick Leave (Pension Eligible),8.0,104
-399,1697,Sherille McAfee,Terminated,94681,2022-07-16-07:00,2023-06-30-07:00,Fine Arts Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-24,Local Sick Leave,8.0,88
-400,1697,Sherille McAfee,Terminated,94681,2022-07-16-07:00,2023-06-30-07:00,Fine Arts Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-11-14,Local Sick Leave,8.0,88
-401,1697,Sherille McAfee,Terminated,94681,2022-07-16-07:00,2023-06-30-07:00,Fine Arts Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-12-01,Local Sick Leave,8.0,88
-402,1697,Sherille McAfee,Terminated,94681,2022-07-16-07:00,2023-06-30-07:00,Fine Arts Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-09,Local Sick Leave,4.0,88
-403,1697,Sherille McAfee,Terminated,94681,2022-07-16-07:00,2023-06-30-07:00,Fine Arts Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-10,Local Sick Leave,8.0,88
-404,1697,Sherille McAfee,Terminated,94681,2022-07-16-07:00,2023-06-30-07:00,Fine Arts Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-04-24,Local Sick Leave,2.0,88
-405,1697,Sherille McAfee,Terminated,94681,2022-07-16-07:00,2023-06-30-07:00,Fine Arts Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-04-25,Local Sick Leave,2.0,88
-406,1697,Sherille McAfee,Terminated,94681,2022-07-16-07:00,2023-06-30-07:00,Fine Arts Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-04-27,Unpaid Time Off,8.0,88
-407,1697,Sherille McAfee,Terminated,94681,2022-07-16-07:00,2023-06-30-07:00,Fine Arts Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-04-28,Unpaid Time Off,8.0,88
-408,1697,Sherille McAfee,Terminated,94681,2022-07-16-07:00,2023-06-30-07:00,Fine Arts Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-11,Unpaid Time Off,8.0,88
-409,1697,Sherille McAfee,Terminated,94681,2022-07-16-07:00,2023-06-30-07:00,Fine Arts Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-12,Unpaid Time Off,8.0,88
-410,1697,Sherille McAfee,Terminated,94681,2022-07-16-07:00,2023-06-30-07:00,Fine Arts Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-15,Sick Leave (Pension Eligible),0.0,88
-411,1697,Sherille McAfee,Terminated,94681,2022-07-16-07:00,2023-06-30-07:00,Fine Arts Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-15,Sick Leave (Pension Eligible),-8.0,88
-412,1697,Sherille McAfee,Terminated,94681,2022-07-16-07:00,2023-06-30-07:00,Fine Arts Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-16,Sick Leave (Pension Eligible),0.0,88
-413,1697,Sherille McAfee,Terminated,94681,2022-07-16-07:00,2023-06-30-07:00,Fine Arts Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-16,Sick Leave (Pension Eligible),-8.0,88
-414,1697,Sherille McAfee,Terminated,94681,2022-07-16-07:00,2023-06-30-07:00,Fine Arts Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-17,Sick Leave (Pension Eligible),8.0,88
-415,1697,Sherille McAfee,Terminated,94681,2022-07-16-07:00,2023-06-30-07:00,Fine Arts Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-18,Sick Leave (Pension Eligible),8.0,88
-416,1700,Simone AlShomade,Terminated,94796,2022-08-15-07:00,2023-06-06-07:00,Assistant Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-06,Local Sick Leave,8.0,48
-417,1700,Simone AlShomade,Terminated,94796,2022-08-15-07:00,2023-06-06-07:00,Assistant Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-01-27,Local Sick Leave,8.0,48
-418,1700,Simone AlShomade,Terminated,94796,2022-08-15-07:00,2023-06-06-07:00,Assistant Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-08,Local Sick Leave,0.0,48
-419,1700,Simone AlShomade,Terminated,94796,2022-08-15-07:00,2023-06-06-07:00,Assistant Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-08,Local Sick Leave,-8.0,48
-420,1700,Simone AlShomade,Terminated,94796,2022-08-15-07:00,2023-06-06-07:00,Assistant Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-08,PTO,8.0,48
-421,1700,Simone AlShomade,Terminated,94796,2022-08-15-07:00,2023-06-06-07:00,Assistant Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-12,Local Sick Leave,8.0,48
-422,1700,Simone AlShomade,Terminated,94796,2022-08-15-07:00,2023-06-06-07:00,Assistant Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-15,PTO,8.0,48
-423,1700,Simone AlShomade,Terminated,94796,2022-08-15-07:00,2023-06-06-07:00,Assistant Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-16,PTO,8.0,48
-424,1715,Stephan Garrett,Active,94608,2022-07-16-07:00,,Social Studies Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-01-19,Local Sick Leave,8.0,56
-425,1715,Stephan Garrett,Active,94608,2022-07-16-07:00,,Social Studies Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-07,Local Sick Leave,8.0,56
-426,1764,Tanginekka Hill,Active,94328,2023-07-20-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-08,Local Sick Leave,8.0,157.75
-427,1764,Tanginekka Hill,Active,94328,2023-07-20-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-14,Local Sick Leave,2.0,157.75
-428,1764,Tanginekka Hill,Active,94328,2023-07-20-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-03,Local Sick Leave,3.0,157.75
-429,1764,Tanginekka Hill,Active,94328,2023-07-20-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-05,Local Sick Leave,1.0,157.75
-430,1764,Tanginekka Hill,Active,94328,2023-07-20-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-11,Local Sick Leave,3.5,157.75
-431,1764,Tanginekka Hill,Active,94328,2023-07-20-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-14,Local Sick Leave,8.0,157.75
-432,1764,Tanginekka Hill,Active,94328,2023-07-20-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-21,Local Sick Leave,0.0,157.75
-433,1764,Tanginekka Hill,Active,94328,2023-07-20-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-21,Local Sick Leave,-8.0,157.75
-434,1764,Tanginekka Hill,Active,94328,2023-07-20-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-27,Local Sick Leave,8.0,157.75
-435,1764,Tanginekka Hill,Active,94328,2023-07-20-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-12-14,Local Sick Leave,8.0,157.75
-436,1764,Tanginekka Hill,Active,94328,2023-07-20-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-01-02,Local Sick Leave,8.0,157.75
-437,1764,Tanginekka Hill,Active,94328,2023-07-20-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-01-16,Local Sick Leave,8.0,157.75
-438,1764,Tanginekka Hill,Active,94328,2023-07-20-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-01-18,Local Sick Leave,8.0,157.75
-439,1764,Tanginekka Hill,Active,94328,2023-07-20-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-10,Office Closure,8.0,157.75
-440,1764,Tanginekka Hill,Active,94328,2023-07-20-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-17,Local Sick Leave,8.0,157.75
-441,1764,Tanginekka Hill,Active,94328,2023-07-20-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-24,Local Sick Leave,8.0,157.75
-442,1764,Tanginekka Hill,Active,94328,2023-07-20-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-04-07,Local Sick Leave,7.5,157.75
-443,1764,Tanginekka Hill,Active,94328,2023-07-20-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-10,Local Sick Leave,8.0,157.75
-444,1764,Tanginekka Hill,Active,94328,2023-07-20-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-18,Local Sick Leave,4.0,157.75
-445,1772,Tatiana Authement,Terminated,94680,2022-07-16-07:00,2023-08-01-07:00,Math Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-22,Local Sick Leave,8.0,80
-446,1772,Tatiana Authement,Terminated,94680,2022-07-16-07:00,2023-08-01-07:00,Math Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-23,Local Sick Leave,8.0,80
-447,1772,Tatiana Authement,Terminated,94680,2022-07-16-07:00,2023-08-01-07:00,Math Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-24,Local Sick Leave,8.0,80
-448,1772,Tatiana Authement,Terminated,94680,2022-07-16-07:00,2023-08-01-07:00,Math Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-25,Local Sick Leave,8.0,80
-449,1772,Tatiana Authement,Terminated,94680,2022-07-16-07:00,2023-08-01-07:00,Math Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-26,Sick Leave (Pension Eligible),0.0,80
-450,1772,Tatiana Authement,Terminated,94680,2022-07-16-07:00,2023-08-01-07:00,Math Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-26,Sick Leave (Pension Eligible),-8.0,80
-451,1772,Tatiana Authement,Terminated,94680,2022-07-16-07:00,2023-08-01-07:00,Math Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-24,Local Sick Leave,8.0,80
-452,1772,Tatiana Authement,Terminated,94680,2022-07-16-07:00,2023-08-01-07:00,Math Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-27,Sick Leave (Pension Eligible),0.0,80
-453,1772,Tatiana Authement,Terminated,94680,2022-07-16-07:00,2023-08-01-07:00,Math Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-27,Sick Leave (Pension Eligible),6.0,80
-454,1772,Tatiana Authement,Terminated,94680,2022-07-16-07:00,2023-08-01-07:00,Math Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-27,Sick Leave (Pension Eligible),-8.0,80
-455,1772,Tatiana Authement,Terminated,94680,2022-07-16-07:00,2023-08-01-07:00,Math Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-27,Sick Leave (Pension Eligible),8.0,80
-456,1772,Tatiana Authement,Terminated,94680,2022-07-16-07:00,2023-08-01-07:00,Math Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-28,Sick Leave (Pension Eligible),8.0,80
-457,1772,Tatiana Authement,Terminated,94680,2022-07-16-07:00,2023-08-01-07:00,Math Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-28,Sick Leave (Pension Eligible),6.0,80
-458,1779,Teniya Rideb-Sparks,Terminated,94664,2022-07-12-07:00,2023-03-10-08:00,Assistant Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-25,Local Sick Leave,8.0,87
-459,1779,Teniya Rideb-Sparks,Terminated,94664,2022-07-12-07:00,2023-03-10-08:00,Assistant Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-26,Local Sick Leave,8.0,87
-460,1779,Teniya Rideb-Sparks,Terminated,94664,2022-07-12-07:00,2023-03-10-08:00,Assistant Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-19,Local Sick Leave,8.0,87
-461,1779,Teniya Rideb-Sparks,Terminated,94664,2022-07-12-07:00,2023-03-10-08:00,Assistant Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-03,Local Sick Leave,0.0,87
-462,1779,Teniya Rideb-Sparks,Terminated,94664,2022-07-12-07:00,2023-03-10-08:00,Assistant Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-03,Local Sick Leave,-8.0,87
-463,1779,Teniya Rideb-Sparks,Terminated,94664,2022-07-12-07:00,2023-03-10-08:00,Assistant Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-05,PTO,4.0,87
-464,1779,Teniya Rideb-Sparks,Terminated,94664,2022-07-12-07:00,2023-03-10-08:00,Assistant Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-10,Local Sick Leave,8.0,87
-465,1779,Teniya Rideb-Sparks,Terminated,94664,2022-07-12-07:00,2023-03-10-08:00,Assistant Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-11,Local Sick Leave,0.0,87
-466,1779,Teniya Rideb-Sparks,Terminated,94664,2022-07-12-07:00,2023-03-10-08:00,Assistant Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-11,Local Sick Leave,-4.0,87
-467,1779,Teniya Rideb-Sparks,Terminated,94664,2022-07-12-07:00,2023-03-10-08:00,Assistant Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-11,Local Sick Leave,5.0,87
-468,1779,Teniya Rideb-Sparks,Terminated,94664,2022-07-12-07:00,2023-03-10-08:00,Assistant Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-25,Sick Leave (Pension Eligible),3.0,87
-469,1779,Teniya Rideb-Sparks,Terminated,94664,2022-07-12-07:00,2023-03-10-08:00,Assistant Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-11-10,Sick Leave (Pension Eligible),8.0,87
-470,1779,Teniya Rideb-Sparks,Terminated,94664,2022-07-12-07:00,2023-03-10-08:00,Assistant Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-11-30,Sick Leave (Pension Eligible),8.0,87
-471,1779,Teniya Rideb-Sparks,Terminated,94664,2022-07-12-07:00,2023-03-10-08:00,Assistant Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-12-01,Sick Leave (Pension Eligible),8.0,87
-472,1779,Teniya Rideb-Sparks,Terminated,94664,2022-07-12-07:00,2023-03-10-08:00,Assistant Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-01-25,Sick Leave (Pension Eligible),8.0,87
-473,1779,Teniya Rideb-Sparks,Terminated,94664,2022-07-12-07:00,2023-03-10-08:00,Assistant Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-07,PTO,8.0,87
-474,1834,Tracie Johnson,Active,94799,2022-08-15-07:00,,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-27,Local Sick Leave,3.0,66
-475,1834,Tracie Johnson,Active,94799,2022-08-15-07:00,,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-28,Local Sick Leave,1.0,66
-476,1834,Tracie Johnson,Active,94799,2022-08-15-07:00,,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-17,Unpaid,8.0,66
-477,1834,Tracie Johnson,Active,94799,2022-08-15-07:00,,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-20,Unpaid,8.0,66
-478,1834,Tracie Johnson,Active,94799,2022-08-15-07:00,,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-10,Office Closure,8.0,66
-479,1834,Tracie Johnson,Active,94799,2022-08-15-07:00,,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-04-07,Local Sick Leave,6.0,66
-480,1834,Tracie Johnson,Active,94799,2022-08-15-07:00,,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-04-10,Local Sick Leave,8.0,66
-481,1834,Tracie Johnson,Active,94799,2022-08-15-07:00,,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-08,Local Sick Leave,8.0,66
-482,1835,Tracy Bradford,Active,94406,2022-01-03-08:00,,Special Education Aide (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-31,Sick Leave (Pension Eligible),8.0,112
-483,1835,Tracy Bradford,Active,94406,2022-01-03-08:00,,Special Education Aide (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-15,Local Sick Leave,4.0,112
-484,1835,Tracy Bradford,Active,94406,2022-01-03-08:00,,Special Education Aide (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-16,Local Sick Leave,8.0,112
-485,1835,Tracy Bradford,Active,94406,2022-01-03-08:00,,Special Education Aide (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-04,Local Sick Leave,4.0,112
-486,1835,Tracy Bradford,Active,94406,2022-01-03-08:00,,Special Education Aide (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-07,Local Sick Leave,8.0,112
-487,1835,Tracy Bradford,Active,94406,2022-01-03-08:00,,Special Education Aide (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-01-09,Local Sick Leave,8.0,112
-488,1835,Tracy Bradford,Active,94406,2022-01-03-08:00,,Special Education Aide (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-01-23,Local Sick Leave,0.0,112
-489,1835,Tracy Bradford,Active,94406,2022-01-03-08:00,,Special Education Aide (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-01-23,Local Sick Leave,-8.0,112
-490,1835,Tracy Bradford,Active,94406,2022-01-03-08:00,,Special Education Aide (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-01-27,Sick Leave (Pension Eligible),8.0,112
-491,1835,Tracy Bradford,Active,94406,2022-01-03-08:00,,Special Education Aide (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-22,Sick Leave (Pension Eligible),8.0,112
-492,1835,Tracy Bradford,Active,94406,2022-01-03-08:00,,Special Education Aide (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-20,Sick Leave (Pension Eligible),8.0,112
-493,1835,Tracy Bradford,Active,94406,2022-01-03-08:00,,Special Education Aide (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-05,Sick Leave (Pension Eligible),8.0,112
-494,1835,Tracy Bradford,Active,94406,2022-01-03-08:00,,Special Education Aide (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-15,Local Sick Leave,8.0,112
-495,1907,Willie Williams,Terminated,93958,2021-07-16-07:00,2022-10-12-07:00,Physical Education/Health Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-26,Local Sick Leave,8.0,32
-496,1907,Willie Williams,Terminated,93958,2021-07-16-07:00,2022-10-12-07:00,Physical Education/Health Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-21,Local Sick Leave,8.0,32
-497,1907,Willie Williams,Terminated,93958,2021-07-16-07:00,2022-10-12-07:00,Physical Education/Health Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-22,Local Sick Leave,8.0,32
-498,1907,Willie Williams,Terminated,93958,2021-07-16-07:00,2022-10-12-07:00,Physical Education/Health Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-23,Local Sick Leave,8.0,32
+39,154,Anitra Smith,Terminated,94055,2023-03-22-07:00,2023-07-14-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-04-05,Local Sick Leave,8.0,37
+40,154,Anitra Smith,Terminated,94055,2023-03-22-07:00,2023-07-14-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-04-13,Unpaid Time Off,3.0,37
+41,154,Anitra Smith,Terminated,94055,2023-03-22-07:00,2023-07-14-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-04-19,Sick Leave (Pension Eligible),8.0,37
+42,154,Anitra Smith,Terminated,94055,2023-03-22-07:00,2023-07-14-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-08,Sick Leave (Pension Eligible),8.0,37
+43,154,Anitra Smith,Terminated,94055,2023-03-22-07:00,2023-07-14-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-22,Sick Leave (Pension Eligible),4.0,37
+44,176,Ariana Darjean,Active,94682,2022-07-16-07:00,,Physical Education/Health Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-22,Local Sick Leave,8.0,52.25
+45,176,Ariana Darjean,Active,94682,2022-07-16-07:00,,Physical Education/Health Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-23,Local Sick Leave,8.0,52.25
+46,176,Ariana Darjean,Active,94682,2022-07-16-07:00,,Physical Education/Health Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-20,Jury Duty,0.0,52.25
+47,176,Ariana Darjean,Active,94682,2022-07-16-07:00,,Physical Education/Health Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-20,Jury Duty,-4.0,52.25
+48,176,Ariana Darjean,Active,94682,2022-07-16-07:00,,Physical Education/Health Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-01-17,Local Sick Leave,4.0,52.25
+49,176,Ariana Darjean,Active,94682,2022-07-16-07:00,,Physical Education/Health Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-07,Local Sick Leave,2.0,52.25
+50,176,Ariana Darjean,Active,94682,2022-07-16-07:00,,Physical Education/Health Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-07,Local Sick Leave,8.0,52.25
+51,176,Ariana Darjean,Active,94682,2022-07-16-07:00,,Physical Education/Health Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-19,Sick Leave (Pension Eligible),4.0,52.25
+52,192,Ashley Broughton,Active,94714,2022-07-25-07:00,,Social Worker (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-21,Local Sick Leave,8.0,44
+53,192,Ashley Broughton,Active,94714,2022-07-25-07:00,,Social Worker (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-11-03,Local Sick Leave,6.0,44
+54,192,Ashley Broughton,Active,94714,2022-07-25-07:00,,Social Worker (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-12-08,Local Sick Leave,1.0,44
+55,192,Ashley Broughton,Active,94714,2022-07-25-07:00,,Social Worker (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-02,Local Sick Leave,6.5,44
+56,192,Ashley Broughton,Active,94714,2022-07-25-07:00,,Social Worker (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-21,Local Sick Leave,1.0,44
+57,192,Ashley Broughton,Active,94714,2022-07-25-07:00,,Social Worker (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-31,Local Sick Leave,8.0,44
+58,192,Ashley Broughton,Active,94714,2022-07-25-07:00,,Social Worker (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-09,Local Sick Leave,1.0,44
+59,192,Ashley Broughton,Active,94714,2022-07-25-07:00,,Social Worker (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-11,Local Sick Leave,0.0,44
+60,192,Ashley Broughton,Active,94714,2022-07-25-07:00,,Social Worker (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-11,Local Sick Leave,-1.0,44
+61,192,Ashley Broughton,Active,94714,2022-07-25-07:00,,Social Worker (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-12,Local Sick Leave,8.0,44
+62,214,Audrey Burnside,Active,93047,2018-07-16-07:00,,Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-10,Sick,8.0,160
+63,214,Audrey Burnside,Active,93047,2018-07-16-07:00,,Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-11,Sick,8.0,160
+64,214,Audrey Burnside,Active,93047,2018-07-16-07:00,,Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-12,Sick,8.0,160
+65,214,Audrey Burnside,Active,93047,2018-07-16-07:00,,Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-01,Sick,8.0,160
+66,214,Audrey Burnside,Active,93047,2018-07-16-07:00,,Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-02,Sick,8.0,160
+67,214,Audrey Burnside,Active,93047,2018-07-16-07:00,,Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-14,Sick,8.0,160
+68,214,Audrey Burnside,Active,93047,2018-07-16-07:00,,Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-26,Sick,8.0,160
+69,214,Audrey Burnside,Active,93047,2018-07-16-07:00,,Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-12-09,PTO,8.0,160
+70,214,Audrey Burnside,Active,93047,2018-07-16-07:00,,Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-12-12,PTO,8.0,160
+71,214,Audrey Burnside,Active,93047,2018-07-16-07:00,,Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-01-17,Sick,8.0,160
+72,214,Audrey Burnside,Active,93047,2018-07-16-07:00,,Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-10,Sick,8.0,160
+73,214,Audrey Burnside,Active,93047,2018-07-16-07:00,,Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-17,Sick,8.0,160
+74,214,Audrey Burnside,Active,93047,2018-07-16-07:00,,Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-08,PTO,8.0,160
+75,214,Audrey Burnside,Active,93047,2018-07-16-07:00,,Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-09,PTO,8.0,160
+76,214,Audrey Burnside,Active,93047,2018-07-16-07:00,,Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-22,PTO,0.0,160
+77,214,Audrey Burnside,Active,93047,2018-07-16-07:00,,Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-22,PTO,-8.0,160
+78,214,Audrey Burnside,Active,93047,2018-07-16-07:00,,Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-22,PTO,8.0,160
+79,214,Audrey Burnside,Active,93047,2018-07-16-07:00,,Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-23,PTO,0.0,160
+80,214,Audrey Burnside,Active,93047,2018-07-16-07:00,,Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-23,PTO,-8.0,160
+81,242,Billy Grogan,Terminated,93945,2021-07-26-07:00,2023-06-30-07:00,Special Education Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-23,Local Sick Leave,8.0,125
+82,242,Billy Grogan,Terminated,93945,2021-07-26-07:00,2023-06-30-07:00,Special Education Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-11-10,Sick Leave (Pension Eligible),8.0,125
+83,242,Billy Grogan,Terminated,93945,2021-07-26-07:00,2023-06-30-07:00,Special Education Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-12-09,Sick Leave (Pension Eligible),8.0,125
+84,242,Billy Grogan,Terminated,93945,2021-07-26-07:00,2023-06-30-07:00,Special Education Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-12-15,Local Sick Leave,8.0,125
+85,242,Billy Grogan,Terminated,93945,2021-07-26-07:00,2023-06-30-07:00,Special Education Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-01-19,Local Sick Leave,8.0,125
+86,242,Billy Grogan,Terminated,93945,2021-07-26-07:00,2023-06-30-07:00,Special Education Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-01-20,Local Sick Leave,8.0,125
+87,242,Billy Grogan,Terminated,93945,2021-07-26-07:00,2023-06-30-07:00,Special Education Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-01-23,Sick Leave (Pension Eligible),8.0,125
+88,242,Billy Grogan,Terminated,93945,2021-07-26-07:00,2023-06-30-07:00,Special Education Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-04-04,Local Sick Leave,8.0,125
+89,242,Billy Grogan,Terminated,93945,2021-07-26-07:00,2023-06-30-07:00,Special Education Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-04-05,Sick Leave (Pension Eligible),8.0,125
+90,242,Billy Grogan,Terminated,93945,2021-07-26-07:00,2023-06-30-07:00,Special Education Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-04-06,Local Sick Leave,5.0,125
+91,242,Billy Grogan,Terminated,93945,2021-07-26-07:00,2023-06-30-07:00,Special Education Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-04-14,Sick Leave (Pension Eligible),8.0,125
+92,242,Billy Grogan,Terminated,93945,2021-07-26-07:00,2023-06-30-07:00,Special Education Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-04-17,Sick Leave (Pension Eligible),8.0,125
+93,242,Billy Grogan,Terminated,93945,2021-07-26-07:00,2023-06-30-07:00,Special Education Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-04-18,Sick Leave (Pension Eligible),8.0,125
+94,242,Billy Grogan,Terminated,93945,2021-07-26-07:00,2023-06-30-07:00,Special Education Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-04-19,Sick Leave (Pension Eligible),8.0,125
+95,242,Billy Grogan,Terminated,93945,2021-07-26-07:00,2023-06-30-07:00,Special Education Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-04-20,Sick Leave (Pension Eligible),8.0,125
+96,242,Billy Grogan,Terminated,93945,2021-07-26-07:00,2023-06-30-07:00,Special Education Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-04-21,Sick Leave (Pension Eligible),8.0,125
+97,245,Blanca Nunez,Active,94988,2023-08-02-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-24,Local Sick Leave,8.0,64
+98,245,Blanca Nunez,Active,94988,2023-08-02-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-10,Office Closure,8.0,64
+99,245,Blanca Nunez,Active,94988,2023-08-02-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-12,Local Sick Leave,8.0,64
+100,392,Cliff Claflin,Terminated,93815,2020-11-09-08:00,2023-05-31-07:00,Executive Director (TX),Green Dot Public Schools Southeast Texas,Green Dot Southeast Texas Home Office,2022-08-25,PTO,8.0,74
+101,392,Cliff Claflin,Terminated,93815,2020-11-09-08:00,2023-05-31-07:00,Executive Director (TX),Green Dot Public Schools Southeast Texas,Green Dot Southeast Texas Home Office,2022-08-26,PTO,8.0,74
+102,392,Cliff Claflin,Terminated,93815,2020-11-09-08:00,2023-05-31-07:00,Executive Director (TX),Green Dot Public Schools Southeast Texas,Green Dot Southeast Texas Home Office,2022-09-30,PTO,8.0,74
+103,392,Cliff Claflin,Terminated,93815,2020-11-09-08:00,2023-05-31-07:00,Executive Director (TX),Green Dot Public Schools Southeast Texas,Green Dot Southeast Texas Home Office,2022-11-07,PTO,8.0,74
+104,392,Cliff Claflin,Terminated,93815,2020-11-09-08:00,2023-05-31-07:00,Executive Director (TX),Green Dot Public Schools Southeast Texas,Green Dot Southeast Texas Home Office,2022-11-30,Local Sick Leave,8.0,74
+105,392,Cliff Claflin,Terminated,93815,2020-11-09-08:00,2023-05-31-07:00,Executive Director (TX),Green Dot Public Schools Southeast Texas,Green Dot Southeast Texas Home Office,2023-01-11,Local Sick Leave,4.0,74
+106,392,Cliff Claflin,Terminated,93815,2020-11-09-08:00,2023-05-31-07:00,Executive Director (TX),Green Dot Public Schools Southeast Texas,Green Dot Southeast Texas Home Office,2023-03-23,PTO,7.0,74
+107,392,Cliff Claflin,Terminated,93815,2020-11-09-08:00,2023-05-31-07:00,Executive Director (TX),Green Dot Public Schools Southeast Texas,Green Dot Southeast Texas Home Office,2023-04-14,Bereavement - 3 days or less,1.0,74
+108,392,Cliff Claflin,Terminated,93815,2020-11-09-08:00,2023-05-31-07:00,Executive Director (TX),Green Dot Public Schools Southeast Texas,Green Dot Southeast Texas Home Office,2023-04-17,PTO,8.0,74
+109,392,Cliff Claflin,Terminated,93815,2020-11-09-08:00,2023-05-31-07:00,Executive Director (TX),Green Dot Public Schools Southeast Texas,Green Dot Southeast Texas Home Office,2023-05-10,PTO,4.0,74
+110,392,Cliff Claflin,Terminated,93815,2020-11-09-08:00,2023-05-31-07:00,Executive Director (TX),Green Dot Public Schools Southeast Texas,Green Dot Southeast Texas Home Office,2023-05-11,Local Sick Leave,2.0,74
+111,392,Cliff Claflin,Terminated,93815,2020-11-09-08:00,2023-05-31-07:00,Executive Director (TX),Green Dot Public Schools Southeast Texas,Green Dot Southeast Texas Home Office,2023-05-15,PTO,4.0,74
+112,392,Cliff Claflin,Terminated,93815,2020-11-09-08:00,2023-05-31-07:00,Executive Director (TX),Green Dot Public Schools Southeast Texas,Green Dot Southeast Texas Home Office,2023-05-17,PTO,4.0,74
+113,422,Cynthia Suarez,Terminated,94167,2021-08-27-07:00,2022-12-09-08:00,Office Assistant (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-22,Local Sick Leave,1.0,80
+114,422,Cynthia Suarez,Terminated,94167,2021-08-27-07:00,2022-12-09-08:00,Office Assistant (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-22,Local Sick Leave,7.0,80
+115,422,Cynthia Suarez,Terminated,94167,2021-08-27-07:00,2022-12-09-08:00,Office Assistant (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-23,Local Sick Leave,1.0,80
+116,422,Cynthia Suarez,Terminated,94167,2021-08-27-07:00,2022-12-09-08:00,Office Assistant (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-23,Local Sick Leave,7.0,80
+117,422,Cynthia Suarez,Terminated,94167,2021-08-27-07:00,2022-12-09-08:00,Office Assistant (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-24,Local Sick Leave,8.0,80
+118,422,Cynthia Suarez,Terminated,94167,2021-08-27-07:00,2022-12-09-08:00,Office Assistant (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-25,Local Sick Leave,8.0,80
+119,422,Cynthia Suarez,Terminated,94167,2021-08-27-07:00,2022-12-09-08:00,Office Assistant (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-26,Local Sick Leave,8.0,80
+120,422,Cynthia Suarez,Terminated,94167,2021-08-27-07:00,2022-12-09-08:00,Office Assistant (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-31,Sick Leave (Pension Eligible),8.0,80
+121,422,Cynthia Suarez,Terminated,94167,2021-08-27-07:00,2022-12-09-08:00,Office Assistant (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-11-01,Sick Leave (Pension Eligible),8.0,80
+122,422,Cynthia Suarez,Terminated,94167,2021-08-27-07:00,2022-12-09-08:00,Office Assistant (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-11-02,Sick Leave (Pension Eligible),8.0,80
+123,422,Cynthia Suarez,Terminated,94167,2021-08-27-07:00,2022-12-09-08:00,Office Assistant (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-11-03,Sick Leave (Pension Eligible),8.0,80
+124,422,Cynthia Suarez,Terminated,94167,2021-08-27-07:00,2022-12-09-08:00,Office Assistant (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-11-04,Unpaid,8.0,80
+125,494,Decaqunita Forte,Terminated,94549,2022-03-23-07:00,2023-07-14-07:00,Math Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-10,Local Sick Leave,8.0,40
+126,494,Decaqunita Forte,Terminated,94549,2022-03-23-07:00,2023-07-14-07:00,Math Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-11,Local Sick Leave,8.0,40
+127,494,Decaqunita Forte,Terminated,94549,2022-03-23-07:00,2023-07-14-07:00,Math Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-12,Local Sick Leave,8.0,40
+128,494,Decaqunita Forte,Terminated,94549,2022-03-23-07:00,2023-07-14-07:00,Math Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-11-11,Local Sick Leave,8.0,40
+129,494,Decaqunita Forte,Terminated,94549,2022-03-23-07:00,2023-07-14-07:00,Math Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-19,Local Sick Leave,8.0,40
+130,506,Denisha Haynes,Active,94991,2022-10-28-07:00,,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-10,Office Closure,8.0,16
+131,535,Dilya Jones,Terminated,93942,2021-07-16-07:00,2023-06-30-07:00,ELA Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-15,Local Sick Leave,1.5,121
+132,535,Dilya Jones,Terminated,93942,2021-07-16-07:00,2023-06-30-07:00,ELA Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-18,Local Sick Leave,8.0,121
+133,535,Dilya Jones,Terminated,93942,2021-07-16-07:00,2023-06-30-07:00,ELA Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-19,Local Sick Leave,8.0,121
+134,535,Dilya Jones,Terminated,93942,2021-07-16-07:00,2023-06-30-07:00,ELA Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-22,Local Sick Leave,8.0,121
+135,535,Dilya Jones,Terminated,93942,2021-07-16-07:00,2023-06-30-07:00,ELA Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-23,Local Sick Leave,8.0,121
+136,535,Dilya Jones,Terminated,93942,2021-07-16-07:00,2023-06-30-07:00,ELA Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-09,Local Sick Leave,3.0,121
+137,535,Dilya Jones,Terminated,93942,2021-07-16-07:00,2023-06-30-07:00,ELA Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-20,Sick Leave (Pension Eligible),8.0,121
+138,535,Dilya Jones,Terminated,93942,2021-07-16-07:00,2023-06-30-07:00,ELA Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-11-01,Sick Leave (Pension Eligible),4.0,121
+139,535,Dilya Jones,Terminated,93942,2021-07-16-07:00,2023-06-30-07:00,ELA Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-12-02,Sick Leave (Pension Eligible),8.0,121
+140,535,Dilya Jones,Terminated,93942,2021-07-16-07:00,2023-06-30-07:00,ELA Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-01-13,Sick Leave (Pension Eligible),4.0,121
+141,535,Dilya Jones,Terminated,93942,2021-07-16-07:00,2023-06-30-07:00,ELA Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-01-26,Sick Leave (Pension Eligible),8.0,121
+142,535,Dilya Jones,Terminated,93942,2021-07-16-07:00,2023-06-30-07:00,ELA Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-01,Bereavement - 4 to 5 Days,1.0,121
+143,535,Dilya Jones,Terminated,93942,2021-07-16-07:00,2023-06-30-07:00,ELA Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-02,Bereavement - 4 to 5 Days,1.0,121
+144,535,Dilya Jones,Terminated,93942,2021-07-16-07:00,2023-06-30-07:00,ELA Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-03,Bereavement - 4 to 5 Days,1.0,121
+145,535,Dilya Jones,Terminated,93942,2021-07-16-07:00,2023-06-30-07:00,ELA Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-06,Bereavement - 4 to 5 Days,1.0,121
+146,535,Dilya Jones,Terminated,93942,2021-07-16-07:00,2023-06-30-07:00,ELA Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-07,Bereavement - 4 to 5 Days,1.0,121
+147,535,Dilya Jones,Terminated,93942,2021-07-16-07:00,2023-06-30-07:00,ELA Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-08,Sick Leave (Pension Eligible),8.0,121
+148,535,Dilya Jones,Terminated,93942,2021-07-16-07:00,2023-06-30-07:00,ELA Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-23,Sick Leave (Pension Eligible),8.0,121
+149,535,Dilya Jones,Terminated,93942,2021-07-16-07:00,2023-06-30-07:00,ELA Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-28,Sick Leave (Pension Eligible),3.0,121
+150,535,Dilya Jones,Terminated,93942,2021-07-16-07:00,2023-06-30-07:00,ELA Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-04,Local Sick Leave,0.0,121
+151,535,Dilya Jones,Terminated,93942,2021-07-16-07:00,2023-06-30-07:00,ELA Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-04,Local Sick Leave,-6.0,121
+152,535,Dilya Jones,Terminated,93942,2021-07-16-07:00,2023-06-30-07:00,ELA Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-04,Local Sick Leave,6.5,121
+153,535,Dilya Jones,Terminated,93942,2021-07-16-07:00,2023-06-30-07:00,ELA Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-04,Unpaid Time Off,1.5,121
+154,535,Dilya Jones,Terminated,93942,2021-07-16-07:00,2023-06-30-07:00,ELA Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-12,Sick Leave (Pension Eligible),8.0,121
+155,535,Dilya Jones,Terminated,93942,2021-07-16-07:00,2023-06-30-07:00,ELA Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-22,Unpaid Time Off,8.0,121
+156,535,Dilya Jones,Terminated,93942,2021-07-16-07:00,2023-06-30-07:00,ELA Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-23,Sick Leave (Pension Eligible),1.0,121
+157,535,Dilya Jones,Terminated,93942,2021-07-16-07:00,2023-06-30-07:00,ELA Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-24,Sick Leave (Pension Eligible),1.0,121
+158,535,Dilya Jones,Terminated,93942,2021-07-16-07:00,2023-06-30-07:00,ELA Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-25,Sick Leave (Pension Eligible),2.5,121
+159,544,Doretta Watson,Active,94340,2021-11-08-08:00,,Campus Behavior Coordinator (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-07,Local Sick Leave,4.0,127.5
+160,544,Doretta Watson,Active,94340,2021-11-08-08:00,,Campus Behavior Coordinator (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-21,Local Sick Leave,8.0,127.5
+161,544,Doretta Watson,Active,94340,2021-11-08-08:00,,Campus Behavior Coordinator (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-30,Sick Leave (Pension Eligible),8.0,127.5
+162,544,Doretta Watson,Active,94340,2021-11-08-08:00,,Campus Behavior Coordinator (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-31,Sick Leave (Pension Eligible),8.0,127.5
+163,544,Doretta Watson,Active,94340,2021-11-08-08:00,,Campus Behavior Coordinator (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-11-01,Sick Leave (Pension Eligible),8.0,127.5
+164,544,Doretta Watson,Active,94340,2021-11-08-08:00,,Campus Behavior Coordinator (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-12-01,Local Sick Leave,8.0,127.5
+165,544,Doretta Watson,Active,94340,2021-11-08-08:00,,Campus Behavior Coordinator (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-01-20,Local Sick Leave,8.0,127.5
+166,544,Doretta Watson,Active,94340,2021-11-08-08:00,,Campus Behavior Coordinator (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-16,Local Sick Leave,8.0,127.5
+167,544,Doretta Watson,Active,94340,2021-11-08-08:00,,Campus Behavior Coordinator (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-21,Sick Leave (Pension Eligible),8.0,127.5
+168,544,Doretta Watson,Active,94340,2021-11-08-08:00,,Campus Behavior Coordinator (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-10,Office Closure,8.0,127.5
+169,544,Doretta Watson,Active,94340,2021-11-08-08:00,,Campus Behavior Coordinator (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-02,Sick Leave (Pension Eligible),7.5,127.5
+170,574,Elexsia Roberts,Terminated,94337,2021-11-08-08:00,2023-01-17-08:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-22,Local Sick Leave,8.0,64
+171,574,Elexsia Roberts,Terminated,94337,2021-11-08-08:00,2023-01-17-08:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-13,Local Sick Leave,8.0,64
+172,574,Elexsia Roberts,Terminated,94337,2021-11-08-08:00,2023-01-17-08:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-24,Local Sick Leave,8.0,64
+173,574,Elexsia Roberts,Terminated,94337,2021-11-08-08:00,2023-01-17-08:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-25,Local Sick Leave,8.0,64
+174,574,Elexsia Roberts,Terminated,94337,2021-11-08-08:00,2023-01-17-08:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-11-29,Local Sick Leave,4.0,64
+175,574,Elexsia Roberts,Terminated,94337,2021-11-08-08:00,2023-01-17-08:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-12-15,Local Sick Leave,4.0,64
+176,574,Elexsia Roberts,Terminated,94337,2021-11-08-08:00,2023-01-17-08:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-01-06,Sick Leave (Pension Eligible),8.0,64
+177,574,Elexsia Roberts,Terminated,94337,2021-11-08-08:00,2023-01-17-08:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-01-09,Sick Leave (Pension Eligible),8.0,64
+178,574,Elexsia Roberts,Terminated,94337,2021-11-08-08:00,2023-01-17-08:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-01-10,Sick Leave (Pension Eligible),8.0,64
+179,577,Elias Ibarra,Terminated,94731,2022-07-28-07:00,2023-07-21-07:00,Campus Behavior Coordinator (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-01-25,Local Sick Leave,8.0,64
+180,577,Elias Ibarra,Terminated,94731,2022-07-28-07:00,2023-07-21-07:00,Campus Behavior Coordinator (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-10,Office Closure,8.0,64
+181,577,Elias Ibarra,Terminated,94731,2022-07-28-07:00,2023-07-21-07:00,Campus Behavior Coordinator (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-28,Sick Leave (Pension Eligible),8.0,64
+182,577,Elias Ibarra,Terminated,94731,2022-07-28-07:00,2023-07-21-07:00,Campus Behavior Coordinator (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-09,Local Sick Leave,8.0,64
+183,577,Elias Ibarra,Terminated,94731,2022-07-28-07:00,2023-07-21-07:00,Campus Behavior Coordinator (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-15,Local Sick Leave,8.0,64
+184,577,Elias Ibarra,Terminated,94731,2022-07-28-07:00,2023-07-21-07:00,Campus Behavior Coordinator (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-16,Local Sick Leave,8.0,64
+185,577,Elias Ibarra,Terminated,94731,2022-07-28-07:00,2023-07-21-07:00,Campus Behavior Coordinator (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-17,Local Sick Leave,8.0,64
+186,577,Elias Ibarra,Terminated,94731,2022-07-28-07:00,2023-07-21-07:00,Campus Behavior Coordinator (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-18,Sick Leave (Pension Eligible),8.0,64
+187,577,Elias Ibarra,Terminated,94731,2022-07-28-07:00,2023-07-21-07:00,Campus Behavior Coordinator (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-19,Sick Leave (Pension Eligible),8.0,64
+188,725,Hany Abdelmalek,Terminated,94678,2022-07-16-07:00,2022-09-09-07:00,Science Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-25,Local Sick Leave,1.0,25
+189,725,Hany Abdelmalek,Terminated,94678,2022-07-16-07:00,2022-09-09-07:00,Science Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-08,Local Sick Leave,8.0,25
+190,725,Hany Abdelmalek,Terminated,94678,2022-07-16-07:00,2022-09-09-07:00,Science Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-12,Unpaid Time Off,8.0,25
+191,725,Hany Abdelmalek,Terminated,94678,2022-07-16-07:00,2022-09-09-07:00,Science Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-13,Unpaid Time Off,8.0,25
+192,777,Jacob Smith,Terminated,94129,2021-08-16-07:00,2023-06-30-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-06,Local Sick Leave,8.0,72
+193,777,Jacob Smith,Terminated,94129,2021-08-16-07:00,2023-06-30-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-07,Local Sick Leave,8.0,72
+194,777,Jacob Smith,Terminated,94129,2021-08-16-07:00,2023-06-30-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-10,Unpaid Time Off,0.0,72
+195,777,Jacob Smith,Terminated,94129,2021-08-16-07:00,2023-06-30-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-10,Unpaid Time Off,-8.0,72
+196,777,Jacob Smith,Terminated,94129,2021-08-16-07:00,2023-06-30-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-10,Local Sick Leave,8.0,72
+197,777,Jacob Smith,Terminated,94129,2021-08-16-07:00,2023-06-30-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-11,Unpaid Time Off,0.0,72
+198,777,Jacob Smith,Terminated,94129,2021-08-16-07:00,2023-06-30-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-11,Unpaid Time Off,-8.0,72
+199,777,Jacob Smith,Terminated,94129,2021-08-16-07:00,2023-06-30-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-11,Local Sick Leave,8.0,72
+200,777,Jacob Smith,Terminated,94129,2021-08-16-07:00,2023-06-30-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-12,Unpaid Time Off,0.0,72
+201,777,Jacob Smith,Terminated,94129,2021-08-16-07:00,2023-06-30-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-12,Unpaid Time Off,-8.0,72
+202,777,Jacob Smith,Terminated,94129,2021-08-16-07:00,2023-06-30-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-12,Local Sick Leave,8.0,72
+203,777,Jacob Smith,Terminated,94129,2021-08-16-07:00,2023-06-30-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-13,Unpaid Time Off,0.0,72
+204,777,Jacob Smith,Terminated,94129,2021-08-16-07:00,2023-06-30-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-13,Unpaid Time Off,-8.0,72
+205,777,Jacob Smith,Terminated,94129,2021-08-16-07:00,2023-06-30-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-13,Local Sick Leave,0.0,72
+206,777,Jacob Smith,Terminated,94129,2021-08-16-07:00,2023-06-30-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-13,Local Sick Leave,-8.0,72
+207,777,Jacob Smith,Terminated,94129,2021-08-16-07:00,2023-06-30-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-14,Unpaid Time Off,0.0,72
+208,777,Jacob Smith,Terminated,94129,2021-08-16-07:00,2023-06-30-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-14,Unpaid Time Off,-8.0,72
+209,777,Jacob Smith,Terminated,94129,2021-08-16-07:00,2023-06-30-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-14,Local Sick Leave,0.0,72
+210,777,Jacob Smith,Terminated,94129,2021-08-16-07:00,2023-06-30-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-14,Local Sick Leave,-8.0,72
+211,777,Jacob Smith,Terminated,94129,2021-08-16-07:00,2023-06-30-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-06,Sick Leave (Pension Eligible),8.0,72
+212,777,Jacob Smith,Terminated,94129,2021-08-16-07:00,2023-06-30-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-04-25,Unpaid Time Off,8.0,72
+213,777,Jacob Smith,Terminated,94129,2021-08-16-07:00,2023-06-30-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-04-26,Unpaid Time Off,8.0,72
+214,777,Jacob Smith,Terminated,94129,2021-08-16-07:00,2023-06-30-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-19,Sick Leave (Pension Eligible),0.0,72
+215,777,Jacob Smith,Terminated,94129,2021-08-16-07:00,2023-06-30-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-19,Sick Leave (Pension Eligible),-8.0,72
+216,777,Jacob Smith,Terminated,94129,2021-08-16-07:00,2023-06-30-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-19,Unpaid Time Off,8.0,72
+217,777,Jacob Smith,Terminated,94129,2021-08-16-07:00,2023-06-30-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-24,Sick Leave (Pension Eligible),0.0,72
+218,777,Jacob Smith,Terminated,94129,2021-08-16-07:00,2023-06-30-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-24,Sick Leave (Pension Eligible),-2.5,72
+219,822,Jasmine Delcambre,Active,94537,2023-08-09-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-11-28,Unpaid,8.0,188
+220,822,Jasmine Delcambre,Active,94537,2023-08-09-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-11-29,Unpaid,8.0,188
+221,822,Jasmine Delcambre,Active,94537,2023-08-09-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-11-30,Unpaid,8.0,188
+222,822,Jasmine Delcambre,Active,94537,2023-08-09-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-12-01,Unpaid,8.0,188
+223,822,Jasmine Delcambre,Active,94537,2023-08-09-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-01-18,Unpaid,0.0,188
+224,822,Jasmine Delcambre,Active,94537,2023-08-09-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-01-18,Unpaid,-8.0,188
+225,822,Jasmine Delcambre,Active,94537,2023-08-09-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-01-18,Local Sick Leave,8.0,188
+226,822,Jasmine Delcambre,Active,94537,2023-08-09-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-01-19,Local Sick Leave,8.0,188
+227,822,Jasmine Delcambre,Active,94537,2023-08-09-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-01-23,Unpaid,8.0,188
+228,822,Jasmine Delcambre,Active,94537,2023-08-09-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-23,Local Sick Leave,8.0,188
+229,822,Jasmine Delcambre,Active,94537,2023-08-09-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-24,Local Sick Leave,8.0,188
+230,822,Jasmine Delcambre,Active,94537,2023-08-09-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-27,Local Sick Leave,8.0,188
+231,822,Jasmine Delcambre,Active,94537,2023-08-09-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-10,Unpaid,0.0,188
+232,822,Jasmine Delcambre,Active,94537,2023-08-09-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-10,Unpaid,-8.0,188
+233,822,Jasmine Delcambre,Active,94537,2023-08-09-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-10,Office Closure,8.0,188
+234,822,Jasmine Delcambre,Active,94537,2023-08-09-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-27,Local Sick Leave,8.0,188
+235,822,Jasmine Delcambre,Active,94537,2023-08-09-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-28,Local Sick Leave,8.0,188
+236,822,Jasmine Delcambre,Active,94537,2023-08-09-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-04-12,Local Sick Leave,8.0,188
+237,822,Jasmine Delcambre,Active,94537,2023-08-09-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-12,Local Sick Leave,4.0,188
+238,822,Jasmine Delcambre,Active,94537,2023-08-09-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-19,Local Sick Leave,8.0,188
+239,848,Jenna Betts,Terminated,93967,2021-07-16-07:00,2022-09-23-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-29,Sick Leave (Pension Eligible),8.0,24
+240,848,Jenna Betts,Terminated,93967,2021-07-16-07:00,2022-09-23-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-30,Sick Leave (Pension Eligible),8.0,24
+241,848,Jenna Betts,Terminated,93967,2021-07-16-07:00,2022-09-23-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-21,Local Sick Leave,8.0,24
+242,858,Jennifer Ponton,Active,93947,2021-07-16-07:00,,Special Education Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-06,Local Sick Leave,8.0,107
+243,858,Jennifer Ponton,Active,93947,2021-07-16-07:00,,Special Education Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-07,Sick Leave (Pension Eligible),8.0,107
+244,858,Jennifer Ponton,Active,93947,2021-07-16-07:00,,Special Education Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-27,Sick Leave (Pension Eligible),8.0,107
+245,858,Jennifer Ponton,Active,93947,2021-07-16-07:00,,Special Education Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-28,Sick Leave (Pension Eligible),8.0,107
+246,858,Jennifer Ponton,Active,93947,2021-07-16-07:00,,Special Education Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-11-14,Sick Leave (Pension Eligible),8.0,107
+247,858,Jennifer Ponton,Active,93947,2021-07-16-07:00,,Special Education Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-11-28,Bereavement - 3 days or less,1.0,107
+248,858,Jennifer Ponton,Active,93947,2021-07-16-07:00,,Special Education Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-11-29,Bereavement - 3 days or less,1.0,107
+249,858,Jennifer Ponton,Active,93947,2021-07-16-07:00,,Special Education Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-11-30,Bereavement - 3 days or less,1.0,107
+250,858,Jennifer Ponton,Active,93947,2021-07-16-07:00,,Special Education Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-01-13,Sick Leave (Pension Eligible),8.0,107
+251,858,Jennifer Ponton,Active,93947,2021-07-16-07:00,,Special Education Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-01-30,Sick Leave (Pension Eligible),8.0,107
+252,858,Jennifer Ponton,Active,93947,2021-07-16-07:00,,Special Education Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-23,Local Sick Leave,8.0,107
+253,858,Jennifer Ponton,Active,93947,2021-07-16-07:00,,Special Education Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-04-13,Local Sick Leave,8.0,107
+254,858,Jennifer Ponton,Active,93947,2021-07-16-07:00,,Special Education Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-04-21,Sick Leave (Pension Eligible),8.0,107
+255,1041,Kathy Barker,Terminated,94982,2022-11-01-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-27,Unpaid,0.0,46
+256,1041,Kathy Barker,Terminated,94982,2022-11-01-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-27,Unpaid,-6.0,46
+257,1041,Kathy Barker,Terminated,94982,2022-11-01-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-27,Sick Leave (Pension Eligible),8.0,46
+258,1041,Kathy Barker,Terminated,94982,2022-11-01-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-28,Unpaid,0.0,46
+259,1041,Kathy Barker,Terminated,94982,2022-11-01-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-28,Unpaid,-6.0,46
+260,1041,Kathy Barker,Terminated,94982,2022-11-01-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-28,Sick Leave (Pension Eligible),8.0,46
+261,1041,Kathy Barker,Terminated,94982,2022-11-01-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-01,Unpaid,0.0,46
+262,1041,Kathy Barker,Terminated,94982,2022-11-01-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-01,Unpaid,-6.0,46
+263,1041,Kathy Barker,Terminated,94982,2022-11-01-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-01,Sick Leave (Pension Eligible),8.0,46
+264,1041,Kathy Barker,Terminated,94982,2022-11-01-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-02,Unpaid,0.0,46
+265,1041,Kathy Barker,Terminated,94982,2022-11-01-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-02,Unpaid,-6.0,46
+266,1041,Kathy Barker,Terminated,94982,2022-11-01-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-02,Sick Leave (Pension Eligible),8.0,46
+267,1041,Kathy Barker,Terminated,94982,2022-11-01-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-03,Unpaid,0.0,46
+268,1041,Kathy Barker,Terminated,94982,2022-11-01-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-03,Unpaid,-6.0,46
+269,1041,Kathy Barker,Terminated,94982,2022-11-01-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-03,Sick Leave (Pension Eligible),8.0,46
+270,1041,Kathy Barker,Terminated,94982,2022-11-01-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-06,Unpaid,6.0,46
+271,1041,Kathy Barker,Terminated,94982,2022-11-01-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-10,Office Closure,8.0,46
+272,1052,Kayla LaSalle,Active,94679,2022-07-25-07:00,,Special Education Aide (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-10,Office Closure,8.0,24
+273,1058,Keith Williams-Bey,Terminated,94057,2021-07-26-07:00,2022-09-23-07:00,Campus Behavior Coordinator (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-12,Local Sick Leave,8.0,8
+274,1078,Kenya Johnson,Terminated,94596,2022-06-01-07:00,2022-08-25-07:00,Office Coordinator (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-24,Sick Leave (Pension Eligible),3.5,15
+275,1078,Kenya Johnson,Terminated,94596,2022-06-01-07:00,2022-08-25-07:00,Office Coordinator (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-25,Sick Leave (Pension Eligible),3.5,15
+276,1078,Kenya Johnson,Terminated,94596,2022-06-01-07:00,2022-08-25-07:00,Office Coordinator (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-29,Sick Leave (Pension Eligible),8.0,15
+277,1080,Keshiona Coleman,Active,94752,2023-07-19-07:00,2023-05-31-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-11-03,Unpaid,8.0,60
+278,1080,Keshiona Coleman,Active,94752,2023-07-19-07:00,2023-05-31-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-11-04,Unpaid,4.0,60
+279,1080,Keshiona Coleman,Active,94752,2023-07-19-07:00,2023-05-31-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-11-18,Local Sick Leave,8.0,60
+280,1080,Keshiona Coleman,Active,94752,2023-07-19-07:00,2023-05-31-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-01-30,Local Sick Leave,8.0,60
+281,1080,Keshiona Coleman,Active,94752,2023-07-19-07:00,2023-05-31-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-10,Office Closure,8.0,60
+282,1080,Keshiona Coleman,Active,94752,2023-07-19-07:00,2023-05-31-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-04-05,Local Sick Leave,8.0,60
+283,1080,Keshiona Coleman,Active,94752,2023-07-19-07:00,2023-05-31-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-12,Local Sick Leave,8.0,60
+284,1080,Keshiona Coleman,Active,94752,2023-07-19-07:00,2023-05-31-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-19,Local Sick Leave,8.0,60
+285,1084,Kevin Newton,Active,94783,2022-08-12-07:00,,Campus Behavior Coordinator (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-10,Office Closure,8.0,8
+286,1131,Laila Ajour,Terminated,95088,2023-01-04-08:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-10,Office Closure,8.0,0
+287,1137,Laquana Mitchell,Active,94414,2022-01-10-08:00,,Special Education Aide (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-12,Local Sick Leave,8.0,79.5
+288,1137,Laquana Mitchell,Active,94414,2022-01-10-08:00,,Special Education Aide (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-15,Local Sick Leave,0.0,79.5
+289,1137,Laquana Mitchell,Active,94414,2022-01-10-08:00,,Special Education Aide (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-15,Local Sick Leave,-8.0,79.5
+290,1137,Laquana Mitchell,Active,94414,2022-01-10-08:00,,Special Education Aide (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-21,Local Sick Leave,8.0,79.5
+291,1137,Laquana Mitchell,Active,94414,2022-01-10-08:00,,Special Education Aide (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-22,Local Sick Leave,8.0,79.5
+292,1137,Laquana Mitchell,Active,94414,2022-01-10-08:00,,Special Education Aide (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-23,Local Sick Leave,8.0,79.5
+293,1137,Laquana Mitchell,Active,94414,2022-01-10-08:00,,Special Education Aide (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-01-04,Local Sick Leave,4.0,79.5
+294,1137,Laquana Mitchell,Active,94414,2022-01-10-08:00,,Special Education Aide (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-01-05,Local Sick Leave,4.0,79.5
+295,1137,Laquana Mitchell,Active,94414,2022-01-10-08:00,,Special Education Aide (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-20,Local Sick Leave,1.5,79.5
+296,1137,Laquana Mitchell,Active,94414,2022-01-10-08:00,,Special Education Aide (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-21,Sick Leave (Pension Eligible),8.0,79.5
+297,1137,Laquana Mitchell,Active,94414,2022-01-10-08:00,,Special Education Aide (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-10,Office Closure,8.0,79.5
+298,1141,Larry Charles,Active,93943,2021-07-16-07:00,,Special Education Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-13,Local Sick Leave,8.0,39
+299,1141,Larry Charles,Active,93943,2021-07-16-07:00,,Special Education Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-14,Local Sick Leave,8.0,39
+300,1141,Larry Charles,Active,93943,2021-07-16-07:00,,Special Education Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-27,Local Sick Leave,8.0,39
+301,1170,LaWanna Liedy,Terminated,94512,2023-08-09-07:00,2023-08-09-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-01-02,Local Sick Leave,8.0,48
+302,1170,LaWanna Liedy,Terminated,94512,2023-08-09-07:00,2023-08-09-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-01-16,Local Sick Leave,8.0,48
+303,1170,LaWanna Liedy,Terminated,94512,2023-08-09-07:00,2023-08-09-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-10,Office Closure,8.0,48
+304,1170,LaWanna Liedy,Terminated,94512,2023-08-09-07:00,2023-08-09-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-04-07,Local Sick Leave,8.0,48
+305,1170,LaWanna Liedy,Terminated,94512,2023-08-09-07:00,2023-08-09-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-04-10,Local Sick Leave,8.0,48
+306,1170,LaWanna Liedy,Terminated,94512,2023-08-09-07:00,2023-08-09-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-08,Local Sick Leave,8.0,48
+307,1170,LaWanna Liedy,Terminated,94512,2023-08-09-07:00,2023-08-09-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-17,Local Sick Leave,0.0,48
+308,1170,LaWanna Liedy,Terminated,94512,2023-08-09-07:00,2023-08-09-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-17,Local Sick Leave,-8.0,48
+309,1170,LaWanna Liedy,Terminated,94512,2023-08-09-07:00,2023-08-09-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-18,Local Sick Leave,8.0,48
+310,1206,Lindsey Cooper,Terminated,93836,2021-01-11-08:00,2023-05-31-07:00,Director of Human Capital (TX),Green Dot Public Schools Southeast Texas,Green Dot Southeast Texas Home Office,2022-10-07,Local Sick Leave,8.0,27
+311,1206,Lindsey Cooper,Terminated,93836,2021-01-11-08:00,2023-05-31-07:00,Director of Human Capital (TX),Green Dot Public Schools Southeast Texas,Green Dot Southeast Texas Home Office,2022-11-16,Sick Leave (Pension Eligible),8.0,27
+312,1206,Lindsey Cooper,Terminated,93836,2021-01-11-08:00,2023-05-31-07:00,Director of Human Capital (TX),Green Dot Public Schools Southeast Texas,Green Dot Southeast Texas Home Office,2023-02-14,Sick Leave (Pension Eligible),4.0,27
+313,1206,Lindsey Cooper,Terminated,93836,2021-01-11-08:00,2023-05-31-07:00,Director of Human Capital (TX),Green Dot Public Schools Southeast Texas,Green Dot Southeast Texas Home Office,2023-04-26,Sick Leave (Pension Eligible),3.0,27
+314,1206,Lindsey Cooper,Terminated,93836,2021-01-11-08:00,2023-05-31-07:00,Director of Human Capital (TX),Green Dot Public Schools Southeast Texas,Green Dot Southeast Texas Home Office,2023-05-05,Sick Leave (Pension Eligible),4.0,27
+315,1281,Marian Williams,Terminated,92063,2016-01-04-08:00,2023-07-18-07:00,Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-29,Bereavement - 3 days or less,1.0,60
+316,1281,Marian Williams,Terminated,92063,2016-01-04-08:00,2023-07-18-07:00,Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-30,Bereavement - 3 days or less,1.0,60
+317,1281,Marian Williams,Terminated,92063,2016-01-04-08:00,2023-07-18-07:00,Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-07,Bereavement - 3 days or less,1.0,60
+318,1281,Marian Williams,Terminated,92063,2016-01-04-08:00,2023-07-18-07:00,Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-11-07,Local Sick Leave,8.0,60
+319,1281,Marian Williams,Terminated,92063,2016-01-04-08:00,2023-07-18-07:00,Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-11-08,Local Sick Leave,8.0,60
+320,1312,Mary Colbert,Terminated,93944,2021-07-16-07:00,2023-01-13-08:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-24,Local Sick Leave,8.0,68
+321,1312,Mary Colbert,Terminated,93944,2021-07-16-07:00,2023-01-13-08:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-01,Local Sick Leave,8.0,68
+322,1312,Mary Colbert,Terminated,93944,2021-07-16-07:00,2023-01-13-08:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-02,Unpaid Time Off,4.0,68
+323,1312,Mary Colbert,Terminated,93944,2021-07-16-07:00,2023-01-13-08:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-19,Sick Leave (Pension Eligible),8.0,68
+324,1312,Mary Colbert,Terminated,93944,2021-07-16-07:00,2023-01-13-08:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-20,Sick Leave (Pension Eligible),8.0,68
+325,1312,Mary Colbert,Terminated,93944,2021-07-16-07:00,2023-01-13-08:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-21,Sick Leave (Pension Eligible),8.0,68
+326,1312,Mary Colbert,Terminated,93944,2021-07-16-07:00,2023-01-13-08:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-22,Sick Leave (Pension Eligible),8.0,68
+327,1312,Mary Colbert,Terminated,93944,2021-07-16-07:00,2023-01-13-08:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-31,Sick Leave (Pension Eligible),8.0,68
+328,1312,Mary Colbert,Terminated,93944,2021-07-16-07:00,2023-01-13-08:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-12-09,Unpaid Time Off,8.0,68
+329,1418,Myesha Lee,Active,95095,2023-07-19-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-10,Office Closure,8.0,34
+330,1418,Myesha Lee,Active,95095,2023-07-19-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-24,Local Sick Leave,0.0,34
+331,1418,Myesha Lee,Active,95095,2023-07-19-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-24,Local Sick Leave,-8.0,34
+332,1418,Myesha Lee,Active,95095,2023-07-19-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-25,Local Sick Leave,0.0,34
+333,1418,Myesha Lee,Active,95095,2023-07-19-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-25,Local Sick Leave,-7.0,34
+334,1429,Nancy Flores,Terminated,94569,2022-06-01-07:00,2022-12-09-08:00,Director of Academics (TX),Green Dot Public Schools Southeast Texas,Green Dot Southeast Texas Home Office,2022-11-29,Local Sick Leave,8.0,24
+335,1429,Nancy Flores,Terminated,94569,2022-06-01-07:00,2022-12-09-08:00,Director of Academics (TX),Green Dot Public Schools Southeast Texas,Green Dot Southeast Texas Home Office,2022-12-05,Local Sick Leave,8.0,24
+336,1429,Nancy Flores,Terminated,94569,2022-06-01-07:00,2022-12-09-08:00,Director of Academics (TX),Green Dot Public Schools Southeast Texas,Green Dot Southeast Texas Home Office,2022-12-06,Local Sick Leave,8.0,24
+337,1451,Nelisia Maldonado,Terminated,93956,2021-07-16-07:00,2023-03-31-07:00,Fine Arts Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-20,Local Sick Leave,8.0,81.5
+338,1451,Nelisia Maldonado,Terminated,93956,2021-07-16-07:00,2023-03-31-07:00,Fine Arts Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-20,Local Sick Leave,7.0,81.5
+339,1451,Nelisia Maldonado,Terminated,93956,2021-07-16-07:00,2023-03-31-07:00,Fine Arts Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-12,Local Sick Leave,8.0,81.5
+340,1451,Nelisia Maldonado,Terminated,93956,2021-07-16-07:00,2023-03-31-07:00,Fine Arts Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-12,Local Sick Leave,7.0,81.5
+341,1451,Nelisia Maldonado,Terminated,93956,2021-07-16-07:00,2023-03-31-07:00,Fine Arts Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-25,Local Sick Leave,8.0,81.5
+342,1451,Nelisia Maldonado,Terminated,93956,2021-07-16-07:00,2023-03-31-07:00,Fine Arts Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-31,Local Sick Leave,4.0,81.5
+343,1451,Nelisia Maldonado,Terminated,93956,2021-07-16-07:00,2023-03-31-07:00,Fine Arts Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-11-10,Local Sick Leave,7.0,81.5
+344,1451,Nelisia Maldonado,Terminated,93956,2021-07-16-07:00,2023-03-31-07:00,Fine Arts Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-11-14,Unpaid Time Off,4.0,81.5
+345,1451,Nelisia Maldonado,Terminated,93956,2021-07-16-07:00,2023-03-31-07:00,Fine Arts Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-01-27,Unpaid Time Off,8.0,81.5
+346,1451,Nelisia Maldonado,Terminated,93956,2021-07-16-07:00,2023-03-31-07:00,Fine Arts Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-28,Unpaid Time Off,8.0,81.5
+347,1451,Nelisia Maldonado,Terminated,93956,2021-07-16-07:00,2023-03-31-07:00,Fine Arts Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-28,Unpaid Time Off,7.0,81.5
+348,1451,Nelisia Maldonado,Terminated,93956,2021-07-16-07:00,2023-03-31-07:00,Fine Arts Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-01,Unpaid Time Off,8.0,81.5
+349,1451,Nelisia Maldonado,Terminated,93956,2021-07-16-07:00,2023-03-31-07:00,Fine Arts Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-02,Unpaid Time Off,8.0,81.5
+350,1451,Nelisia Maldonado,Terminated,93956,2021-07-16-07:00,2023-03-31-07:00,Fine Arts Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-03,Unpaid Time Off,8.0,81.5
+351,1451,Nelisia Maldonado,Terminated,93956,2021-07-16-07:00,2023-03-31-07:00,Fine Arts Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-22,Unpaid Time Off,0.5,81.5
+352,1451,Nelisia Maldonado,Terminated,93956,2021-07-16-07:00,2023-03-31-07:00,Fine Arts Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-31,Unpaid Time Off,1.0,81.5
+353,1509,Paula Pickett,Terminated,94108,2021-08-09-07:00,2023-06-30-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-14,Local Sick Leave,3.0,11
+354,1509,Paula Pickett,Terminated,94108,2021-08-09-07:00,2023-06-30-07:00,Teacher Resident (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-05,Local Sick Leave,8.0,11
+355,1568,Reginald Johnson,Terminated,93953,2022-12-13-08:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-07,Unpaid,8.0,177.75
+356,1568,Reginald Johnson,Terminated,93953,2022-12-13-08:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-26,Sick Leave (Pension Eligible),6.0,177.75
+357,1568,Reginald Johnson,Terminated,93953,2022-12-13-08:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-03,Sick Leave (Pension Eligible),8.0,177.75
+358,1568,Reginald Johnson,Terminated,93953,2022-12-13-08:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-04,Sick Leave (Pension Eligible),8.0,177.75
+359,1568,Reginald Johnson,Terminated,93953,2022-12-13-08:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-05,Sick Leave (Pension Eligible),2.0,177.75
+360,1568,Reginald Johnson,Terminated,93953,2022-12-13-08:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-06,Unpaid,8.0,177.75
+361,1568,Reginald Johnson,Terminated,93953,2022-12-13-08:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-07,Sick Leave (Pension Eligible),8.0,177.75
+362,1568,Reginald Johnson,Terminated,93953,2022-12-13-08:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-10,Sick Leave (Pension Eligible),8.0,177.75
+363,1568,Reginald Johnson,Terminated,93953,2022-12-13-08:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-08,Sick,8.0,177.75
+364,1568,Reginald Johnson,Terminated,93953,2022-12-13-08:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-15,Sick,4.0,177.75
+365,1568,Reginald Johnson,Terminated,93953,2022-12-13-08:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-21,Local Sick Leave,8.0,177.75
+366,1568,Reginald Johnson,Terminated,93953,2022-12-13-08:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-22,Local Sick Leave,8.0,177.75
+367,1568,Reginald Johnson,Terminated,93953,2022-12-13-08:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-06,Local Sick Leave,8.0,177.75
+368,1568,Reginald Johnson,Terminated,93953,2022-12-13-08:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-07,Local Sick Leave,8.0,177.75
+369,1568,Reginald Johnson,Terminated,93953,2022-12-13-08:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-10,Office Closure,8.0,177.75
+370,1568,Reginald Johnson,Terminated,93953,2022-12-13-08:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-27,Local Sick Leave,8.0,177.75
+371,1568,Reginald Johnson,Terminated,93953,2022-12-13-08:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-04-03,Local Sick Leave,5.75,177.75
+372,1568,Reginald Johnson,Terminated,93953,2022-12-13-08:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-04-12,Local Sick Leave,8.0,177.75
+373,1568,Reginald Johnson,Terminated,93953,2022-12-13-08:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-04-14,Local Sick Leave,8.0,177.75
+374,1568,Reginald Johnson,Terminated,93953,2022-12-13-08:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-04-17,Local Sick Leave,8.0,177.75
+375,1568,Reginald Johnson,Terminated,93953,2022-12-13-08:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-04,Local Sick Leave,8.0,177.75
+376,1568,Reginald Johnson,Terminated,93953,2022-12-13-08:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-05,Local Sick Leave,8.0,177.75
+377,1568,Reginald Johnson,Terminated,93953,2022-12-13-08:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-08,Local Sick Leave,8.0,177.75
+378,1568,Reginald Johnson,Terminated,93953,2022-12-13-08:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-12,Local Sick Leave,8.0,177.75
+379,1568,Reginald Johnson,Terminated,93953,2022-12-13-08:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-19,Local Sick Leave,8.0,177.75
+380,1568,Reginald Johnson,Terminated,93953,2022-12-13-08:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-25,Local Sick Leave,0.0,177.75
+381,1568,Reginald Johnson,Terminated,93953,2022-12-13-08:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-25,Local Sick Leave,-7.0,177.75
+382,1587,Richard Harris,Terminated,93860,2021-03-01-08:00,2023-02-03-08:00,Director of Finance & Operations (TX),Green Dot Public Schools Southeast Texas,Green Dot Southeast Texas Home Office,2022-09-13,Sick Leave (Pension Eligible),6.0,40
+383,1587,Richard Harris,Terminated,93860,2021-03-01-08:00,2023-02-03-08:00,Director of Finance & Operations (TX),Green Dot Public Schools Southeast Texas,Green Dot Southeast Texas Home Office,2022-09-16,Sick Leave (Pension Eligible),8.0,40
+384,1587,Richard Harris,Terminated,93860,2021-03-01-08:00,2023-02-03-08:00,Director of Finance & Operations (TX),Green Dot Public Schools Southeast Texas,Green Dot Southeast Texas Home Office,2022-10-24,Local Sick Leave,8.0,40
+385,1587,Richard Harris,Terminated,93860,2021-03-01-08:00,2023-02-03-08:00,Director of Finance & Operations (TX),Green Dot Public Schools Southeast Texas,Green Dot Southeast Texas Home Office,2022-11-17,Local Sick Leave,8.0,40
+386,1587,Richard Harris,Terminated,93860,2021-03-01-08:00,2023-02-03-08:00,Director of Finance & Operations (TX),Green Dot Public Schools Southeast Texas,Green Dot Southeast Texas Home Office,2022-12-09,Local Sick Leave,8.0,40
+387,1587,Richard Harris,Terminated,93860,2021-03-01-08:00,2023-02-03-08:00,Director of Finance & Operations (TX),Green Dot Public Schools Southeast Texas,Green Dot Southeast Texas Home Office,2023-02-02,Bereavement - 3 days or less,1.0,40
+388,1587,Richard Harris,Terminated,93860,2021-03-01-08:00,2023-02-03-08:00,Director of Finance & Operations (TX),Green Dot Public Schools Southeast Texas,Green Dot Southeast Texas Home Office,2023-02-03,Bereavement - 3 days or less,1.0,40
+389,1625,Rosalyn Antoine,Terminated,93962,2021-07-16-07:00,2022-09-23-07:00,ELA Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-11,Local Sick Leave,0.0,20
+390,1625,Rosalyn Antoine,Terminated,93962,2021-07-16-07:00,2022-09-23-07:00,ELA Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-11,Local Sick Leave,-8.0,20
+391,1625,Rosalyn Antoine,Terminated,93962,2021-07-16-07:00,2022-09-23-07:00,ELA Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-12,Local Sick Leave,0.0,20
+392,1625,Rosalyn Antoine,Terminated,93962,2021-07-16-07:00,2022-09-23-07:00,ELA Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-12,Local Sick Leave,-8.0,20
+393,1625,Rosalyn Antoine,Terminated,93962,2021-07-16-07:00,2022-09-23-07:00,ELA Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-16,Local Sick Leave,8.0,20
+394,1625,Rosalyn Antoine,Terminated,93962,2021-07-16-07:00,2022-09-23-07:00,ELA Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-20,Local Sick Leave,4.0,20
+395,1625,Rosalyn Antoine,Terminated,93962,2021-07-16-07:00,2022-09-23-07:00,ELA Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-11-08,Local Sick Leave,8.0,20
+396,1681,Serita Porter,Active,94677,2022-07-16-07:00,,Math Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-28,Sick Leave (Pension Eligible),8.0,104
+397,1681,Serita Porter,Active,94677,2022-07-16-07:00,,Math Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-29,Sick Leave (Pension Eligible),8.0,104
+398,1681,Serita Porter,Active,94677,2022-07-16-07:00,,Math Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-01-30,Sick Leave (Pension Eligible),8.0,104
+399,1718,Sherille McAfee,Terminated,94681,2022-07-16-07:00,2023-06-30-07:00,Fine Arts Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-24,Local Sick Leave,8.0,88
+400,1718,Sherille McAfee,Terminated,94681,2022-07-16-07:00,2023-06-30-07:00,Fine Arts Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-11-14,Local Sick Leave,8.0,88
+401,1718,Sherille McAfee,Terminated,94681,2022-07-16-07:00,2023-06-30-07:00,Fine Arts Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-12-01,Local Sick Leave,8.0,88
+402,1718,Sherille McAfee,Terminated,94681,2022-07-16-07:00,2023-06-30-07:00,Fine Arts Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-09,Local Sick Leave,4.0,88
+403,1718,Sherille McAfee,Terminated,94681,2022-07-16-07:00,2023-06-30-07:00,Fine Arts Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-10,Local Sick Leave,8.0,88
+404,1718,Sherille McAfee,Terminated,94681,2022-07-16-07:00,2023-06-30-07:00,Fine Arts Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-04-24,Local Sick Leave,2.0,88
+405,1718,Sherille McAfee,Terminated,94681,2022-07-16-07:00,2023-06-30-07:00,Fine Arts Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-04-25,Local Sick Leave,2.0,88
+406,1718,Sherille McAfee,Terminated,94681,2022-07-16-07:00,2023-06-30-07:00,Fine Arts Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-04-27,Unpaid Time Off,8.0,88
+407,1718,Sherille McAfee,Terminated,94681,2022-07-16-07:00,2023-06-30-07:00,Fine Arts Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-04-28,Unpaid Time Off,8.0,88
+408,1718,Sherille McAfee,Terminated,94681,2022-07-16-07:00,2023-06-30-07:00,Fine Arts Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-11,Unpaid Time Off,8.0,88
+409,1718,Sherille McAfee,Terminated,94681,2022-07-16-07:00,2023-06-30-07:00,Fine Arts Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-12,Unpaid Time Off,8.0,88
+410,1718,Sherille McAfee,Terminated,94681,2022-07-16-07:00,2023-06-30-07:00,Fine Arts Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-15,Sick Leave (Pension Eligible),0.0,88
+411,1718,Sherille McAfee,Terminated,94681,2022-07-16-07:00,2023-06-30-07:00,Fine Arts Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-15,Sick Leave (Pension Eligible),-8.0,88
+412,1718,Sherille McAfee,Terminated,94681,2022-07-16-07:00,2023-06-30-07:00,Fine Arts Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-16,Sick Leave (Pension Eligible),0.0,88
+413,1718,Sherille McAfee,Terminated,94681,2022-07-16-07:00,2023-06-30-07:00,Fine Arts Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-16,Sick Leave (Pension Eligible),-8.0,88
+414,1718,Sherille McAfee,Terminated,94681,2022-07-16-07:00,2023-06-30-07:00,Fine Arts Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-17,Sick Leave (Pension Eligible),8.0,88
+415,1718,Sherille McAfee,Terminated,94681,2022-07-16-07:00,2023-06-30-07:00,Fine Arts Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-18,Sick Leave (Pension Eligible),8.0,88
+416,1722,Simone AlShomade,Terminated,94796,2022-08-15-07:00,2023-06-06-07:00,Assistant Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-06,Local Sick Leave,8.0,48
+417,1722,Simone AlShomade,Terminated,94796,2022-08-15-07:00,2023-06-06-07:00,Assistant Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-01-27,Local Sick Leave,8.0,48
+418,1722,Simone AlShomade,Terminated,94796,2022-08-15-07:00,2023-06-06-07:00,Assistant Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-08,Local Sick Leave,0.0,48
+419,1722,Simone AlShomade,Terminated,94796,2022-08-15-07:00,2023-06-06-07:00,Assistant Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-08,Local Sick Leave,-8.0,48
+420,1722,Simone AlShomade,Terminated,94796,2022-08-15-07:00,2023-06-06-07:00,Assistant Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-08,PTO,8.0,48
+421,1722,Simone AlShomade,Terminated,94796,2022-08-15-07:00,2023-06-06-07:00,Assistant Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-12,Local Sick Leave,8.0,48
+422,1722,Simone AlShomade,Terminated,94796,2022-08-15-07:00,2023-06-06-07:00,Assistant Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-15,PTO,8.0,48
+423,1722,Simone AlShomade,Terminated,94796,2022-08-15-07:00,2023-06-06-07:00,Assistant Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-16,PTO,8.0,48
+424,1737,Stephan Garrett,Active,94608,2022-07-16-07:00,,Social Studies Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-01-19,Local Sick Leave,8.0,56
+425,1737,Stephan Garrett,Active,94608,2022-07-16-07:00,,Social Studies Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-07,Local Sick Leave,8.0,56
+426,1787,Tanginekka Hill,Active,94328,2023-07-20-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-08,Local Sick Leave,8.0,170.75
+427,1787,Tanginekka Hill,Active,94328,2023-07-20-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-14,Local Sick Leave,2.0,170.75
+428,1787,Tanginekka Hill,Active,94328,2023-07-20-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-03,Local Sick Leave,3.0,170.75
+429,1787,Tanginekka Hill,Active,94328,2023-07-20-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-05,Local Sick Leave,1.0,170.75
+430,1787,Tanginekka Hill,Active,94328,2023-07-20-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-11,Local Sick Leave,3.5,170.75
+431,1787,Tanginekka Hill,Active,94328,2023-07-20-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-14,Local Sick Leave,8.0,170.75
+432,1787,Tanginekka Hill,Active,94328,2023-07-20-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-21,Local Sick Leave,0.0,170.75
+433,1787,Tanginekka Hill,Active,94328,2023-07-20-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-21,Local Sick Leave,-8.0,170.75
+434,1787,Tanginekka Hill,Active,94328,2023-07-20-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-27,Local Sick Leave,8.0,170.75
+435,1787,Tanginekka Hill,Active,94328,2023-07-20-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-12-14,Local Sick Leave,8.0,170.75
+436,1787,Tanginekka Hill,Active,94328,2023-07-20-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-01-02,Local Sick Leave,8.0,170.75
+437,1787,Tanginekka Hill,Active,94328,2023-07-20-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-01-16,Local Sick Leave,8.0,170.75
+438,1787,Tanginekka Hill,Active,94328,2023-07-20-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-01-18,Local Sick Leave,8.0,170.75
+439,1787,Tanginekka Hill,Active,94328,2023-07-20-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-10,Office Closure,8.0,170.75
+440,1787,Tanginekka Hill,Active,94328,2023-07-20-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-17,Local Sick Leave,8.0,170.75
+441,1787,Tanginekka Hill,Active,94328,2023-07-20-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-24,Local Sick Leave,8.0,170.75
+442,1787,Tanginekka Hill,Active,94328,2023-07-20-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-04-07,Local Sick Leave,7.5,170.75
+443,1787,Tanginekka Hill,Active,94328,2023-07-20-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-10,Local Sick Leave,8.0,170.75
+444,1787,Tanginekka Hill,Active,94328,2023-07-20-07:00,2023-05-31-07:00,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-18,Local Sick Leave,4.0,170.75
+445,1795,Tatiana Authement,Terminated,94680,2022-07-16-07:00,2023-08-01-07:00,Math Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-22,Local Sick Leave,8.0,80
+446,1795,Tatiana Authement,Terminated,94680,2022-07-16-07:00,2023-08-01-07:00,Math Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-23,Local Sick Leave,8.0,80
+447,1795,Tatiana Authement,Terminated,94680,2022-07-16-07:00,2023-08-01-07:00,Math Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-24,Local Sick Leave,8.0,80
+448,1795,Tatiana Authement,Terminated,94680,2022-07-16-07:00,2023-08-01-07:00,Math Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-25,Local Sick Leave,8.0,80
+449,1795,Tatiana Authement,Terminated,94680,2022-07-16-07:00,2023-08-01-07:00,Math Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-26,Sick Leave (Pension Eligible),0.0,80
+450,1795,Tatiana Authement,Terminated,94680,2022-07-16-07:00,2023-08-01-07:00,Math Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-26,Sick Leave (Pension Eligible),-8.0,80
+451,1795,Tatiana Authement,Terminated,94680,2022-07-16-07:00,2023-08-01-07:00,Math Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-24,Local Sick Leave,8.0,80
+452,1795,Tatiana Authement,Terminated,94680,2022-07-16-07:00,2023-08-01-07:00,Math Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-27,Sick Leave (Pension Eligible),0.0,80
+453,1795,Tatiana Authement,Terminated,94680,2022-07-16-07:00,2023-08-01-07:00,Math Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-27,Sick Leave (Pension Eligible),6.0,80
+454,1795,Tatiana Authement,Terminated,94680,2022-07-16-07:00,2023-08-01-07:00,Math Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-27,Sick Leave (Pension Eligible),-8.0,80
+455,1795,Tatiana Authement,Terminated,94680,2022-07-16-07:00,2023-08-01-07:00,Math Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-27,Sick Leave (Pension Eligible),8.0,80
+456,1795,Tatiana Authement,Terminated,94680,2022-07-16-07:00,2023-08-01-07:00,Math Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-28,Sick Leave (Pension Eligible),8.0,80
+457,1795,Tatiana Authement,Terminated,94680,2022-07-16-07:00,2023-08-01-07:00,Math Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-28,Sick Leave (Pension Eligible),6.0,80
+458,1804,Teniya Rideb-Sparks,Terminated,94664,2022-07-12-07:00,2023-03-10-08:00,Assistant Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-25,Local Sick Leave,8.0,87
+459,1804,Teniya Rideb-Sparks,Terminated,94664,2022-07-12-07:00,2023-03-10-08:00,Assistant Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-26,Local Sick Leave,8.0,87
+460,1804,Teniya Rideb-Sparks,Terminated,94664,2022-07-12-07:00,2023-03-10-08:00,Assistant Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-19,Local Sick Leave,8.0,87
+461,1804,Teniya Rideb-Sparks,Terminated,94664,2022-07-12-07:00,2023-03-10-08:00,Assistant Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-03,Local Sick Leave,0.0,87
+462,1804,Teniya Rideb-Sparks,Terminated,94664,2022-07-12-07:00,2023-03-10-08:00,Assistant Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-03,Local Sick Leave,-8.0,87
+463,1804,Teniya Rideb-Sparks,Terminated,94664,2022-07-12-07:00,2023-03-10-08:00,Assistant Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-05,PTO,4.0,87
+464,1804,Teniya Rideb-Sparks,Terminated,94664,2022-07-12-07:00,2023-03-10-08:00,Assistant Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-10,Local Sick Leave,8.0,87
+465,1804,Teniya Rideb-Sparks,Terminated,94664,2022-07-12-07:00,2023-03-10-08:00,Assistant Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-11,Local Sick Leave,0.0,87
+466,1804,Teniya Rideb-Sparks,Terminated,94664,2022-07-12-07:00,2023-03-10-08:00,Assistant Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-11,Local Sick Leave,-4.0,87
+467,1804,Teniya Rideb-Sparks,Terminated,94664,2022-07-12-07:00,2023-03-10-08:00,Assistant Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-11,Local Sick Leave,5.0,87
+468,1804,Teniya Rideb-Sparks,Terminated,94664,2022-07-12-07:00,2023-03-10-08:00,Assistant Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-25,Sick Leave (Pension Eligible),3.0,87
+469,1804,Teniya Rideb-Sparks,Terminated,94664,2022-07-12-07:00,2023-03-10-08:00,Assistant Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-11-10,Sick Leave (Pension Eligible),8.0,87
+470,1804,Teniya Rideb-Sparks,Terminated,94664,2022-07-12-07:00,2023-03-10-08:00,Assistant Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-11-30,Sick Leave (Pension Eligible),8.0,87
+471,1804,Teniya Rideb-Sparks,Terminated,94664,2022-07-12-07:00,2023-03-10-08:00,Assistant Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-12-01,Sick Leave (Pension Eligible),8.0,87
+472,1804,Teniya Rideb-Sparks,Terminated,94664,2022-07-12-07:00,2023-03-10-08:00,Assistant Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-01-25,Sick Leave (Pension Eligible),8.0,87
+473,1804,Teniya Rideb-Sparks,Terminated,94664,2022-07-12-07:00,2023-03-10-08:00,Assistant Principal (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-07,PTO,8.0,87
+474,1860,Tracie Johnson,Active,94799,2022-08-15-07:00,,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-27,Local Sick Leave,3.0,66
+475,1860,Tracie Johnson,Active,94799,2022-08-15-07:00,,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-28,Local Sick Leave,1.0,66
+476,1860,Tracie Johnson,Active,94799,2022-08-15-07:00,,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-17,Unpaid,8.0,66
+477,1860,Tracie Johnson,Active,94799,2022-08-15-07:00,,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-20,Unpaid,8.0,66
+478,1860,Tracie Johnson,Active,94799,2022-08-15-07:00,,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-10,Office Closure,8.0,66
+479,1860,Tracie Johnson,Active,94799,2022-08-15-07:00,,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-04-07,Local Sick Leave,6.0,66
+480,1860,Tracie Johnson,Active,94799,2022-08-15-07:00,,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-04-10,Local Sick Leave,8.0,66
+481,1860,Tracie Johnson,Active,94799,2022-08-15-07:00,,Substitute Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-08,Local Sick Leave,8.0,66
+482,1861,Tracy Bradford,Active,94406,2022-01-03-08:00,,Special Education Aide (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-31,Sick Leave (Pension Eligible),8.0,119
+483,1861,Tracy Bradford,Active,94406,2022-01-03-08:00,,Special Education Aide (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-15,Local Sick Leave,4.0,119
+484,1861,Tracy Bradford,Active,94406,2022-01-03-08:00,,Special Education Aide (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-16,Local Sick Leave,8.0,119
+485,1861,Tracy Bradford,Active,94406,2022-01-03-08:00,,Special Education Aide (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-04,Local Sick Leave,4.0,119
+486,1861,Tracy Bradford,Active,94406,2022-01-03-08:00,,Special Education Aide (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-10-07,Local Sick Leave,8.0,119
+487,1861,Tracy Bradford,Active,94406,2022-01-03-08:00,,Special Education Aide (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-01-09,Local Sick Leave,8.0,119
+488,1861,Tracy Bradford,Active,94406,2022-01-03-08:00,,Special Education Aide (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-01-23,Local Sick Leave,0.0,119
+489,1861,Tracy Bradford,Active,94406,2022-01-03-08:00,,Special Education Aide (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-01-23,Local Sick Leave,-8.0,119
+490,1861,Tracy Bradford,Active,94406,2022-01-03-08:00,,Special Education Aide (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-01-27,Sick Leave (Pension Eligible),8.0,119
+491,1861,Tracy Bradford,Active,94406,2022-01-03-08:00,,Special Education Aide (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-02-22,Sick Leave (Pension Eligible),8.0,119
+492,1861,Tracy Bradford,Active,94406,2022-01-03-08:00,,Special Education Aide (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-03-20,Sick Leave (Pension Eligible),8.0,119
+493,1861,Tracy Bradford,Active,94406,2022-01-03-08:00,,Special Education Aide (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-05,Sick Leave (Pension Eligible),8.0,119
+494,1861,Tracy Bradford,Active,94406,2022-01-03-08:00,,Special Education Aide (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2023-05-15,Local Sick Leave,8.0,119
+495,1934,Willie Williams,Terminated,93958,2021-07-16-07:00,2022-10-12-07:00,Physical Education/Health Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-08-26,Local Sick Leave,8.0,32
+496,1934,Willie Williams,Terminated,93958,2021-07-16-07:00,2022-10-12-07:00,Physical Education/Health Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-21,Local Sick Leave,8.0,32
+497,1934,Willie Williams,Terminated,93958,2021-07-16-07:00,2022-10-12-07:00,Physical Education/Health Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-22,Local Sick Leave,8.0,32
+498,1934,Willie Williams,Terminated,93958,2021-07-16-07:00,2022-10-12-07:00,Physical Education/Health Teacher (TX),Green Dot Public Schools Southeast Texas,M.L. King Middle School,2022-09-23,Local Sick Leave,8.0,32

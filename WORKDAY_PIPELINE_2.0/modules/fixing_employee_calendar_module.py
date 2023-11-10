@@ -1,8 +1,9 @@
 import pandas as pd
-from calendar_query_module import calendar_query
+import os
+from modules.calendar_query_module import calendar_query
 import logging
 from datetime import datetime
-from transformation_module import transformation
+from modules.transformation_module import transformation
 
 #At the point where I can assume that I have the calendar for all regions
 
@@ -97,7 +98,18 @@ class fixing_employee_calendar:
         return(region, calendar_dict, region_first_day, region_last_day)
     
 
-    def insert_starts_ends(region, calendar_dict, region_first_day):
+    def insert_starts_ends(region, calendar_dict, region_first_day, region_last_day):
+
+        region_original = region.copy()
+
+        #These are emps that are dropped, Terminated and not re-hired, Termination occured before the SY
+        fired = region.loc[(region['Term_Date'] > region['Hire_Date']) & (region['Term_Date'] < region_first_day)]
+        # Use the boolean mask to select rows that satisfy the condition and drop them
+        if fired.empty == False:
+            region.drop(region[fired].index, inplace = True)
+        else:
+            pass
+
 
         #Map the Calendar Start Dates based on the Hire Date. If the Hire Date is prior to the first day of school
         #default to a value of 1. 
@@ -108,16 +120,62 @@ class fixing_employee_calendar:
         region['Term_Date'].replace({'Employed': pd.NaT}, inplace=True)
         region['Term_Date'] = pd.to_datetime(region['Term_Date'])
 
-        #If termination date is before the first day, then drop the employee from this particular frame
-        #Create a Calendar End Date column that is based on the Term_Date
-        #If the Term Date is on the Calendar for this year then it receives a date value from the zip frame. 
-        #Else it will locate values from 'Term_Date' column that says Employed and span it out the be the length of the zip frame
 
+        #This is for emps that have been fired during the SY, and want to map Calendar End Date on their termination date
+        # Update 'Calendar End Date' in the original DataFrame based on the mapping
+        region.loc[(region['Term_Date'] > region['Hire_Date']), 'Calendar End Date'] = (
+            region.loc[(region['Term_Date'] > region['Hire_Date']), 'Term_Date']
+            .map(calendar_dict)
+        )
+
+        #Locate instance wheres Employees have a termination date
+        terminations = region.loc[~region['Term_Date'].isna()]
+
+        #Locate where termination date was before region first day, and the most recent hire_date came after the region_first_day
+        re_hires = terminations.loc[(terminations['Term_Date'] < terminations['Hire_Date'])]
+        #Amongst the Terminations, worked at any point during the SY
+        re_hires_2 = terminations.loc[(terminations['Hire_Date'] >= region_first_day) & (terminations['Hire_Date'] <= region_last_day)]
+        re_hires = pd.concat([re_hires, re_hires_2])
+
+        #Drop employees with terminations before the SY, & concat the re-hired emps back
         region.drop(region.loc[region['Term_Date'] < region_first_day].index, inplace = True)
+        region = pd.concat([region, re_hires])
+        region = region.drop_duplicates()
+
+        #This is for one off instances
         region['Term_Date'].replace({pd.NaT: 'Employed'}, inplace=True)
-        region['Calendar End Date'] = region['Term_Date'].map(calendar_dict).fillna('Error')
         region.loc[region['Term_Date'] == 'Employed', 'Calendar End Date'] = len(calendar_dict)
-        return(region)
+
+        #For emps that were re-hired map the Calendar End Date
+        region['Calendar End Date'] = region['Term_Date'].map(calendar_dict).fillna('Error')
+        region['Calendar End Date'] = region['Calendar End Date'].replace('Error', list(calendar_dict.values())[-1])
+
+        return(region, region_original)
+
+    def write_out_terminations(region, region_original, acronym):
+
+        file_path = os.getcwd() + f'\\csvs\\{acronym}_Employees_Dropped.csv'
+     
+        #See what Emps have been dropped, write to a csv
+        region_original['Term_Date'] = region_original['Term_Date'].astype(str)
+        # Merge the DataFrames using an outer join on all columns
+        differences = pd.merge(region_original, region, on='Emp_ID', how='outer', indicator=True)
+        emps_dropped = differences.loc[differences['_merge'] == 'left_only']
+        
+        # Check if the file exists before writing
+        if not os.path.exists(file_path):
+                emps_dropped.to_csv(file, index=False)
+        else:
+                # Read the master frame
+                df_source = pd.read_csv(file_path)
+
+                # Append the new log_results to the original
+                updated = pd.concat([df_source, emps_dropped], ignore_index=True)
+
+                # Write the updated destination DataFrame back to the CSV file
+                updated.to_csv(f'{acronym}_Employees_Dropped.csv', index=False)
+
+
 
 
     #Map the proper Hire Date and Term Date, which inherently influences Calendar Start End Dates.

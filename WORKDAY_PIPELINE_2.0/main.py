@@ -5,14 +5,14 @@ import os
 from datetime import date
 from config import user, password
 
-from data_request_module import Data_Request
-from transformation_module import transformation
-from calendar_query_module import calendar_query
-from fixing_employee_calendar_module import fixing_employee_calendar
-from leave_of_absence_module import leave_of_absence
-from worker_time_off_module import worker_time_off
-from sending_sql_module import sending_sql
-from accuracy_tests_module import accuracy_tests
+from modules.data_request_module import Data_Request
+from modules.transformation_module import transformation
+from modules.calendar_query_module import calendar_query
+from modules.fixing_employee_calendar_module import fixing_employee_calendar
+from modules.leave_of_absence_module import leave_of_absence
+from modules.worker_time_off_module import worker_time_off
+from modules.sending_sql_module import sending_sql
+from modules.accuracy_tests_module import accuracy_tests
 
 warnings.simplefilter("ignore")
 pd.set_option('mode.chained_assignment', None)
@@ -108,6 +108,9 @@ def process(acronym, WTO_, LOA_, All_):
 
     WB_list = []
 
+    #For individual testing
+    fall_cal = fall_cals_list[2]
+
     for index, fall_cal in enumerate(fall_cals_list):
 
         # # #get specific calendar dict, region, first_day, and last_day of a fall calendar year
@@ -116,7 +119,11 @@ def process(acronym, WTO_, LOA_, All_):
 
         print(region_first_day, region_last_day)
 
-        region = fixing_employee_calendar.insert_starts_ends(region, calendar_dict, region_first_day)
+        region, region_original = fixing_employee_calendar.insert_starts_ends(region, calendar_dict, region_first_day, region_last_day)
+        #Write to a csv what employees have been dropped
+        fixing_employee_calendar.write_out_terminations(region, region_original, acronym)
+
+
         region = fixing_employee_calendar.calendar_errors(region, fall_cal, calendar_dict, 'Calendar Start Date')
         region = fixing_employee_calendar.calendar_errors(region, fall_cal, calendar_dict, 'Calendar End Date')
 
@@ -143,10 +150,10 @@ def process(acronym, WTO_, LOA_, All_):
      
     final = pd.concat(WB_list)
     return(final)
-
+ 
 CA = process('CA', WTO_, LOA_, All_)
 TX = process('TX', WTO_, LOA_, All_)
 TN = process('TN', WTO_, LOA_, All_)
 final = pd.concat([CA, TX, TN]).reset_index(drop = True)
-#This portion takes about 4-5 mins on the send
-sending_sql.send_sql(final)
+# This portion takes about 4-5 mins on the send
+# sending_sql.send_sql(final)
