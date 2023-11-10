@@ -120,7 +120,13 @@ In summary, this Python module focuses on querying a SQL database to fetch regio
    - Employees terminated before the first day of school are removed from the dataset.
    - It returns the region's data with updated calendar start and end dates.
 
-5. **`calendar_errors` Method:**
+5. **`write_out_terminations` Method:**
+   - The `write_out_terminations` function is designed to identify and log terminated employees by comparing the original employee data (`region_original`) with the updated data (`region`). 
+   - The differences, specifically the employees who are present in the original dataset but not in the updated one, are extracted. 
+   - These differences, representing terminated employees, are then appended to a CSV file named `<acronym>_Employees_Dropped.csv` in the 'csvs' directory. 
+   - If the CSV file does not exist, a new one is created. The function utilizes the Pandas library for data manipulation and handling DataFrames.
+
+6. **`calendar_errors` Method:**
    - This method handles calendar errors by mapping the proper hire and termination dates based on calendar start or end date issues.
    - It locates employees with "Error" in their calendar start or end dates and identifies their nearest working day in the calendar.
    - It maps these dates and updates the corresponding calendar start or end dates.
