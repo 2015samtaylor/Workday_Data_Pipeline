@@ -1,5 +1,6 @@
 import pandas as pd
 import os
+import numpy as np 
 from modules.calendar_query_module import calendar_query
 import logging
 from datetime import datetime
@@ -96,75 +97,99 @@ class fixing_employee_calendar:
 
 
         return(region, calendar_dict, region_first_day, region_last_day)
-    
 
-    def insert_starts_ends(region, calendar_dict, region_first_day, region_last_day):
+    def initial_mapping_calendar_start_end(region, region_first_day, calendar_dict):
 
-        region_original = region.copy()
+        region['Calendar Start Date'] = region['Original_Hire'].map(calendar_dict).fillna('Error')
+        region.loc[region['Original_Hire'] < region_first_day, 'Calendar Start Date'] = 1
 
-        #These are emps that are dropped, Terminated and not re-hired, Termination occured before the SY
-        fired = region.loc[(region['Term_Date'] > region['Hire_Date']) & (region['Term_Date'] < region_first_day)]
-        # Use the boolean mask to select rows that satisfy the condition and drop them
-        if fired.empty == False:
-            region.drop(region[fired].index, inplace = True)
-        else:
-            pass
-
-
-        #Map the Calendar Start Dates based on the Hire Date. If the Hire Date is prior to the first day of school
-        #default to a value of 1. 
-        region['Calendar Start Date'] = region['Hire_Date'].map(calendar_dict).fillna('Error')
-        region.loc[region['Hire_Date'] < region_first_day, 'Calendar Start Date'] = 1
-
-        #If the Employed is present on the second loop, restore the pd.NaT type and DateTime of the Term Date column
-        region['Term_Date'].replace({'Employed': pd.NaT}, inplace=True)
-        region['Term_Date'] = pd.to_datetime(region['Term_Date'])
-
-
-        #This is for emps that have been fired during the SY, and want to map Calendar End Date on their termination date
-        # Update 'Calendar End Date' in the original DataFrame based on the mapping
-        region.loc[(region['Term_Date'] > region['Hire_Date']), 'Calendar End Date'] = (
-            region.loc[(region['Term_Date'] > region['Hire_Date']), 'Term_Date']
-            .map(calendar_dict)
-        )
-
-        #Locate instance wheres Employees have a termination date
-        terminations = region.loc[~region['Term_Date'].isna()]
-
-        #Locate where termination date was before region first day, and the most recent hire_date came after the region_first_day
-        re_hires = terminations.loc[(terminations['Term_Date'] < terminations['Hire_Date'])]
-        #Amongst the Terminations, worked at any point during the SY
-        re_hires_2 = terminations.loc[(terminations['Hire_Date'] >= region_first_day) & (terminations['Hire_Date'] <= region_last_day)]
-        re_hires = pd.concat([re_hires, re_hires_2])
-
-        #Drop employees with terminations before the SY, & concat the re-hired emps back
-        region.drop(region.loc[region['Term_Date'] < region_first_day].index, inplace = True)
-        region = pd.concat([region, re_hires])
-        region = region.drop_duplicates()
-
-        #This is for one off instances
-        region['Term_Date'].replace({pd.NaT: 'Employed'}, inplace=True)
-        region.loc[region['Term_Date'] == 'Employed', 'Calendar End Date'] = len(calendar_dict)
-
-        #For emps that were re-hired map the Calendar End Date
         region['Calendar End Date'] = region['Term_Date'].map(calendar_dict).fillna('Error')
         region['Calendar End Date'] = region['Calendar End Date'].replace('Error', list(calendar_dict.values())[-1])
 
-        return(region, region_original)
+        return(region)
 
-    def write_out_terminations(region, region_original, acronym):
 
-        file_path = os.getcwd() + f'\\csvs\\{acronym}_Employees_Dropped.csv'
-     
+    #Fix the Calendar Start Dates that have errors
+    def generate_and_apply_dictionary(region, fall_cal, calendar_dict, calendar_start_or_end):
+
+        region_original = region.copy()
+
+        #before any processing ensure that these are the same data types
+        region['Original_Hire'] = pd.to_datetime(region['Original_Hire'])
+        fall_cal['DATE_VALUE'] = pd.to_datetime(fall_cal['DATE_VALUE'])
+
+        #based on arg, select the calendar start or end date
+        if calendar_start_or_end == 'Calendar Start Date':
+            e = region.loc[(region['Calendar Start Date'] == 'Error')]
+        elif calendar_start_or_end == 'Calendar End Date':
+            e = region.loc[(region['Calendar End Date'] == 'Error')]
+        else:
+            print("Wrong column for Calendar Start or End")
+
+        #set the index on date_value to match up the errors
+        fall_cal = fall_cal.set_index('DATE_VALUE')
+
+        #append to the output list utilizing errors to match up on closest calendar day
+        output_list = []
+
+        for index, row in e.iterrows():
+
+            if row[calendar_start_or_end] == 'Error':
+
+                # Locate Original Hire_Date, and Employee ID
+                empid = row['Emp_ID']
+                faulty_date = row['Original_Hire']
+                
+                try:
+                    
+                    idx = fall_cal.index.get_loc(faulty_date, method='nearest')  #get nearest Calendar day based on index of df frame. 
+                    ts = fall_cal.index[idx]
+
+                    output = (empid, ts)    #get emp_id and timestamps, turn into df
+                    output_list.append(output)
+
+                except KeyError:
+
+                    print(empid)
+
+        original_hire_dict = pd.DataFrame(output_list, columns = ['Emp_ID', 'TimeStamp'])
+        original_hire_dict = dict(zip(original_hire_dict['Emp_ID'], original_hire_dict['TimeStamp']))
+
+        #Change the original hire date, and then map the calendar start date if there was an error for it
+        region['Original_Hire'] = region['Emp_ID'].map(original_hire_dict).fillna(region['Original_Hire'])
+        region['Calendar Start Date'] = region['Original_Hire'].map(calendar_dict).fillna(region['Calendar Start Date'])
+
+        # This is for one off instances if they were hired recently, give them the last Calendar Day
+        region['Term_Date'].replace({pd.NaT: 'Employed'}, inplace=True)
+        region.loc[region['Term_Date'] == 'Employed', 'Calendar End Date'] = len(calendar_dict)   
+
+        return(region, region_original, original_hire_dict)
+
+
+
+    def write_out_terminations(region, region_original, acronym, year_str):
+        
         #See what Emps have been dropped, write to a csv
         region_original['Term_Date'] = region_original['Term_Date'].astype(str)
         # Merge the DataFrames using an outer join on all columns
-        differences = pd.merge(region_original, region, on='Emp_ID', how='outer', indicator=True)
+        differences = pd.merge(region_original, region, on='Emp_ID', how='outer', indicator=True, suffixes=('_original', '_new'))
         emps_dropped = differences.loc[differences['_merge'] == 'left_only']
+
+        # Drop unnecessary columns
+        columns_to_drop = emps_dropped.filter(like='new').columns
+        emps_dropped = emps_dropped.drop(columns=columns_to_drop)
+
+        try:
+            emps_dropped = emps_dropped[['School Year', 'Emp_ID', 'Company_original', 'Location_original', 'Worker_original', 'Title_original', 'Original_Hire', 'Hire_Date_original', 'Term_Date_original', 'Calendar Start Date_original', 'Calendar End Date_original', 'LOA Days']]
+            emps_dropped.columns = emps_dropped.columns.str.replace('_original', '')
+        except:
+            pass
+
+        file_path = os.getcwd() + f'\\csvs\\{acronym}_Employees_Dropped_{year_str}.csv'
         
         # Check if the file exists before writing
         if not os.path.exists(file_path):
-                emps_dropped.to_csv(file, index=False)
+                emps_dropped.to_csv(file_path, index=False)
         else:
                 # Read the master frame
                 df_source = pd.read_csv(file_path)
@@ -172,10 +197,10 @@ class fixing_employee_calendar:
                 # Append the new log_results to the original
                 updated = pd.concat([df_source, emps_dropped], ignore_index=True)
 
+                updated = updated.drop_duplicates()
+
                 # Write the updated destination DataFrame back to the CSV file
-                updated.to_csv(f'{acronym}_Employees_Dropped.csv', index=False)
-
-
+                updated.to_csv(file_path, index=False)
 
 
     #Map the proper Hire Date and Term Date, which inherently influences Calendar Start End Dates.
@@ -204,13 +229,14 @@ class fixing_employee_calendar:
             if row[calendar_start_or_end] == 'Error':
 
                 # Locate Hire_Date
-                faulty_date = row['Hire_Date']
+                faulty_date = row['Original_Hire']
             
                 idx = df.index.get_loc(faulty_date, method='nearest')  #get nearest Calendar day based on index of df frame. 
                 ts = df.index[idx]
 
                 output = (empid, ts)    #get emp_id and timestamps, turn into df
                 output_list.append(output)
+
 
 
 
@@ -224,7 +250,7 @@ class fixing_employee_calendar:
             #Now that new Hire Dates are mapped, re-map Calendar Start Dates
             region['Calendar Start Date'] = region['Hire_Date'].map(calendar_dict).fillna(region['Calendar Start Date'])
 
-        elif calendar_start_or_end == 'Calendar End Date':
+        elif calendarf_start_or_end == 'Calendar End Date':
             region['Term_Date'] = region['Emp_ID'].map(outliers_zip).fillna(region['Term_Date'])
             #Now that new Term Dates are mapped, re-map Calendar End Dates
             region['Calendar End Date'] = region['Term_Date'].map(calendar_dict).fillna(region['Calendar End Date'])
@@ -243,3 +269,68 @@ class fixing_employee_calendar:
 
         return(region)
 
+
+    def locate_rehires(frame, region_first_day, region_last_day):
+
+        #Term_Date needs to be datetime, then fill the pd.NaT types back to 'Employed
+        frame['Term_Date'] = pd.to_datetime(frame['Term_Date'], errors='coerce')
+
+        # 1. Original_Hire before Hire_Date and Term_Date. 
+        step_1 = frame.loc[(frame['Original_Hire'] < frame['Hire_Date']) & (frame['Original_Hire'] < frame['Term_Date'])]
+
+        # 2. Hire_Date most recent occurence. 
+        step_2 = step_1.loc[step_1['Hire_Date'] > step_1['Original_Hire']]
+
+        # 3. Hire_Date most recent occurence. 
+        step_3 = step_2.loc[step_2['Hire_Date'] > step_2['Original_Hire']]
+
+        #4.The Hire Date has to have taken place within the SY. 
+        step_4 = step_3.loc[(step_3['Hire_Date'] > region_first_day) & (step_3['Hire_Date'] < region_last_day)]
+
+        return(step_4)
+
+    #Fix the Calendar Start Dates for re-hires
+    def fix_rehire_calendar_dates(region, fall_cal, calendar_dict, WB):
+
+        #before any processing ensure that these are the same data types
+        region['Hire_Date'] = pd.to_datetime(region['Hire_Date'])
+        fall_cal['DATE_VALUE'] = pd.to_datetime(fall_cal['DATE_VALUE'])
+
+        #set the index on date_value to match up the errors
+        fall_cal = fall_cal.set_index('DATE_VALUE')
+
+        #append to the output list utilizing errors to match up on closest calendar day
+        output_list = []
+
+        for index, row in region.iterrows():
+
+            # Locate Original Hire_Date, and Employee ID
+            empid = row['Emp_ID']
+            faulty_date = row['Hire_Date']
+            
+            try:
+                
+                idx = fall_cal.index.get_loc(faulty_date, method='nearest')  #get nearest Calendar day based on index of df frame. 
+                ts = fall_cal.index[idx]
+
+                output = (empid, ts)    #get emp_id and timestamps, turn into df
+                output_list.append(output)
+
+            except KeyError:
+
+                print(empid)
+
+        rehire_dict = pd.DataFrame(output_list, columns = ['Emp_ID', 'TimeStamp'])
+        rehire_dict = dict(zip(rehire_dict['Emp_ID'], rehire_dict['TimeStamp']))
+
+        # #Change the original hire date if not on the calendar, and then remap Calendar Start Date
+        region['Hire_Date'] = region['Emp_ID'].map(rehire_dict).fillna(region['Hire_Date'])
+        region['Calendar Start Date'] = region['Hire_Date'].map(calendar_dict).fillna(region['Calendar Start Date'])
+        
+        #Lastly have Calendar End Date, span out until the End
+        region['Calendar End Date'] = len(calendar_dict)   
+
+        #Update this with the master frame
+        WB.update(region)
+
+        return(WB)

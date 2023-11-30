@@ -103,13 +103,16 @@ class leave_of_absence:
         return(LOA_)
 
 
-    def create_total_leave_days(LOA_SY, region, sql_frame):
+    def create_total_leave_days(LOA_SY, region, fall_cal):
 
-        sql_frame['DATE_VALUE'] = pd.to_datetime(sql_frame['DATE_VALUE'])
+        region_original = region.copy()
+
+        fall_cal['DATE_VALUE'] = pd.to_datetime(fall_cal['DATE_VALUE'])
         region['Hire_Date'] = pd.to_datetime(region['Hire_Date'])
+        region['Original_Hire'] = pd.to_datetime(region['Original_Hire'])
 
-        fall_year = sql_frame.iloc[0]['DATE_VALUE'].year
-        spring_year = sql_frame.iloc[-1]['DATE_VALUE'].year
+        fall_year = fall_cal.iloc[0]['DATE_VALUE'].year
+        spring_year = fall_cal.iloc[-1]['DATE_VALUE'].year
 
         #Group Total Leave Days by Employee ID and map it over to the region frame
         LOA_SY['Total Leave Days'] = LOA_SY['Calendar End Date'] - LOA_SY['Calendar Start Date'] + 1
@@ -117,14 +120,12 @@ class leave_of_absence:
 
         region['LOA Days'] = region['Emp_ID'].map(total_total).fillna(0)
         region['School Year'] = str(fall_year) + '-' + str(spring_year)
-        region = region[['School Year', 'Emp_ID', 'Company', 'Location', 'Worker', 'Title' ,'Hire_Date', 'Term_Date', 'Calendar Start Date', 'Calendar End Date', 'LOA Days']]
+        region = region[['School Year', 'Emp_ID', 'Company', 'Location', 'Worker', 'Title' , 'Original_Hire', 'Hire_Date',  'Term_Date', 'Calendar Start Date', 'Calendar End Date', 'LOA Days']]
 
         #Only retain employees that were hired before the last day of the SY
-        region = region.loc[region['Hire_Date'] < sql_frame.iloc[-1]['DATE_VALUE']]
+        region = region.loc[region['Original_Hire'] < fall_cal.iloc[-1]['DATE_VALUE']]
 
-        return(region)
-
-
+        return(region, region_original)
 
     # # ----------------------------------loop through employees LOA, and WTO,identify where WTO was taken during LOA's and remove---
     # LOA frame will change with each script

@@ -40,7 +40,9 @@ class worker_time_off:
     
 
     def final_wbs_modifications(WB):
-        
+        #if emp hired today
+        WB = WB.loc[WB['Calendar Start Date'] != 'Error']
+
         WB['Calendar Start Date'] = WB['Calendar Start Date'].astype(float)
         WB['Calendar End Date'] = WB['Calendar End Date'].astype(float)
         WB['Total Membership'] = (WB['Calendar End Date'] - WB['Calendar Start Date']) + 1
