@@ -40,12 +40,13 @@ class transformation:
 
         i = 0
         while i < total_emps:
+
             emp_id = LOA[i]['wd:Worker_group']['wd:Emp_ID']
-            company = LOA[i]['wd:Worker_group']['wd:Company']['@wd:Descriptor']
+            company = LOA[i]['wd:Worker_group']['wd:Company']['wd:Instance']['#text']
             hire_date = LOA[i]['wd:Worker_group']['wd:Hire_Date']
-            location = LOA[i]['wd:Worker_group']['wd:location']['@wd:Descriptor']
-            manager = LOA[i]['wd:Worker_group']['wd:Manager']['@wd:Descriptor']
-            emp_name = LOA[i]['wd:Worker']['@wd:Descriptor']
+            location = LOA[i]['wd:Worker_group']['wd:location']['wd:Instance']['#text']
+            manager = LOA[i]['wd:Worker_group']['wd:Manager']['wd:Instance']['#text']
+            emp_name = LOA[i]['wd:Worker']['wd:Instance']['#text']
             first_day = LOA[i]['wd:First_Day']
             est_last_day = LOA[i]['wd:Estimated_Last_Day']
             
@@ -62,10 +63,9 @@ class transformation:
             except KeyError:
                 act_last_day = ''
                 
-
             total_days = LOA[i]['wd:Total_Days']
             units_requested = LOA[i]['wd:Units_Requested']
-            unit_of_time = LOA[i]['wd:Unit_of_Time']['@wd:Descriptor']
+            unit_of_time = LOA[i]['wd:Unit_of_Time']['wd:Instance']['#text']
             business_title = LOA[i]['wd:Worker_group']['wd:businessTitle']
 
             instance = [emp_id, emp_name, company, last_day, first_day, est_last_day, act_last_day, total_days, units_requested, unit_of_time, hire_date, location, manager, business_title ]
@@ -173,4 +173,18 @@ class transformation:
             date_list.append(output)
 
         frame[col_name] = date_list
+
+    def clear_up_initial_terminations(All_, region_first_day):
+
+        initial = All_.loc[(All_['Term_Date'] > All_['Hire_Date']) & 
+                        (All_['Term_Date'] > All_['Original_Hire'])&
+                        (All_['Term_Date'] < region_first_day)]
+
+        # Get the indexes from the 'initial' DataFrame
+        indexes_to_drop = initial.index
+
+        # Use drop to remove rows from the original DataFrame
+        filtered_All_ = All_.drop(index=indexes_to_drop)
+
+        return(filtered_All_)
     

@@ -52,7 +52,8 @@ def read_in_and_format_xml():
     transformation.singular_date_format(All_, 'Term_Date')
     transformation.singular_date_format(All_, 'Hire_Date')
 
-    #  All_ = transformation.clear_up_initial_terminations(All_)
+    All_ = transformation.clear_up_initial_terminations(All_)
+
 
     return(All_, LOA_, WTO_)
 
@@ -103,19 +104,14 @@ def process(acronym, WTO_, LOA_, All_, fall_cal, year_str):
 
     # # #get specific calendar dict, region, first_day, and last_day of a fall calendar year
     # This is restarted at every iteration of the for loop because it stems from the All_ frame, and is filtered with fall_cal
-    calendar_dict, region_first_day, region_last_day = fixing_employee_calendar.get_specifics(fall_cal)
-
-    #Testing to drop emps that have terminations prior to the start of the SY & are not re-hired
-    region = transformation.clear_up_initial_terminations(All_, region_first_day)
-    
+    region, calendar_dict, region_first_day, region_last_day = fixing_employee_calendar.get_specifics(fall_cal, All_)
 
     #Create initial mapping baseline for Calendar Start & End Dates
     region = fixing_employee_calendar.initial_mapping_calendar_start_end(region, region_first_day, calendar_dict)
- 
 
     #region_original, & original_hire_dict returned here for tranparency in testing
     region, region_original, original_hire_dict = fixing_employee_calendar.generate_and_apply_dictionary(region, fall_cal, calendar_dict, 'Calendar Start Date')
-  
+    
 
     #map correct first and last day, figure out LOA's that are ongoing and have yet to come and correct calendar dates
     LOA_SY = leave_of_absence.map_LOA_first_last(LOA_, calendar_dict, region_first_day, region_last_day)
@@ -123,11 +119,10 @@ def process(acronym, WTO_, LOA_, All_, fall_cal, year_str):
     #create the WB that has LOA days for given year with Calendar Start & End Date
     #This is also where EMPS are dropped based on their Original Hire Date
     WB, region_original = leave_of_absence.create_total_leave_days(LOA_SY, region, fall_cal)
-  
 
     # Opportunity to catch any emps that have been dropped from the region frame
     fixing_employee_calendar.write_out_terminations(WB, region_original, acronym, year_str)
-  
+
     #create an output that tells whether WTO was during LOA
     output, WTO_SY = leave_of_absence.check(LOA_SY, fall_cal, WTO_, region_first_day, region_last_day)
 
@@ -141,40 +136,76 @@ def process(acronym, WTO_, LOA_, All_, fall_cal, year_str):
 
     #Change the Calendar Dates for rehires, and map back to the WB
     WB = fixing_employee_calendar.fix_rehire_calendar_dates(rehires, fall_cal, calendar_dict, WB)
-    WB = fixing_employee_calendar.fix_dates_out_of_calendar(fall_cal, calendar_dict, WB, region_first_day, region_last_day, 'Term_Date')
+    # WB, new_dict = fixing_employee_calendar.fix_dates_out_of_calendar(WB, fall_cal, calendar_dict, WB, 'Term_Date')
     
     WB = worker_time_off.final_wbs_modifications(WB)   
     WB = worker_time_off.mapping(acronym, WB)
     
-    return(WB)
+    return(WB, fall_cal, calendar_dict, region_last_day, region_first_day)
  
+
+
 # If fall_prior, and spring_prior are present it subs in for fall & spring variables. If nothing is there they assume None value and the spring fall func makes it up to this SY date
 # Keep in mind these need to exist no matter what for the loop to calc prior years attendance
 fall_cal_2023, year_str_2023 = sql_calls('CA')
-fall_cal_2022, year_str_2022 = sql_calls('CA', 2022, 2023)
-fall_cal_2021, year_str_2021 = sql_calls('CA', 2021, 2022)     
+# fall_cal_2022, year_str_2022 = sql_calls('CA', 2022, 2023)
+# fall_cal_2021, year_str_2021 = sql_calls('CA', 2021, 2022)     
 
-CA_2023 = process('CA', WTO_, LOA_, All_, fall_cal_2023, year_str_2023)
-CA_2022 = process('CA', WTO_, LOA_, All_, fall_cal_2022, year_str_2022)
-CA_2021 = process('CA', WTO_, LOA_, All_, fall_cal_2021, year_str_2021)
+WB, fall_cal, calendar_dict, region_last_day, region_first_day= process('CA', WTO_, LOA_, All_, fall_cal_2023, year_str_2023)
 
-fall_cal_2023, year_str_2023 = sql_calls('TN')
-fall_cal_2022, year_str_2022 = sql_calls('TN', 2022, 2023)
-fall_cal_2021, year_str_2021 = sql_calls('TN', 2021, 2022) 
 
-TN_2023 = process('TN', WTO_, LOA_, All_, fall_cal_2023, year_str_2023)
-TN_2022 = process('TN', WTO_, LOA_, All_, fall_cal_2022, year_str_2022)
-TN_2021 = process('TN', WTO_, LOA_, All_, fall_cal_2021, year_str_2021)
 
-fall_cal_2023, year_str_2023 = sql_calls('TX')
-fall_cal_2022, year_str_2022 = sql_calls('TX', 2022, 2023)
-fall_cal_2021, year_str_2021 = sql_calls('TX', 2021, 2022) 
 
-TX_2023 = process('TX', WTO_, LOA_, All_, fall_cal_2023, year_str_2023)
-TX_2022 = process('TX', WTO_, LOA_, All_, fall_cal_2022, year_str_2022)
-TX_2021 = process('TX', WTO_, LOA_, All_, fall_cal_2021, year_str_2021)
 
-final = pd.concat([CA_2023, CA_2022, CA_2021, TN_2023, TN_2022, TN_2021, TX_2023, TX_2022, TX_2021]).reset_index(drop =True).sort_values(by = 'School Year')
+def fix_dates_out_of_calendar(region, fall_cal, calendar_dict, what_col_fix):
 
-# # # # This portion takes about 4-5 mins on the send
-# sending_sql.send_sql(final)
+        #before any processing ensure that these are the same data types
+        region[what_col_fix] = pd.to_datetime(region[what_col_fix])
+        fall_cal['DATE_VALUE'] = pd.to_datetime(fall_cal['DATE_VALUE'])
+
+        #set the index on date_value to match up the errors
+        fall_cal = fall_cal.set_index('DATE_VALUE')
+
+        #append to the output list utilizing errors to match up on closest calendar day
+        output_list = []
+
+        for index, row in region.iterrows():
+
+            # Locate Original Hire_Date, and Employee ID
+            empid = row['Emp_ID']
+            faulty_date = row[what_col_fix]
+            
+            try:
+                
+                idx = fall_cal.index.get_loc(faulty_date, method='nearest')  #get nearest Calendar day based on index of df frame. 
+                ts = fall_cal.index[idx]
+
+                output = (empid, ts)    #get emp_id and timestamps, turn into df
+                output_list.append(output)
+
+            except KeyError:
+
+                print(empid)
+
+        new_dict = pd.DataFrame(output_list, columns = ['Emp_ID', 'TimeStamp'])
+        new_dict = dict(zip(new_dict['Emp_ID'], new_dict['TimeStamp']))
+
+        # #Change the original hire date if not on the calendar, and then remap Calendar Start Date
+        region[what_col_fix] = region['Emp_ID'].map(new_dict).fillna(region[what_col_fix])
+
+        if what_col_fix == 'Term_Date':
+            region['Calendar End Date'] = region[what_col_fix].map(new_dict).fillna(region['Calendar End Date'])
+
+        elif what_col_fix == 'Hire_Date':
+            region['Calendar Start Date'] = region[what_col_fix].map(new_dict).fillna(region['Calendar Start Date'])
+            #Lastly have Calendar End Date, span out until the End
+            region['Calendar End Date'] = len(new_dict)   
+        else:
+            print('Wrong column for arg what_col_fix')
+        
+        #Update this with the master frame
+        # WB.update(region)
+        return(WB)
+
+
+fix_dates_out_of_calendar(WB, fall_cal, calendar_dict, 'Term_Date')

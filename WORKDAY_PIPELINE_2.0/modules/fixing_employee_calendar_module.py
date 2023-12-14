@@ -77,13 +77,9 @@ class fixing_employee_calendar:
 
 
 
-    def get_specifics(sql_calendar, complete_frame):
+    def get_specifics(sql_calendar):
 
         spring, fall = calendar_query.date_filter()
-
-        #This is here to simply declare the All_ as region variable
-        region = complete_frame
-
         #When querying for Last Day of School, it always diverts to the last day of the SQL calendar. 
         #Unless the spring year is greater than or equal to the year of the last day of School. 
         #In that case, use datetime today, and get the closest day. 
@@ -96,7 +92,7 @@ class fixing_employee_calendar:
             logging.info(f'First day of {fall.year}-{fall.year+1} School Year has not begun \n-----------------------')
 
 
-        return(region, calendar_dict, region_first_day, region_last_day)
+        return(calendar_dict, region_first_day, region_last_day)
 
     def initial_mapping_calendar_start_end(region, region_first_day, calendar_dict):
 
@@ -250,7 +246,7 @@ class fixing_employee_calendar:
             #Now that new Hire Dates are mapped, re-map Calendar Start Dates
             region['Calendar Start Date'] = region['Hire_Date'].map(calendar_dict).fillna(region['Calendar Start Date'])
 
-        elif calendarf_start_or_end == 'Calendar End Date':
+        elif calendar_start_or_end == 'Calendar End Date':
             region['Term_Date'] = region['Emp_ID'].map(outliers_zip).fillna(region['Term_Date'])
             #Now that new Term Dates are mapped, re-map Calendar End Dates
             region['Calendar End Date'] = region['Term_Date'].map(calendar_dict).fillna(region['Calendar End Date'])
@@ -333,4 +329,61 @@ class fixing_employee_calendar:
         #Update this with the master frame
         WB.update(region)
 
+        return(WB)
+
+# This is a simplifed version of fix_rehire_calendar_dates, where the column to create the dictionary is determined as an arg
+#Fix the Calendar End Date for Terminations during the SY. 
+# Part of the difference here from one above is the WB subset takes place in the first two lines rather than passed in as region
+    def fix_dates_out_of_calendar(fall_cal, calendar_dict, WB, region_first_day, region_last_day, what_col_fix):
+        
+        #Use the master WB to identify instances where Emps have a Term_Date greater than Hire Dates and during the SY
+        region = WB.loc[(WB['Term_Date'] > region_first_day) & (WB['Term_Date'] < region_last_day)]
+        region = region.loc[(region['Term_Date'] > region['Hire_Date']) & (region['Term_Date'] > region['Original_Hire'])]
+
+        #before any processing ensure that these are the same data types
+        region[what_col_fix] = pd.to_datetime(region[what_col_fix])
+        fall_cal['DATE_VALUE'] = pd.to_datetime(fall_cal['DATE_VALUE'])
+
+        #set the index on date_value to match up the errors
+        fall_cal = fall_cal.set_index('DATE_VALUE')
+
+        #append to the output list utilizing errors to match up on closest calendar day
+        output_list = []
+
+        for index, row in region.iterrows():
+
+            # Locate Original Hire_Date, and Employee ID
+            empid = row['Emp_ID']
+            faulty_date = row[what_col_fix]
+            
+            try:
+                
+                idx = fall_cal.index.get_loc(faulty_date, method='nearest')  #get nearest Calendar day based on index of df frame. 
+                ts = fall_cal.index[idx]
+
+                output = (empid, ts)    #get emp_id and timestamps, turn into df
+                output_list.append(output)
+
+            except KeyError:
+
+                print(empid)
+
+        new_dict = pd.DataFrame(output_list, columns = ['Emp_ID', 'TimeStamp'])
+        new_dict = dict(zip(new_dict['Emp_ID'], new_dict['TimeStamp']))
+
+        # #Change the original hire date or term_date based on arg if not on the calendar, and then remap Calendar Start Date
+        region[what_col_fix] = region['Emp_ID'].map(new_dict).fillna(region[what_col_fix])
+
+        if what_col_fix == 'Term_Date':
+            region['Calendar End Date'] = region[what_col_fix].map(calendar_dict).fillna(region['Calendar End Date'])
+
+        elif what_col_fix == 'Hire_Date':
+            region['Calendar Start Date'] = region[what_col_fix].map(calendar_dict).fillna(region['Calendar Start Date'])
+            #Lastly have Calendar End Date, span out until the End
+            region['Calendar End Date'] = len(calendar_dict)   
+        else:
+            print('Wrong column for arg what_col_fix')
+
+        #Update this with the master frame
+        WB.update(region)
         return(WB)
