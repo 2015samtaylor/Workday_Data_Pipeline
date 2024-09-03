@@ -1,35 +1,82 @@
 import pandas as pd
+import os
+# from modules.fixing_employee_calendar_module import fixing_employee_calendar
+from modules.leave_of_absence_module import leave_of_absence
+from modules.worker_time_off_module import worker_time_off
 
 # -----------------------------------transform XML documents to Pandas DataFrames-----------------------------------
 
+# def flatten_dict(d, parent_key='', sep='_'):
+#     flattened = {}
+#     for k, v in d.items():
+#         # Create new key with parent key
+#         new_key = f"{parent_key}{sep}{k}" if parent_key else k
+        
+#         if isinstance(v, dict):
+#             # If the value is a dictionary, check if it has a '#text' key
+#             if '#text' in v:
+#                 flattened[new_key] = v['#text']
+#             else:
+#                 # Otherwise, recursively flatten the nested dictionary
+#                 flattened.update(flatten_dict(v, new_key, sep))
+#         else:
+#             flattened[new_key] = v
+
+#     # Simplify the keys by removing specific suffixes
+#     simplified_flattened = {}
+#     for k, v in flattened.items():
+#         # Remove suffixes like '_wd:Instance' from the keys
+#         if '_wd:Instance' in k:
+#             new_key = k.split('_wd:Instance')[0]
+#         else:
+#             new_key = k
+#         simplified_flattened[new_key] = v
+    
+#     return(simplified_flattened)
+
+
+
 
 class transformation:
-    
-    def transform(doc):
-        output = []
-        i = 0
-        while i < len(doc):
-            doc_sub = pd.DataFrame(doc[i])
-            doc_sub.reset_index(inplace = True)
-            doc_sub = doc_sub.drop(1)
-            doc_sub.drop(columns = ['index'], inplace = True)
-            output.append(doc_sub)
-            i += 1
-    
+
+    def extract_fields(item):
+        def extract_value(field, subfield=None):
+            """ Helper function to extract values from potentially nested dictionaries. """
+            value = item.get(field)
+            if isinstance(value, dict):
+                if subfield and isinstance(value.get(subfield), dict):
+                    return value.get(subfield).get('#text')
+                return value.get('@wd:Descriptor', value.get('#text'))
+            return value
         
-        final = pd.concat(output)
-         
-        #remove 'WD' from columns    
-        cols_list = list(final.columns)
-
-        new_col_list = []
-        for cols in cols_list:
-            new_col_list.append(cols[3:])
-
-        final.columns = new_col_list
-
-        return(final)
+        return {
+            'Report_Effective_Date': item.get('wd:Report_Date'),
+            'Worker_Status': item.get('wd:Status'),
+            'Emp_ID': item.get('wd:Emp_ID'),
+            'Worker': extract_value('wd:Worker', 'wd:Instance'),
+            'Last_Name': item.get('wd:Last_Name'),
+            'First_Name': item.get('wd:First_Name'),
+            'Company': item.get('wd:Company'),
+            'Location': extract_value('wd:Location', 'wd:Instance'),
+            'Business_Title': item.get('wd:Title'),
+            'Employee_Type': extract_value('wd:Worker_Type', 'wd:Instance'),
+            'Time_Type': extract_value('wd:Time_Type', 'wd:Instance'),
+            'Hire_Date': item.get('wd:Hire_Date'),
+            'Term_Date': item.get('wd:Term_Date'),
+            'Original_Hire': item.get('wd:Original_Hire')
+        }
     
+    def get_All(All):
+        # Apply the function to extract the fields from each dictionary
+        flattened_data = [transformation.extract_fields(item) for item in All]
+
+        # Convert the list of dictionaries into a DataFrame
+        df = pd.DataFrame(flattened_data)
+
+        return(df)
+    
+      
+            
 # ----------------------------------------------------iterate through JSON file, and send to Pandas Dataframe------------
     
     def get_LOA(LOA):
@@ -85,7 +132,7 @@ class transformation:
         i = 0
         while i < total_emps:
             one_emp = WTO[i]['wd:Time_Off_Completed_Details_group']
-            emp_id = WTO[i]['wd:Worker']['wd:ID'][1]['#text']
+            emp_id = WTO[i]['wd:Employee_ID']
             worker_status = WTO[i]['wd:Worker_Status']
             emp_name = WTO[i]['wd:Worker']['@wd:Descriptor']
             hire_date = WTO[i]['wd:Hire_Date']
@@ -131,7 +178,8 @@ class transformation:
         return(final)
 
     def modify_all(All):
-        All_ = transformation.transform(All)
+        All_ = transformation.get_All(All)
+        # All_ = All_.rename(columns={'termination_date': 'Term_Date', 'Original_Hire_Date': 'Original_Hire', 'Employee_ID': 'Emp_ID'}) #YoY raw doc column change
         All_['Term_Date'] = All_['Term_Date'].str[0:10]
         All_['Hire_Date'] = All_['Hire_Date'].str[0:10]
         All_['Original_Hire'] = pd.to_datetime(All_['Original_Hire'])

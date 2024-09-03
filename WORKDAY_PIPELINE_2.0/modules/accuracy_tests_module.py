@@ -83,3 +83,7 @@ class accuracy_tests:
         # accuracy_tests.accuracy_check_LOA('CA', id_num, '2023-08-14', '2023-10-20', 0)
         # accuracy_tests.accuracy_check_LOA('CA', id_num, '2022-08-15', '2023-06-16', 1)
         # accuracy_tests.accuracy_check_LOA('CA', id_num, '2021-08-11', '2022-06-10', 2)
+
+
+# final.groupby(['Company', 'School Year'])['Worker'].nunique()
+#Final iteration

@@ -54,41 +54,26 @@ class worker_time_off:
         return(WB)
     
 
-    def mapping(region_acronym, WB):
+    def mapping(WB):
 
-        if region_acronym == 'CA':
-
-            region_mapping = {'Animo Venice Charter High School':'Venice',
-                            'Animo Inglewood Charter High School':'Inglewood',
-                            'Animo James B. Taylor Charter Middle School':'Animo James Taylor',
-                            'Animo Ellen Ochoa Charter Middle School':'Animo Ellen Ochoa',
-                            'Animo Legacy Charter Middle School':'Legacy',
-                            'Animo Mae Jemison Charter Middle School':'Mae Jemison',
-                            'Animo Jefferson Charter Middle School':'Jefferson',
-                            'Animo Watts College Preparatory Academy':'Watts',
-                            'Animo Ralph Bunche Charter High School':'Ralph Bunche',
-                            'Animo Leadership Charter High School':'Leadership',
-                            'Animo Compton Charter School':'Compton',
-                            'Animo South Los Angeles Charter High School':'South LA',
-                            'Oscar De La Hoya Animo Charter High School':'Oscar de la Hoya',
-                            'Animo Jackie Robinson Charter High School':'Jackie Robinson',
-                            'Alain Leroy Locke College Preparatory Academy':'Locke Academy',
-                            'Animo Florence-Firestone Middle School':'Florence',
-                            'Animo Pat Brown Charter High School':'Pat Brown',
-                            'Animo City of Champions High School':'Champions'}
-        
-        elif region_acronym == 'TN':
-
-            region_mapping = {'Wooddale Middle School':'Wooddale',
-                        'Fairley High School':'Fairley',
-                        'Bluff City High School':'Bluff City',
-                        'Hillcrest High School':'Hillcrest',
-                        'Kirby Middle School':'Kirby'}
-            
-        elif region_acronym == 'TX':
-
-            region_mapping = {'M.L. King Middle School':'King Middle School'}
-
+        region_mapping = {'Animo Venice Charter High School':'Venice',
+                        'Animo Inglewood Charter High School':'Inglewood',
+                        'Animo James B. Taylor Charter Middle School':'Animo James Taylor',
+                        'Animo Ellen Ochoa Charter Middle School':'Animo Ellen Ochoa',
+                        'Animo Legacy Charter Middle School':'Legacy',
+                        'Animo Mae Jemison Charter Middle School':'Mae Jemison',
+                        'Animo Jefferson Charter Middle School':'Jefferson',
+                        'Animo Watts College Preparatory Academy':'Watts',
+                        'Animo Ralph Bunche Charter High School':'Ralph Bunche',
+                        'Animo Leadership Charter High School':'Leadership',
+                        'Animo Compton Charter School':'Compton',
+                        'Animo South Los Angeles Charter High School':'South LA',
+                        'Oscar De La Hoya Animo Charter High School':'Oscar de la Hoya',
+                        'Animo Jackie Robinson Charter High School':'Jackie Robinson',
+                        'Alain Leroy Locke College Preparatory Academy':'Locke Academy',
+                        'Animo Florence-Firestone Middle School':'Florence',
+                        'Animo Pat Brown Charter High School':'Pat Brown',
+                        'Animo City of Champions High School':'Champions'}
 
         WB['Location'] = WB['Location'].map(region_mapping)
 

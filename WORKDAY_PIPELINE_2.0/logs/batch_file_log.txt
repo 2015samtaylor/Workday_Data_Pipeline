@@ -16,3 +16,403 @@ Old Calendar
 2022-08-08 00:00:00 2023-05-26 00:00:00
 Old Calendar
 2021-08-16 00:00:00 2022-06-03 00:00:00
+In the current SY = Calendar End Date = 2023-12-15 00:00:00
+Old Calendar
+Old Calendar
+In the current SY = Calendar End Date = 2023-12-18 00:00:00
+Old Calendar
+Old Calendar
+In the current SY = Calendar End Date = 2023-12-18 00:00:00
+Old Calendar
+Old Calendar
+In the current SY = Calendar End Date = 2023-12-15 00:00:00
+Old Calendar
+Old Calendar
+In the current SY = Calendar End Date = 2023-12-21 00:00:00
+Old Calendar
+Old Calendar
+In the current SY = Calendar End Date = 2023-12-20 00:00:00
+Old Calendar
+Old Calendar
+In the current SY = Calendar End Date = 2024-01-08 00:00:00
+Old Calendar
+Old Calendar
+In the current SY = Calendar End Date = 2024-01-04 00:00:00
+Old Calendar
+Old Calendar
+In the current SY = Calendar End Date = 2024-01-09 00:00:00
+Old Calendar
+Old Calendar
+In the current SY = Calendar End Date = 2024-01-08 00:00:00
+Old Calendar
+Old Calendar
+In the current SY = Calendar End Date = 2024-01-08 00:00:00
+Old Calendar
+Old Calendar
+In the current SY = Calendar End Date = 2024-01-09 00:00:00
+Old Calendar
+Old Calendar
+In the current SY = Calendar End Date = 2024-01-16 00:00:00
+Old Calendar
+Old Calendar
+In the current SY = Calendar End Date = 2024-01-16 00:00:00
+Old Calendar
+Old Calendar
+In the current SY = Calendar End Date = 2024-01-16 00:00:00
+Old Calendar
+Old Calendar
+In the current SY = Calendar End Date = 2024-01-22 00:00:00
+Old Calendar
+Old Calendar
+In the current SY = Calendar End Date = 2024-01-22 00:00:00
+Old Calendar
+Old Calendar
+In the current SY = Calendar End Date = 2024-01-22 00:00:00
+Old Calendar
+Old Calendar
+Traceback (most recent call last):
+  File "C:\Python311\Lib\site-packages\urllib3\connection.py", line 174, in _new_conn
+    conn = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python311\Lib\site-packages\urllib3\util\connection.py", line 72, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python311\Lib\socket.py", line 961, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Python311\Lib\site-packages\urllib3\connectionpool.py", line 703, in urlopen
+    httplib_response = self._make_request(
+                       ^^^^^^^^^^^^^^^^^^^
+  File "C:\Python311\Lib\site-packages\urllib3\connectionpool.py", line 386, in _make_request
+    self._validate_conn(conn)
+  File "C:\Python311\Lib\site-packages\urllib3\connectionpool.py", line 1042, in _validate_conn
+    conn.connect()
+  File "C:\Python311\Lib\site-packages\urllib3\connection.py", line 358, in connect
+    self.sock = conn = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File "C:\Python311\Lib\site-packages\urllib3\connection.py", line 186, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPSConnection object at 0x000001CA806FD050>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Python311\Lib\site-packages\requests\adapters.py", line 489, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Python311\Lib\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Python311\Lib\site-packages\urllib3\util\retry.py", line 592, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='services1.myworkday.com', port=443): Max retries exceeded with url: /ccx/service/customreport/greendot/ashley.ngeth/GDPS_LOA_-_Workers_on_Leave_-_KM_Data__Scheduled_?Organizations-id=2501%242!2501%247!2501%243&Include_Workers_Returned_from_Leave=1&Include_Pending_Events=0&Start_Date=2020-08-01-07%3A00&Include_Subordinate_Organizations=1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001CA806FD050>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\samuel.taylor\Desktop\Python_Scripts\Workday\WORKDAY_PIPELINE_2.0\main.py", line 60, in <module>
+    All_, LOA_, WTO_ = read_in_and_format_xml()
+                       ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\samuel.taylor\Desktop\Python_Scripts\Workday\WORKDAY_PIPELINE_2.0\main.py", line 42, in read_in_and_format_xml
+    LOA = WD.get_report(LOA)
+          ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\samuel.taylor\Desktop\Python_Scripts\Workday\WORKDAY_PIPELINE_2.0\modules\data_request_module.py", line 22, in get_report
+    auth = session.post(link)
+           ^^^^^^^^^^^^^^^^^^
+  File "C:\Python311\Lib\site-packages\requests\sessions.py", line 635, in post
+    return self.request("POST", url, data=data, json=json, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python311\Lib\site-packages\requests\sessions.py", line 587, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python311\Lib\site-packages\requests\sessions.py", line 701, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Python311\Lib\site-packages\requests\adapters.py", line 565, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='services1.myworkday.com', port=443): Max retries exceeded with url: /ccx/service/customreport/greendot/ashley.ngeth/GDPS_LOA_-_Workers_on_Leave_-_KM_Data__Scheduled_?Organizations-id=2501%242!2501%247!2501%243&Include_Workers_Returned_from_Leave=1&Include_Pending_Events=0&Start_Date=2020-08-01-07%3A00&Include_Subordinate_Organizations=1 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001CA806FD050>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+In the current SY = Calendar End Date = 2024-02-05 00:00:00
+Old Calendar
+Old Calendar
+In the current SY = Calendar End Date = 2024-02-05 00:00:00
+Old Calendar
+Old Calendar
+In the current SY = Calendar End Date = 2024-02-05 00:00:00
+Old Calendar
+Old Calendar
+In the current SY = Calendar End Date = 2024-02-12 00:00:00
+Old Calendar
+Old Calendar
+In the current SY = Calendar End Date = 2024-02-12 00:00:00
+Old Calendar
+Old Calendar
+In the current SY = Calendar End Date = 2024-02-12 00:00:00
+Old Calendar
+Old Calendar
+In the current SY = Calendar End Date = 2024-02-20 00:00:00
+Old Calendar
+Old Calendar
+In the current SY = Calendar End Date = 2024-02-20 00:00:00
+Old Calendar
+Old Calendar
+In the current SY = Calendar End Date = 2024-02-21 00:00:00
+Old Calendar
+Old Calendar
+In the current SY = Calendar End Date = 2024-02-26 00:00:00
+Old Calendar
+Old Calendar
+In the current SY = Calendar End Date = 2024-02-26 00:00:00
+Old Calendar
+Old Calendar
+In the current SY = Calendar End Date = 2024-02-26 00:00:00
+Old Calendar
+Old Calendar
+In the current SY = Calendar End Date = 2024-03-04 00:00:00
+Old Calendar
+Old Calendar
+In the current SY = Calendar End Date = 2024-03-04 00:00:00
+Old Calendar
+Old Calendar
+In the current SY = Calendar End Date = 2024-03-04 00:00:00
+Old Calendar
+Old Calendar
+In the current SY = Calendar End Date = 2024-03-11 00:00:00
+Old Calendar
+Old Calendar
+In the current SY = Calendar End Date = 2024-03-08 00:00:00
+Old Calendar
+Old Calendar
+In the current SY = Calendar End Date = 2024-03-07 00:00:00
+Old Calendar
+Old Calendar
+In the current SY = Calendar End Date = 2024-03-18 00:00:00
+Old Calendar
+Old Calendar
+In the current SY = Calendar End Date = 2024-03-18 00:00:00
+Old Calendar
+Old Calendar
+In the current SY = Calendar End Date = 2024-03-18 00:00:00
+Old Calendar
+Old Calendar
+In the current SY = Calendar End Date = 2024-03-22 00:00:00
+Old Calendar
+Old Calendar
+In the current SY = Calendar End Date = 2024-03-25 00:00:00
+Old Calendar
+Old Calendar
+In the current SY = Calendar End Date = 2024-03-25 00:00:00
+Old Calendar
+Old Calendar
+In the current SY = Calendar End Date = 2024-04-08 00:00:00
+Old Calendar
+Old Calendar
+In the current SY = Calendar End Date = 2024-04-01 00:00:00
+Old Calendar
+Old Calendar
+In the current SY = Calendar End Date = 2024-04-02 00:00:00
+Old Calendar
+Old Calendar
+In the current SY = Calendar End Date = 2024-04-08 00:00:00
+Old Calendar
+Old Calendar
+In the current SY = Calendar End Date = 2024-04-08 00:00:00
+Old Calendar
+Old Calendar
+In the current SY = Calendar End Date = 2024-04-08 00:00:00
+Old Calendar
+Old Calendar
+In the current SY = Calendar End Date = 2024-04-15 00:00:00
+Old Calendar
+Old Calendar
+In the current SY = Calendar End Date = 2024-04-15 00:00:00
+Old Calendar
+Old Calendar
+In the current SY = Calendar End Date = 2024-04-15 00:00:00
+Old Calendar
+Old Calendar
+In the current SY = Calendar End Date = 2024-04-22 00:00:00
+Old Calendar
+Old Calendar
+In the current SY = Calendar End Date = 2024-04-22 00:00:00
+Old Calendar
+Old Calendar
+In the current SY = Calendar End Date = 2024-04-22 00:00:00
+Old Calendar
+Old Calendar
+In the current SY = Calendar End Date = 2024-04-29 00:00:00
+Old Calendar
+Old Calendar
+In the current SY = Calendar End Date = 2024-04-29 00:00:00
+Old Calendar
+Old Calendar
+In the current SY = Calendar End Date = 2024-04-29 00:00:00
+Old Calendar
+Old Calendar
+In the current SY = Calendar End Date = 2024-05-06 00:00:00
+Old Calendar
+Old Calendar
+In the current SY = Calendar End Date = 2024-05-06 00:00:00
+Old Calendar
+Old Calendar
+In the current SY = Calendar End Date = 2024-05-06 00:00:00
+Old Calendar
+Old Calendar
+In the current SY = Calendar End Date = 2024-05-13 00:00:00
+Old Calendar
+Old Calendar
+In the current SY = Calendar End Date = 2024-05-13 00:00:00
+Old Calendar
+Old Calendar
+In the current SY = Calendar End Date = 2024-05-13 00:00:00
+Old Calendar
+Old Calendar
+In the current SY = Calendar End Date = 2024-05-20 00:00:00
+Old Calendar
+Old Calendar
+In the current SY = Calendar End Date = 2024-05-20 00:00:00
+Old Calendar
+Old Calendar
+In the current SY = Calendar End Date = 2024-05-20 00:00:00
+Old Calendar
+Old Calendar
+In the current SY = Calendar End Date = 2024-05-28 00:00:00
+Old Calendar
+Old Calendar
+In the current SY = Calendar End Date = 2024-05-24 00:00:00
+Old Calendar
+Old Calendar
+In the current SY = Calendar End Date = 2024-05-24 00:00:00
+Old Calendar
+Old Calendar
+In the current SY = Calendar End Date = 2024-08-12 00:00:00
+Traceback (most recent call last):
+  File "C:\Users\samuel.taylor\Desktop\Python_Scripts\Workday\WORKDAY_PIPELINE_2.0\main.py", line 157, in <module>
+    CA_2023 = process('CA', WTO_, LOA_, All_, fall_cal_2023, year_str_2023)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\samuel.taylor\Desktop\Python_Scripts\Workday\WORKDAY_PIPELINE_2.0\main.py", line 113, in process
+    region = fixing_employee_calendar.initial_mapping_calendar_start_end(region, region_first_day, calendar_dict)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\samuel.taylor\Desktop\Python_Scripts\Workday\WORKDAY_PIPELINE_2.0\modules\fixing_employee_calendar_module.py", line 103, in initial_mapping_calendar_start_end
+    region['Calendar End Date'] = region['Calendar End Date'].replace('Error', list(calendar_dict.values())[-1])
+                                                                               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^
+IndexError: list index out of range
+In the current SY = Calendar End Date = 2024-08-12 00:00:00
+Traceback (most recent call last):
+  File "C:\Users\samuel.taylor\Desktop\Python_Scripts\Workday\WORKDAY_PIPELINE_2.0\main.py", line 157, in <module>
+    CA_2023 = process('CA', WTO_, LOA_, All_, fall_cal_2023, year_str_2023)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\samuel.taylor\Desktop\Python_Scripts\Workday\WORKDAY_PIPELINE_2.0\main.py", line 113, in process
+    region = fixing_employee_calendar.initial_mapping_calendar_start_end(region, region_first_day, calendar_dict)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\samuel.taylor\Desktop\Python_Scripts\Workday\WORKDAY_PIPELINE_2.0\modules\fixing_employee_calendar_module.py", line 103, in initial_mapping_calendar_start_end
+    region['Calendar End Date'] = region['Calendar End Date'].replace('Error', list(calendar_dict.values())[-1])
+                                                                               ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^
+IndexError: list index out of range
+Traceback (most recent call last):
+  File "C:\Users\samuel.taylor\Desktop\Python_Scripts\Workday\WORKDAY_PIPELINE_2.0\main.py", line 60, in <module>
+    All_, LOA_, WTO_ = read_in_and_format_xml()
+                       ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\samuel.taylor\Desktop\Python_Scripts\Workday\WORKDAY_PIPELINE_2.0\main.py", line 39, in read_in_and_format_xml
+    termination = WD.get_report(terms_by_date_range)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\samuel.taylor\Desktop\Python_Scripts\Workday\WORKDAY_PIPELINE_2.0\modules\data_request_module.py", line 33, in get_report
+    raise Exception(logging.info('Failed to get Workday Reports'))
+Exception: None
+Traceback (most recent call last):
+  File "C:\Users\samuel.taylor\Desktop\Python_Scripts\Workday\WORKDAY_PIPELINE_2.0\main.py", line 60, in <module>
+    All_, LOA_, WTO_ = read_in_and_format_xml()
+                       ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\samuel.taylor\Desktop\Python_Scripts\Workday\WORKDAY_PIPELINE_2.0\main.py", line 39, in read_in_and_format_xml
+    termination = WD.get_report(terms_by_date_range)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\samuel.taylor\Desktop\Python_Scripts\Workday\WORKDAY_PIPELINE_2.0\modules\data_request_module.py", line 33, in get_report
+    raise Exception(logging.info('Failed to get Workday Reports'))
+Exception: None
+Traceback (most recent call last):
+  File "C:\Users\samuel.taylor\Desktop\Python_Scripts\Workday\WORKDAY_PIPELINE_2.0\main.py", line 60, in <module>
+    All_, LOA_, WTO_ = read_in_and_format_xml()
+                       ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\samuel.taylor\Desktop\Python_Scripts\Workday\WORKDAY_PIPELINE_2.0\main.py", line 42, in read_in_and_format_xml
+    LOA = WD.get_report(LOA)
+          ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\samuel.taylor\Desktop\Python_Scripts\Workday\WORKDAY_PIPELINE_2.0\modules\data_request_module.py", line 30, in get_report
+    doc = doc['wd:Report_Data']['wd:Report_Entry']
+          ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'wd:Report_Entry'
+Traceback (most recent call last):
+  File "C:\Users\samuel.taylor\Desktop\Python_Scripts\Workday\WORKDAY_PIPELINE_2.0\main.py", line 60, in <module>
+    All_, LOA_, WTO_ = read_in_and_format_xml()
+                       ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\samuel.taylor\Desktop\Python_Scripts\Workday\WORKDAY_PIPELINE_2.0\main.py", line 42, in read_in_and_format_xml
+    LOA = WD.get_report(LOA)
+          ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\samuel.taylor\Desktop\Python_Scripts\Workday\WORKDAY_PIPELINE_2.0\modules\data_request_module.py", line 30, in get_report
+    doc = doc['wd:Report_Data']['wd:Report_Entry']
+          ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'wd:Report_Entry'
+Traceback (most recent call last):
+  File "C:\Users\samuel.taylor\Desktop\Python_Scripts\Workday\WORKDAY_PIPELINE_2.0\main.py", line 60, in <module>
+    All_, LOA_, WTO_ = read_in_and_format_xml()
+                       ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\samuel.taylor\Desktop\Python_Scripts\Workday\WORKDAY_PIPELINE_2.0\main.py", line 42, in read_in_and_format_xml
+    LOA = WD.get_report(LOA)
+          ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\samuel.taylor\Desktop\Python_Scripts\Workday\WORKDAY_PIPELINE_2.0\modules\data_request_module.py", line 30, in get_report
+    doc = doc['wd:Report_Data']['wd:Report_Entry']
+          ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'wd:Report_Entry'
+Traceback (most recent call last):
+  File "C:\Users\samuel.taylor\Desktop\Python_Scripts\Workday\WORKDAY_PIPELINE_2.0\main.py", line 60, in <module>
+    All_, LOA_, WTO_ = read_in_and_format_xml()
+                       ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\samuel.taylor\Desktop\Python_Scripts\Workday\WORKDAY_PIPELINE_2.0\main.py", line 42, in read_in_and_format_xml
+    LOA = WD.get_report(LOA)
+          ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\samuel.taylor\Desktop\Python_Scripts\Workday\WORKDAY_PIPELINE_2.0\modules\data_request_module.py", line 30, in get_report
+    doc = doc['wd:Report_Data']['wd:Report_Entry']
+          ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'wd:Report_Entry'
+Traceback (most recent call last):
+  File "C:\Users\samuel.taylor\Desktop\Python_Scripts\Workday\WORKDAY_PIPELINE_2.0\main.py", line 60, in <module>
+    All_, LOA_, WTO_ = read_in_and_format_xml()
+                       ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\samuel.taylor\Desktop\Python_Scripts\Workday\WORKDAY_PIPELINE_2.0\main.py", line 42, in read_in_and_format_xml
+    LOA = WD.get_report(LOA)
+          ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\samuel.taylor\Desktop\Python_Scripts\Workday\WORKDAY_PIPELINE_2.0\modules\data_request_module.py", line 30, in get_report
+    doc = doc['wd:Report_Data']['wd:Report_Entry']
+          ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'wd:Report_Entry'
+Traceback (most recent call last):
+  File "C:\Users\samuel.taylor\Desktop\Python_Scripts\Workday\WORKDAY_PIPELINE_2.0\main.py", line 60, in <module>
+    All_, LOA_, WTO_ = read_in_and_format_xml()
+                       ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\samuel.taylor\Desktop\Python_Scripts\Workday\WORKDAY_PIPELINE_2.0\main.py", line 42, in read_in_and_format_xml
+    LOA = WD.get_report(LOA)
+          ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\samuel.taylor\Desktop\Python_Scripts\Workday\WORKDAY_PIPELINE_2.0\modules\data_request_module.py", line 30, in get_report
+    doc = doc['wd:Report_Data']['wd:Report_Entry']
+          ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'wd:Report_Entry'
+Traceback (most recent call last):
+  File "C:\Users\samuel.taylor\Desktop\Python_Scripts\Workday\WORKDAY_PIPELINE_2.0\main.py", line 60, in <module>
+    All_, LOA_, WTO_ = read_in_and_format_xml()
+                       ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\samuel.taylor\Desktop\Python_Scripts\Workday\WORKDAY_PIPELINE_2.0\main.py", line 42, in read_in_and_format_xml
+    LOA = WD.get_report(LOA)
+          ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\samuel.taylor\Desktop\Python_Scripts\Workday\WORKDAY_PIPELINE_2.0\modules\data_request_module.py", line 30, in get_report
+    doc = doc['wd:Report_Data']['wd:Report_Entry']
+          ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^
+KeyError: 'wd:Report_Entry'
+In the current SY = Calendar End Date = 2024-08-19 00:00:00
+Old Calendar
+Old Calendar
+In the current SY = Calendar End Date = 2024-08-26 00:00:00
+Old Calendar
+Old Calendar

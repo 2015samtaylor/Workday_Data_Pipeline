@@ -2,6 +2,7 @@ import sqlalchemy
 import urllib
 import logging
 import time
+from modules.calendar_query_module import calendar_query
 start_time = time.time()
 
 # ------------------------------------------------------------------send to 89 server--------------------------------------
@@ -39,3 +40,22 @@ class sending_sql:
               engine.dispose()
               how_long = time.time() - start_time
               logging.info('Data sent to SQL in {} seconds\n-----------------------'.format(how_long))
+
+
+def sql_calls(region_acronym, fall_prior = None, spring_prior = None):
+
+    #This is called for this year, overrode by fall_prior and spring_prior if they exist
+    spring, fall = calendar_query.date_filter()
+
+    #If fall prior exists then override fall variable, else pass on it. Same for spring
+    if fall_prior is not None:
+        fall = fall_prior
+    if spring_prior is not None:
+        spring = spring_prior
+    
+    logging.info(f'The {region_acronym} fall and spring years for the SQL query are {fall}-{spring}')
+    region_cal = calendar_query.calendar_process(region_acronym, fall, spring)
+
+    year_acronym = str(region_cal.iloc[0]['DATE_VALUE'].year) + '-' + str(region_cal.iloc[-1]['DATE_VALUE'].year)
+
+    return(region_cal, year_acronym)

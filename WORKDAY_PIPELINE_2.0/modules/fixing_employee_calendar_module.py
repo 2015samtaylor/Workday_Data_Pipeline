@@ -2,9 +2,9 @@ import pandas as pd
 import os
 import numpy as np 
 from modules.calendar_query_module import calendar_query
+from modules.transformation_module import *
 import logging
 from datetime import datetime
-from modules.transformation_module import transformation
 
 #At the point where I can assume that I have the calendar for all regions
 
@@ -163,7 +163,7 @@ class fixing_employee_calendar:
 
 
 
-    def write_out_terminations(region, region_original, acronym, year_str):
+    def write_out_terminations(region, region_original, year_str):
         
         #See what Emps have been dropped, write to a csv
         region_original['Term_Date'] = region_original['Term_Date'].astype(str)
@@ -181,7 +181,7 @@ class fixing_employee_calendar:
         except:
             pass
 
-        file_path = os.getcwd() + f'\\csvs\\{acronym}_Employees_Dropped_{year_str}.csv'
+        file_path = os.getcwd() + f'\\csvs\\CA_Employees_Dropped_{year_str}.csv'
         
         # Check if the file exists before writing
         if not os.path.exists(file_path):

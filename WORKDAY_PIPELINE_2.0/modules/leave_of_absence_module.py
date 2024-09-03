@@ -106,6 +106,7 @@ class leave_of_absence:
     def create_total_leave_days(LOA_SY, region, fall_cal):
 
         region_original = region.copy()
+        region = region.rename(columns={'Business_Title': 'Title'})
 
         fall_cal['DATE_VALUE'] = pd.to_datetime(fall_cal['DATE_VALUE'])
         region['Hire_Date'] = pd.to_datetime(region['Hire_Date'])
@@ -172,7 +173,7 @@ class leave_of_absence:
     # # -------------------------------------calling on all employees to see if their Leave of Absences were during days off
     # IF the employee is currently on LOA the Last Day LOA will default to today. 
 
-    def check(LOA_SY, sql_frame, WTO_, region_first_day, region_last_day):
+    def check(LOA_SY, fall_cal, WTO_, region_first_day, region_last_day):
 
         WTO_['Time Off Date'] = pd.to_datetime(WTO_['Time Off Date'])
         WTO_SY = WTO_.loc[(WTO_['Time Off Date'] >= region_first_day) & (WTO_['Time Off Date'] <= region_last_day)]
@@ -182,7 +183,7 @@ class leave_of_absence:
         all_results = []  # Create an empty list to store results for all employees
 
         for i in range(len(Emp_ID)):
-            emp_results = leave_of_absence.loop_through_emps(i, LOA_SY, sql_frame, WTO_SY)  # Call loop_through_emps for each employee
+            emp_results = leave_of_absence.loop_through_emps(i, LOA_SY, fall_cal, WTO_SY)  # Call loop_through_emps for each employee
             all_results.extend(emp_results)  # Extend the all_results list with results for this employee
 
         out = pd.DataFrame(all_results, columns=['Employee ID', 'First Day LOA', 'WTO Day', 'Last Day LOA', 'Status'])
