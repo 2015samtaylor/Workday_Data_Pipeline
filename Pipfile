@@ -4,6 +4,12 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+numpy = "==1.23.4"
+pandas = "==1.5.1"
+pyodbc = "==4.0.35"
+requests = "==2.32.3"
+sqlalchemy = "==1.4.46"
+xmltodict = "==0.13.0"
 
 [dev-packages]
 

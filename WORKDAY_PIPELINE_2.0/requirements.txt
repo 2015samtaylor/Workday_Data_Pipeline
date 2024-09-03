@@ -1,0 +1,6 @@
+numpy==1.23.4
+pandas==1.5.1
+pyodbc==4.0.35
+Requests==2.32.3
+SQLAlchemy==1.4.46
+xmltodict==0.13.0
