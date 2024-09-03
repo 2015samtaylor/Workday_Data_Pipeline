@@ -11,7 +11,7 @@ class sending_sql:
 
        def send_sql(final):
 
-              quoted = urllib.parse.quote_plus("Driver={SQL Server Native Client 11.0};"
+              quoted = urllib.parse.quote_plus("Driver={ODBC Driver 17 for SQL Server};"
                                    "Server=10.0.0.89;"
                                    "Database=DataTeamSandbox;"
                                    "Trusted_Connection=yes;")
