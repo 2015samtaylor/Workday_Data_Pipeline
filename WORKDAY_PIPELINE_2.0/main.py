@@ -72,11 +72,8 @@ def main():
     return(WB)
 
 
-WB = main()
-
-
 try:
-    main() 
+    WB = main() 
     logging.info('Process was a success')
     logger.log_job('Success')
     logger.send_frame_to_SQL()
@@ -84,3 +81,7 @@ except Exception as e:
     logging.info(f'Process failed due to the following: {e}')
     logger.log_job('Failure')
     logger.send_frame_to_SQL()
+
+
+#Potentially remove HO employees due to differing Calendars. 
+#Stipulation is that all attendance here is for the SY regardless of HO status

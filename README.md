@@ -1,13 +1,13 @@
 ### What is this repository for? ###
 
 * Python script interacts with custom reports set up on Workday - Worker Time Off, Leave of Absence, All Roster, & Terminations in order to calculate Average Daily Attendance.
-* The script calculates **school year attendance** for all employees in CA, TN, TX for the years 2021-2022, 2022-2023, 2023-2024
+* The script calculates **school year attendance** for school employees in CA for the current year
 * The script is set to udpate once a week, given the custom reports from Workday update Monday mornings at 10:05 (Ran in a batch file). 
 
 
 ### Major pipeline obstacles ###
 * No API access, and using a workaround by making a request to Workday files and parsing them coming across as XML files
-* Utilizing multiple Calendars for multiple regions for multiple years
+* Utilizing multiple Calendars for multiple years
 * Accounting for leaves of absences beginning before the school year and ending during
 * Accounting for leaves of absences beginning during the school year, and ending after
 * Worker Time Off overlapping with Leaves of Absences
@@ -33,14 +33,6 @@ To get started with this project, follow the steps below:
    cd your-repo
    ```  
    Modify the config.py to have proper credentials to make requests to the Workday reports
-
-2. **Install Pipenv:**
-
-   If you haven't already installed Pipenv, you can do so using pip (Python's package manager):
-
-   ```bash
-   pip install pipenv
-   ```
 
 3. **Set Up the Virtual Environment:**
 
@@ -73,7 +65,7 @@ To get started with this project, follow the steps below:
 ### Who do I talk to? ###
 
 * Repo owner - Sam Taylor
-* File will run on 10.0.0.124 server Monday mornings at 10:10 AM
+* File will run on 10.0.0.32 server Monday mornings at 10:10 AM
 * REFER TO module_documentation for specifics of each method
 
 

@@ -61,6 +61,9 @@ class leave_of_absence:
         LOA_['Actual Last Day']= pd.to_datetime(LOA_['Actual Last Day'])
         LOA_['First Day']= pd.to_datetime(LOA_['First Day'])
 
+        # Fill 'NaT' values in the 'Actual Last Day' column with today's date. This is for Emps where there leaves have surpassed 
+        #their estimated timespan and are still going. Therefore no actual last day is inplace. Default to today for calculations
+        LOA_['Actual Last Day'] = LOA_['Actual Last Day'].fillna(pd.Timestamp.today().normalize())
 
         #If the Leave of Absence began during the SY, or ended during the SY maintain these rows. 
         LOA_ = LOA_.loc[LOA_['First Day'] < region_last_day]
@@ -116,7 +119,16 @@ class leave_of_absence:
         spring_year = fall_cal.iloc[-1]['DATE_VALUE'].year
 
         #Group Total Leave Days by Employee ID and map it over to the region frame
-        LOA_SY['Total Leave Days'] = LOA_SY['Calendar End Date'] - LOA_SY['Calendar Start Date'] + 1
+        LOA_SY['Total Leave Days'] = LOA_SY['Calendar End Date'] - LOA_SY['Calendar Start Date']
+
+        # Add 1 to 'Total Leave Days' where 'Calendar Start Date' is 1 to acount for first day of leave after the calc
+        LOA_SY.loc[LOA_SY['Calendar Start Date'] == 1, 'Total Leave Days'] += 1
+
+        #THis might not be necessary with Calendar dict fix
+
+        # Add 1 to 'Total Leave Days' where 'Actual Last Day' is greater than today's date. (For emps on leave still to account for today)
+        # LOA_SY['Total Leave Days'] = LOA_SY.apply(lambda row: row['Total Leave Days'] + 1 if row['Actual Last Day'] > datetime.today() else row['Total Leave Days'], axis=1)
+
         total_total = dict(LOA_SY.groupby(['Employee ID'])['Total Leave Days'].sum())
 
         region['LOA Days'] = region['Emp_ID'].map(total_total).fillna(0)

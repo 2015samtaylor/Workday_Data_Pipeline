@@ -68,7 +68,7 @@ class fixing_employee_calendar:
             calendar_end_date = pd.Timestamp(nearest_row.index.values[0])
 
             #modify the calendar dict if we are currently in the SY. THis provides proper Calendar End Date
-            calendar_dict = {key: value for key, value in calendar_dict.items() if key < calendar_end_date}
+            calendar_dict = {key: value for key, value in calendar_dict.items() if key <= calendar_end_date}
 
             print(f'In the current SY = Calendar End Date = {calendar_end_date}')
             logging.info(f'In the current SY - Calendar End Date - {calendar_end_date}')     

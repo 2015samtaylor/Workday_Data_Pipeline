@@ -30,12 +30,14 @@ def process(WTO_, LOA_, All_, fall_cal, year_str):
     #region_original, & original_hire_dict returned here for tranparency in testing
     region, region_original, original_hire_dict = fixing_employee_calendar.generate_and_apply_dictionary(region, fall_cal, calendar_dict, 'Calendar Start Date')
     
+
     #map correct first and last day, figure out LOA's that are ongoing and have yet to come and correct calendar dates
     LOA_SY = leave_of_absence.map_LOA_first_last(LOA_, calendar_dict, region_first_day, region_last_day)
+ 
 
     #create the WB that has LOA days for given year with Calendar Start & End Date
     #This is also where EMPS are dropped based on their Original Hire Date
-    WB, region_original = leave_of_absence.create_total_leave_days(LOA_SY, region, fall_cal)
+    WB, region_original = leave_of_absence.create_total_leave_days(LOA_SY, region, fall_cal) 
 
     # Opportunity to catch any emps that have been dropped from the region frame
     fixing_employee_calendar.write_out_terminations(WB, region_original, year_str)
@@ -43,12 +45,12 @@ def process(WTO_, LOA_, All_, fall_cal, year_str):
     #create an output that tells whether WTO was during LOA
     output, WTO_SY = leave_of_absence.check(LOA_SY, fall_cal, WTO_, region_first_day, region_last_day)
 
+
     #Return the WTO for this SY, with wrong days removed
     WTO_SY = worker_time_off.remove_WTO_during_LOA(output, WTO_SY)
 
     WB = worker_time_off.map_new_absence_days(WTO_SY, WB)
     
-
     #Identify instances when rehired in middle of year after a termination
     rehires = fixing_employee_calendar.locate_rehires(WB, region_first_day, region_last_day)
 
